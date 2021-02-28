@@ -2250,9 +2250,6 @@ function queueStateChanges(component, newState, callback, force) {
         if (QUEUE.indexOf(component) === -1) {
             QUEUE.push(component);
         }
-        if (force) {
-            component.$F = true;
-        }
         if (!microTaskPending) {
             microTaskPending = true;
             nextTick(rerender);
@@ -2281,9 +2278,7 @@ function rerender() {
     microTaskPending = false;
     while ((component = QUEUE.shift())) {
         if (!component.$UN) {
-            var force = component.$F;
-            component.$F = false;
-            applyState(component, force);
+            applyState(component, false);
             if (component.$QU) {
                 callSetStateCallbacks(component);
             }
@@ -2319,7 +2314,6 @@ var Component = function Component(props, context) {
     this.$N = false; // Uses new lifecycle API Flag
     this.$L = null; // Current lifecycle of this component
     this.$SVG = false; // Flag to keep track if component is inside SVG tree
-    this.$F = false; // Force update flag
     this.props = props || EMPTY_OBJ;
     this.context = context || EMPTY_OBJ; // context should not be mutable
 };
@@ -2342,7 +2336,7 @@ Component.prototype.render = function render (_nextProps, _nextState, _nextConte
     return null;
 };
 
-var version = "7.4.8";
+var version = "7.4.7";
 
 
 
@@ -2742,7 +2736,7 @@ module.exports = class AppPlay extends Component {
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 module.exports = {
-  'Web.Demo': __webpack_require__.e(/* import() */ 987).then(__webpack_require__.t.bind(__webpack_require__, 987, 23)),
+  'Mons': __webpack_require__.e(/* import() */ 191).then(__webpack_require__.t.bind(__webpack_require__, 191, 23)),
 }
 
 
@@ -3032,8 +3026,6 @@ module.exports = {
 /******/ 	})();
 /******/ 	
 /************************************************************************/
-var __webpack_exports__ = {};
-// This entry need to be wrapped in an IIFE because it need to be isolated against other modules in the chunk.
 (() => {
 __webpack_require__(787)/* .default */ .Z;
 

@@ -1,3 +1,3 @@
 module.exports = {
-  'Web.Demo': import('./Web.Demo.js'),
+  'Mons': import('./Mons.js'),
 }
