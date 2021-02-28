@@ -2190,38 +2190,21 @@ module.exports = (function() {
     const Mons$Map$build = x0 => Mons$Map$build$(x0);
     const Mons$map_source = List$cons$(List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbptbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbecbbxx.g.gfg.g.gxxbbefbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbfcbbxx.g.gfg.g.gxxbbffbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbgcbbxx.g.gfg.g.gxxbbgfbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbhcxx.g.gfg.g.gxxhfbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbicxx.g.gfg.g.gxxifbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbjcxx.g.gfg.g.gxxjfbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbkcxx.g.gfg.g.gxxkfbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbblcxx.g.gfg.g.gxxlfbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbmcxx.g.gfg.g.gxxmfbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbc0bbbbbbbbc1bbbbbbbbc2bbxx.g.gc3.g.gxxbbc4bbbbbbbbc5bbbbbbbbc6bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbd0bbbbbbbbd1bbbbbbbbd2bbxx.g.gd3.g.gxxbbd4bbbbbbbbd5bbbbbbbbd6bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbe0bbbbbbbbe1bbbbbbbbe2bbxx.g.ge3.g.gxxbbe4bbbbbbbbe5bbbbbbbbe6bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbf0bbbbbbbbf1bbbbbbxxf2xx.g.g.gf3.g.g.gxxf4xxbbbbbbf5bbbbbbbbf6bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbg0bbbbbbbbg1bbbbbbxxg2.g.g.g.gg3.g.g.g.gg4xxbbbbbbg5bbbbbbbbg6bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbba0bbbbbbbba1bbbbbbxxa2.g.g.g.ga3.g.g.g.ga4xxbbbbbba5bbbbbbbba6bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb0bbbbbbbbb1bbbbbbxxb2.g.g.g.gb3.g.g.g.gb4xxbbbbbbb5bbbbbbbbb6bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbh0bbbbbbbbh1bbbbbbxxh2.g.g.g.gh3.g.g.g.gh4xxbbbbbbh5bbbbbbbbh6bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbi0bbbbbbbbi1bbbbbbxxi2.g.g.gxxi3xx.g.g.gi4xxbbbbbbi5bbbbbbbbi6bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbj0bbbbbbbbj1bbbbbbxxj2.g.g.g.gj3mg.g.g.gj4xxbbbbbbj5bbbbbbbbj6bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbk0bbbbbbbbk1bbbbbbxxk2.g.g.g.gk3.g.g.g.gk4xxbbbbbbk5bbbbbbbbk6bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbl0bbbbbbbbl1bbbbbbxxl2.g.g.g.gl3.g.g.g.gl4xxbbbbbbl5bbbbbbbbl6bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbm0bbbbbbbbm1bbbbbbxxm2.g.g.g.gm3.g.gxxxxm4xxbbbbbbm5bbbbbbbbm6bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbn0bbbbbbbbn1bbbbbbbbn2xx.g.g.gn3.g.gxxxxn4bbbbbbbbn5bbbbbbbbn6bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbo0bbbbbbbbo1bbbbbbbbo2xx.g.g.go3.g.gxxbbo4bbbbbbbbo5bbbbbbbbo6bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbp0bbbbbbbbp1bbbbbbbbp2xxxxxxxxp3xxxxxxbbp4bbbbbbbbp4bbbbbbbbp6bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbq0bbbbbbbbq1bbbbbbbbq2xxbbbbbbq3bbbbxxbbq4bbbbbbbbq5bbbbbbbbq6bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbr0bbbbbbbbr1bbbbbbbbr2bbxxbbbbr3bbbbxxbbr4bbbbbbbbr5bbbbbbbbr6bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbs1bbbbbbbbs2bbxxbbbbs3bbbbxxbbs4bbbbbbbbs5bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbt1bbbbbbbbt2bbxxbbbbt3bbbbxxbbt4bbbbbbbbt5bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbu1bbbbbbbbu2bbxxbbbbu3bbbbxxbbu4bbbbbbbbu5bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbv1bbbbbbbbv2bbxxbbbbv3bbbbxxbbv4bbbbbbbbv5bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbw1bbbbbbbbw2bbxxxxxxw3xxxxxxbbw4bbbbbbbbw5bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbx1bbbbbbbbx2bbbbbbbbx3bbbbbbbbx4bbbbbbbbx5bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbby1bbbbbbbby2bbbbbbbby3bbbbbbbby4bbbbbbbby5bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbz1bbbbbbbbz2bbbbbbbbz3bbbbbbbbz4bbbbbbbbz5bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbacbbbbbbbbadbbbbbbbbaebbbbbbbbafbbbbbbbbagbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbcbbbbbbbbbdbbbbbbbbbebbbbbbbbbfbbbbbbbbbgbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbccbbbbbbbbcdbbbbbbbbcebbbbbbbbcfbbbbbbbbcgbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbdcbbbbbbbbddbbbbbbbbdebbbbbbbbdfbbbbbbbbdgbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbegbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbfgbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbhgbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbigbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbjgbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbkgbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbblgbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbmgbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$nil)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))), List$cons$(List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbpgpg.g.g.g.gpgpgbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbpgpg.g.gpt.g.g.gpgbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.g.g.g.gpgbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbpgpg.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.ghl.g.g.g.g.g.gpgpgpg.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.gpgpg.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.gpgpg.g.g.g.g.g.g.g.g.g.g.gpgpg.g.g.g.g.gpgpg.g.g.g.g.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.g.g.g.gpgbbbbbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbpg.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbpgpgpgbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.gpopopopopopopo.g.g.g.g.gbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.gpopopopopopopo.g.g.g.g.gbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.gpopopopopopopo.g.g.g.g.gbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbememememememem.g.g.g.g.g.gpgpgbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.gpopopopopopopo.g.g.g.g.gbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbpgememememememem.g.g.g.g.g.gpgpgpgbbbbbbbbbbbbbb.g.g.g.g.g.g.g.g.g.g.g.g.g.gbbbbbbbbpgpgpgpgpgpopopopopopopopgpgpgpgpgbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbpgememememememem.g.g.g.g.g.g.gpgpgbbbbbbbbbbbb.g.g.gmimimimimimimi.g.g.gpg.g.gbbbbbbpgpgpgpgpgpopopopopopopopgpgpgpgpgbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbpgpgememememememem.g.g.g.g.g.g.g.g.g.gbbbbbbbbbb.g.g.gmimimimimimimi.g.g.g.g.g.gbbbbbb.g.g.g.g.gpopopopopopopo.g.g.g.g.gbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbpgpgememememememem.g.g.g.g.g.g.g.g.g.g.ghl.g.g.g.g.g.gmimimimimimimi.g.g.g.g.g.gbbbbbb.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbpgpgemememememememenenenenenenen.g.g.g.g.g.g.g.g.g.g.gmimimimimimimi.g.g.gpgpg.gbbbbbb.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbpgpgemememememememenenenenenenen.g.g.g.g.g.g.g.g.g.g.gmimimimimimimi.g.g.gpgpg.gbbbbbbbbbb.g.g.g.g.g.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbpgpg.g.g.g.g.g.g.genenenenenenen.g.g.gbbbbbbbbbb.g.g.gmimimimimimimi.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbpgpgpgpg.g.g.g.g.genenenenenenenpgpgbbbbbbbbbbbb.g.g.gmimimimimimimi.g.g.gpgpg.gbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbpgpgpgpg.g.g.g.genenenenenenenpgpgbbbbbbbbbbbb.g.g.g.g.g.g.g.g.g.g.g.g.gpgpg.gbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbpgpgpgpgpg.g.g.genenenenenenenpgbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.gpg.g.g.g.g.gbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbpgpgpg.g.g.genenenenenenenbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbb.g.gmimimimimimimi.g.gbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbb.g.gmimimimimimimi.g.gbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbb.g.gmimimimimimimi.g.gbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbpgpgpgpgpgpg.gpgpgpgpgpgpgpgpgpgpgpg.g.g.g.gpgpgbbbbbbbbbbbb.g.gmimimimimimimi.g.gbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbpgpg.g.g.g.g.g.gbbbbbbbbpgpgpgpgpgpgpgpgpgpgpgpgpgpgpgpgpgpg.g.g.g.gpgpgbbbbbbbbbbbb.g.gmimimimimimimi.g.gbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbpgpgtrtrtrtrtrtrtr.gbbbbbb.gpgpgpgpgpgpgpgpgpgpgpg.gpgpgpgazazazazazazaz.gbbbbbbbbbbbb.g.gmimimimimimimi.g.gbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbpgpgtrtrtrtrtrtrtr.gbbbbbb.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.gazazazazazazaz.gbbbbbbbbbbbb.g.gmimimimimimimi.g.gbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.gtrtrtrtrtrtrtr.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.gazazazazazazaz.gbbbbbbbbbbbb.g.g.gpg.g.g.gpg.g.g.gbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.gtrtrtrtrtrtrtr.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.gazazazazazazaz.gbbbbbbbbbbbb.g.g.gpg.g.g.gpg.g.g.gbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.gtrtrtrtrtrtrtr.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.gazazazazazazaz.gbbbbbbbbbbbbbb.g.gpg.g.g.gpg.g.gbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.gtrtrtrtrtrtrtr.gbbbbbb.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.gazazazazazazaz.gbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.gtrtrtrtrtrtrtrpgbbbbbb.g.g.g.gpgpgpgpgpg.gpgpgpgpgpgpgazazazazazazaz.gbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.gpgpgpgbbbbbb.gpgpgpgpgpgpgpgpgpgpgpgpgpgpgpgpgpgpg.g.g.g.g.gbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.gpgpgbbbbbbbbpgpgpgpgpgpgpgpgpgpgpgpgpgpgpgpgpgpgpg.g.gpgpgpgbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbpgpgpgpg.gpgpgpgpgpgpgpg.g.g.gpgpgpg.g.g.gpgpgpgbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbpgpgcycycycycycycy.gbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbpgpgpgcycycycycycycy.g.gbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbpgpg.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbpgpg.gcycycycycycycy.g.gbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbpgpg.gzozozozozozozobbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.gcycycycycycycy.g.gbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.gzozozozozozozo.gbbbbbbbbbbbbbbbbbbbbbbbb.g.g.gcycycycycycycy.g.gbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.gzozozozozozozo.g.g.g.gpgpgpg.g.g.g.ghl.g.g.g.gcycycycycycycy.g.gbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.gzozozozozozozo.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.gcycycycycycycy.g.gbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbpg.g.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbpgpg.gzozozozozozozo.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbpgpgpg.g.g.g.g.g.g.gbbbbbbbbbbbbbbbb.g.g.gzozozozozozozopgpgbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbpgpg.g.g.g.g.g.gbbbbbbbbbbbbbbbbbb.g.g.gzozozozozozozo.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.gpg.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.gpg.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.gpg.g.g.g.gpg.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.gpg.g.g.g.g.g.g.g.gpg.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.gpg.g.g.g.g.g.g.g.gpg.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.gpg.g.g.g.gpg.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$cons$("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.g.g.g.g.g.gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", List$nil)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))), List$cons$(List$cons$("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", List$cons$("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", List$cons$("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", List$cons$("xxxxxxxxxxxxxx.g.g.g.g.g.gxxxxxxxxxxxxxx", List$cons$("xxxxxxxxxx.g.g.g.g.g.g.g.g.g.gxxxxxxxxxx", List$cons$("xxxxxxxx.g.g.g.g.g.g.g.g.g.g.g.gxxxxxxxx", List$cons$("xxxxxx.g.g.g.g.g.g.g.g.g.g.g.g.g.gxxxxxx", List$cons$("xxxxxx.g.g.g.g.g.g.g.g.g.g.g.g.g.gxxxxxx", List$cons$("xxxx.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.gxxxx", List$cons$("xxxx.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.gxxxx", List$cons$("xxxx.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.gxxxx", List$cons$("xxxx.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.gxxxx", List$cons$("xxxx.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.gxxxx", List$cons$("xxxxxx.g.g.g.g.g.g.g.g.g.g.g.g.g.gxxxxxx", List$cons$("xxxxxx.g.g.g.g.g.g.g.g.g.g.g.g.g.gxxxxxx", List$cons$("xxxxxxxx.g.g.g.g.g.g.g.g.g.g.g.gxxxxxxxx", List$cons$("xxxxxxxxxx.g.g.g.g.g.g.g.g.g.gxxxxxxxxxx", List$cons$("xxxxxxxxxxxxxx.g.g.g.g.g.gxxxxxxxxxxxxxx", List$cons$("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", List$cons$("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", List$nil)))))))))))))))))))), List$nil)));
 
-    function Mons$Screen$game$(_cmd$1, _turn$2) {
+    function Mons$Screen$welcome$(_idx$1) {
         var $409 = ({
-            _: 'Mons.Screen.game',
-            'cmd': _cmd$1,
-            'turn': _turn$2
+            _: 'Mons.Screen.welcome',
+            'idx': _idx$1
         });
         return $409;
     };
-    const Mons$Screen$game = x0 => x1 => Mons$Screen$game$(x0, x1);
-
-    function Mons$Turn$new$(_exec_hero$1, _hero_skill$2, _adve_skill$3, _play$4) {
-        var $410 = ({
-            _: 'Mons.Turn.new',
-            'exec_hero': _exec_hero$1,
-            'hero_skill': _hero_skill$2,
-            'adve_skill': _adve_skill$3,
-            'play': _play$4
-        });
-        return $410;
-    };
-    const Mons$Turn$new = x0 => x1 => x2 => x3 => Mons$Turn$new$(x0, x1, x2, x3);
-    const Mons$Skill$none = ({
-        _: 'Mons.Skill.none'
-    });
-    const Mons$Turn$empty = Mons$Turn$new$(Bool$false, Mons$Skill$none, Mons$Skill$none, 0);
+    const Mons$Screen$welcome = x0 => Mons$Screen$welcome$(x0);
 
     function App$Render$pix$(_pixs$1) {
-        var $411 = ({
+        var $410 = ({
             _: 'App.Render.pix',
             'pixs': _pixs$1
         });
-        return $411;
+        return $410;
     };
     const App$Render$pix = x0 => App$Render$pix$(x0);
 
@@ -2229,19 +2212,19 @@ module.exports = (function() {
         var self = _img$2;
         switch (self._) {
             case 'Image3D.new':
-                var $413 = self.capacity;
-                var $414 = self.buffer;
-                var $415 = Image3D$new$(_length$1, $413, $414);
-                var $412 = $415;
+                var $412 = self.capacity;
+                var $413 = self.buffer;
+                var $414 = Image3D$new$(_length$1, $412, $413);
+                var $411 = $414;
                 break;
         };
-        return $412;
+        return $411;
     };
     const Image3D$set_length = x0 => x1 => Image3D$set_length$(x0, x1);
 
     function Image3D$clear$(_img$1) {
-        var $416 = Image3D$set_length$(0, _img$1);
-        return $416;
+        var $415 = Image3D$set_length$(0, _img$1);
+        return $415;
     };
     const Image3D$clear = x0 => Image3D$clear$(x0);
 
@@ -2258,21 +2241,21 @@ module.exports = (function() {
                 var self = _list$3;
                 switch (self._) {
                     case 'List.cons':
-                        var $417 = self.head;
-                        var $418 = self.tail;
+                        var $416 = self.head;
+                        var $417 = self.tail;
                         var self = _index$2;
                         if (self === 0n) {
-                            var $420 = Maybe$some$($417);
-                            var $419 = $420;
+                            var $419 = Maybe$some$($416);
+                            var $418 = $419;
                         } else {
-                            var $421 = (self - 1n);
-                            var $422 = List$at$($421, $418);
-                            var $419 = $422;
+                            var $420 = (self - 1n);
+                            var $421 = List$at$($420, $417);
+                            var $418 = $421;
                         };
-                        return $419;
+                        return $418;
                     case 'List.nil':
-                        var $423 = Maybe$none;
-                        return $423;
+                        var $422 = Maybe$none;
+                        return $422;
                 };
             })();
             if (R.ctr === 'TCO') arg = R.arg;
@@ -2286,16 +2269,16 @@ module.exports = (function() {
         var self = List$at$(U32$to_nat$(_idx$2), _list$4);
         switch (self._) {
             case 'Maybe.some':
-                var $425 = self.value;
-                var $426 = $425;
-                var $424 = $426;
+                var $424 = self.value;
+                var $425 = $424;
+                var $423 = $425;
                 break;
             case 'Maybe.none':
-                var $427 = Mons$Object$void;
-                var $424 = $427;
+                var $426 = Mons$Object$void;
+                var $423 = $426;
                 break;
         };
-        return $424;
+        return $423;
     };
     const Mons$Map$get = x0 => x1 => x2 => Mons$Map$get$(x0, x1, x2);
 
@@ -2303,16 +2286,16 @@ module.exports = (function() {
         var self = Mons$Game$get_hero_pos$(_game$1);
         switch (self._) {
             case 'Maybe.some':
-                var $429 = self.value;
-                var $430 = (($429 >>> 24));
-                var $428 = $430;
+                var $428 = self.value;
+                var $429 = (($428 >>> 24));
+                var $427 = $429;
                 break;
             case 'Maybe.none':
-                var $431 = 0;
-                var $428 = $431;
+                var $430 = 0;
+                var $427 = $430;
                 break;
         };
-        return $428;
+        return $427;
     };
     const Mons$Game$dim = x0 => Mons$Game$dim$(x0);
 
@@ -2320,25 +2303,25 @@ module.exports = (function() {
         var self = _obj$1;
         switch (self._) {
             case 'Mons.Object.new':
-                var $433 = self.bag;
-                var $434 = self.mon;
-                var _idx$13 = U32$to_nat$($434);
-                var self = List$at$(_idx$13, $433);
+                var $432 = self.bag;
+                var $433 = self.mon;
+                var _idx$13 = U32$to_nat$($433);
+                var self = List$at$(_idx$13, $432);
                 switch (self._) {
                     case 'Maybe.some':
-                        var $436 = self.value;
-                        var $437 = $436;
-                        var $435 = $437;
+                        var $435 = self.value;
+                        var $436 = $435;
+                        var $434 = $436;
                         break;
                     case 'Maybe.none':
-                        var $438 = _obj$1;
-                        var $435 = $438;
+                        var $437 = _obj$1;
+                        var $434 = $437;
                         break;
                 };
-                var $432 = $435;
+                var $431 = $434;
                 break;
         };
-        return $432;
+        return $431;
     };
     const Mons$Object$get_current_mon = x0 => Mons$Object$get_current_mon$(x0);
     const Mons$global_scr_mid = ((0 | 2048 | (2048 << 12) | (0 << 24)));
@@ -2348,21 +2331,21 @@ module.exports = (function() {
         switch (self._) {
             case 'Cmp.ltn':
             case 'Cmp.eql':
-                var $440 = Bool$false;
-                var $439 = $440;
+                var $439 = Bool$false;
+                var $438 = $439;
                 break;
             case 'Cmp.gtn':
-                var $441 = Bool$true;
-                var $439 = $441;
+                var $440 = Bool$true;
+                var $438 = $440;
                 break;
         };
-        return $439;
+        return $438;
     };
     const Cmp$as_gtn = x0 => Cmp$as_gtn$(x0);
 
     function Word$gtn$(_a$2, _b$3) {
-        var $442 = Cmp$as_gtn$(Word$cmp$(_a$2, _b$3));
-        return $442;
+        var $441 = Cmp$as_gtn$(Word$cmp$(_a$2, _b$3));
+        return $441;
     };
     const Word$gtn = x0 => x1 => Word$gtn$(x0, x1);
     const U32$gtn = a0 => a1 => (a0 > a1);
@@ -2371,22 +2354,22 @@ module.exports = (function() {
         var self = _cmp$1;
         switch (self._) {
             case 'Cmp.ltn':
-                var $444 = Bool$true;
-                var $443 = $444;
+                var $443 = Bool$true;
+                var $442 = $443;
                 break;
             case 'Cmp.eql':
             case 'Cmp.gtn':
-                var $445 = Bool$false;
-                var $443 = $445;
+                var $444 = Bool$false;
+                var $442 = $444;
                 break;
         };
-        return $443;
+        return $442;
     };
     const Cmp$as_ltn = x0 => Cmp$as_ltn$(x0);
 
     function Word$ltn$(_a$2, _b$3) {
-        var $446 = Cmp$as_ltn$(Word$cmp$(_a$2, _b$3));
-        return $446;
+        var $445 = Cmp$as_ltn$(Word$cmp$(_a$2, _b$3));
+        return $445;
     };
     const Word$ltn = x0 => x1 => Word$ltn$(x0, x1);
     const U32$ltn = a0 => a1 => (a0 < a1);
@@ -2400,41 +2383,41 @@ module.exports = (function() {
         var _mid_y_diff$11 = (Math.max(_mid_height$9 - _y$4, 0));
         var self = (_x$3 > _mid_width$8);
         if (self) {
-            var $448 = ((_g_x$6 + (Math.max(_x$3 - _mid_width$8, 0))) >>> 0);
-            var _upd_g_x$12 = $448;
+            var $447 = ((_g_x$6 + (Math.max(_x$3 - _mid_width$8, 0))) >>> 0);
+            var _upd_g_x$12 = $447;
         } else {
             var self = (_x$3 < _mid_width$8);
             if (self) {
-                var $450 = (Math.max(_g_x$6 - (Math.max(_mid_width$8 - _x$3, 0)), 0));
-                var $449 = $450;
+                var $449 = (Math.max(_g_x$6 - (Math.max(_mid_width$8 - _x$3, 0)), 0));
+                var $448 = $449;
             } else {
-                var $451 = _g_x$6;
-                var $449 = $451;
+                var $450 = _g_x$6;
+                var $448 = $450;
             };
-            var _upd_g_x$12 = $449;
+            var _upd_g_x$12 = $448;
         };
         var self = (_y$4 > _mid_height$9);
         if (self) {
-            var $452 = ((_g_y$7 + (Math.max(_y$4 - _mid_height$9, 0))) >>> 0);
-            var _upd_g_y$13 = $452;
+            var $451 = ((_g_y$7 + (Math.max(_y$4 - _mid_height$9, 0))) >>> 0);
+            var _upd_g_y$13 = $451;
         } else {
             var self = (_y$4 < _mid_height$9);
             if (self) {
-                var $454 = (Math.max(_g_y$7 - (Math.max(_mid_height$9 - _y$4, 0)), 0));
-                var $453 = $454;
+                var $453 = (Math.max(_g_y$7 - (Math.max(_mid_height$9 - _y$4, 0)), 0));
+                var $452 = $453;
             } else {
-                var $455 = _g_y$7;
-                var $453 = $455;
+                var $454 = _g_y$7;
+                var $452 = $454;
             };
-            var _upd_g_y$13 = $453;
+            var _upd_g_y$13 = $452;
         };
-        var $447 = ((0 | _upd_g_x$12 | (_upd_g_y$13 << 12) | (_lvl$5 << 24)));
-        return $447;
+        var $446 = ((0 | _upd_g_x$12 | (_upd_g_y$13 << 12) | (_lvl$5 << 24)));
+        return $446;
     };
     const Mons$image_to_global = x0 => x1 => x2 => x3 => x4 => Mons$image_to_global$(x0, x1, x2, x3, x4);
 
     function Mons$Attr$new$(_blocks$1, _mhp$2, _atk$3, _name$4, _wlk$5, _idl$6, _pic$7, _battle_spr$8, _skills$9, _pos$10) {
-        var $456 = ({
+        var $455 = ({
             _: 'Mons.Attr.new',
             'blocks': _blocks$1,
             'mhp': _mhp$2,
@@ -2447,7 +2430,7 @@ module.exports = (function() {
             'skills': _skills$9,
             'pos': _pos$10
         });
-        return $456;
+        return $455;
     };
     const Mons$Attr$new = x0 => x1 => x2 => x3 => x4 => x5 => x6 => x7 => x8 => x9 => Mons$Attr$new$(x0, x1, x2, x3, x4, x5, x6, x7, x8, x9);
 
@@ -2474,71 +2457,71 @@ module.exports = (function() {
             var self = _dir$4;
             switch (self._) {
                 case 'Mons.Dir.right':
-                    var $459 = List$cons$(_r_0$5, List$nil);
-                    var $458 = $459;
+                    var $458 = List$cons$(_r_0$5, List$nil);
+                    var $457 = $458;
                     break;
                 case 'Mons.Dir.up':
-                    var $460 = List$cons$(_u_0$6, List$nil);
-                    var $458 = $460;
+                    var $459 = List$cons$(_u_0$6, List$nil);
+                    var $457 = $459;
                     break;
                 case 'Mons.Dir.left':
-                    var $461 = List$cons$(_l_0$7, List$nil);
-                    var $458 = $461;
+                    var $460 = List$cons$(_l_0$7, List$nil);
+                    var $457 = $460;
                     break;
                 case 'Mons.Dir.down':
-                    var $462 = List$cons$(_d_0$8, List$nil);
-                    var $458 = $462;
+                    var $461 = List$cons$(_d_0$8, List$nil);
+                    var $457 = $461;
                     break;
             };
-            var $457 = $458;
+            var $456 = $457;
         } else {
             var self = ((((_t_x$1 + _t_y$2) >>> 0) % 2) === 0);
             if (self) {
                 var self = _dir$4;
                 switch (self._) {
                     case 'Mons.Dir.right':
-                        var $465 = List$cons$(_r_1$9, List$nil);
-                        var $464 = $465;
+                        var $464 = List$cons$(_r_1$9, List$nil);
+                        var $463 = $464;
                         break;
                     case 'Mons.Dir.up':
-                        var $466 = List$cons$(_u_1$10, List$nil);
-                        var $464 = $466;
+                        var $465 = List$cons$(_u_1$10, List$nil);
+                        var $463 = $465;
                         break;
                     case 'Mons.Dir.left':
-                        var $467 = List$cons$(_l_1$11, List$nil);
-                        var $464 = $467;
+                        var $466 = List$cons$(_l_1$11, List$nil);
+                        var $463 = $466;
                         break;
                     case 'Mons.Dir.down':
-                        var $468 = List$cons$(_d_1$12, List$nil);
-                        var $464 = $468;
+                        var $467 = List$cons$(_d_1$12, List$nil);
+                        var $463 = $467;
                         break;
                 };
-                var $463 = $464;
+                var $462 = $463;
             } else {
                 var self = _dir$4;
                 switch (self._) {
                     case 'Mons.Dir.right':
-                        var $470 = List$cons$(_r_2$13, List$nil);
-                        var $469 = $470;
+                        var $469 = List$cons$(_r_2$13, List$nil);
+                        var $468 = $469;
                         break;
                     case 'Mons.Dir.up':
-                        var $471 = List$cons$(_u_2$14, List$nil);
-                        var $469 = $471;
+                        var $470 = List$cons$(_u_2$14, List$nil);
+                        var $468 = $470;
                         break;
                     case 'Mons.Dir.left':
-                        var $472 = List$cons$(_l_2$15, List$nil);
-                        var $469 = $472;
+                        var $471 = List$cons$(_l_2$15, List$nil);
+                        var $468 = $471;
                         break;
                     case 'Mons.Dir.down':
-                        var $473 = List$cons$(_d_2$16, List$nil);
-                        var $469 = $473;
+                        var $472 = List$cons$(_d_2$16, List$nil);
+                        var $468 = $472;
                         break;
                 };
-                var $463 = $469;
+                var $462 = $468;
             };
-            var $457 = $463;
+            var $456 = $462;
         };
-        return $457;
+        return $456;
     };
     const Mons$walk_char_pack = x0 => x1 => x2 => x3 => x4 => x5 => x6 => x7 => x8 => x9 => x10 => x11 => x12 => x13 => x14 => x15 => Mons$walk_char_pack$(x0, x1, x2, x3, x4, x5, x6, x7, x8, x9, x10, x11, x12, x13, x14, x15);
     const U32$length = a0 => (a0.length);
@@ -2547,8 +2530,8 @@ module.exports = (function() {
 
     function Image3D$parse_byte$(_idx$1, _voxdata$2) {
         var _chr$3 = (_voxdata$2.slice(((_idx$1 * 2) >>> 0), ((((_idx$1 * 2) >>> 0) + 2) >>> 0)));
-        var $474 = (parseInt(_chr$3, 16));
-        return $474;
+        var $473 = (parseInt(_chr$3, 16));
+        return $473;
     };
     const Image3D$parse_byte = x0 => x1 => Image3D$parse_byte$(x0, x1);
     const Col32$new = a0 => a1 => a2 => a3 => ((0 | a0 | (a1 << 8) | (a2 << 16) | (a3 << 24)));
@@ -2556,30 +2539,30 @@ module.exports = (function() {
     function Word$trim$(_new_size$2, _word$3) {
         var self = _new_size$2;
         if (self === 0n) {
-            var $476 = Word$e;
-            var $475 = $476;
+            var $475 = Word$e;
+            var $474 = $475;
         } else {
-            var $477 = (self - 1n);
+            var $476 = (self - 1n);
             var self = _word$3;
             switch (self._) {
                 case 'Word.o':
-                    var $479 = self.pred;
-                    var $480 = Word$o$(Word$trim$($477, $479));
-                    var $478 = $480;
+                    var $478 = self.pred;
+                    var $479 = Word$o$(Word$trim$($476, $478));
+                    var $477 = $479;
                     break;
                 case 'Word.i':
-                    var $481 = self.pred;
-                    var $482 = Word$i$(Word$trim$($477, $481));
-                    var $478 = $482;
+                    var $480 = self.pred;
+                    var $481 = Word$i$(Word$trim$($476, $480));
+                    var $477 = $481;
                     break;
                 case 'Word.e':
-                    var $483 = Word$o$(Word$trim$($477, Word$e));
-                    var $478 = $483;
+                    var $482 = Word$o$(Word$trim$($476, Word$e));
+                    var $477 = $482;
                     break;
             };
-            var $475 = $478;
+            var $474 = $477;
         };
-        return $475;
+        return $474;
     };
     const Word$trim = x0 => x1 => Word$trim$(x0, x1);
     const Unit$new = 1;
@@ -2588,16 +2571,16 @@ module.exports = (function() {
         var self = _arr$2;
         switch (self._) {
             case 'Array.tip':
-                var $485 = self.value;
-                var $486 = $485;
-                var $484 = $486;
+                var $484 = self.value;
+                var $485 = $484;
+                var $483 = $485;
                 break;
             case 'Array.tie':
-                var $487 = Unit$new;
-                var $484 = $487;
+                var $486 = Unit$new;
+                var $483 = $486;
                 break;
         };
-        return $484;
+        return $483;
     };
     const Array$extract_tip = x0 => Array$extract_tip$(x0);
 
@@ -2605,17 +2588,17 @@ module.exports = (function() {
         var self = _arr$3;
         switch (self._) {
             case 'Array.tie':
-                var $489 = self.lft;
-                var $490 = self.rgt;
-                var $491 = Pair$new$($489, $490);
-                var $488 = $491;
+                var $488 = self.lft;
+                var $489 = self.rgt;
+                var $490 = Pair$new$($488, $489);
+                var $487 = $490;
                 break;
             case 'Array.tip':
-                var $492 = Unit$new;
-                var $488 = $492;
+                var $491 = Unit$new;
+                var $487 = $491;
                 break;
         };
-        return $488;
+        return $487;
     };
     const Array$extract_tie = x0 => Array$extract_tie$(x0);
 
@@ -2632,16 +2615,16 @@ module.exports = (function() {
                 var self = _word$6;
                 switch (self._) {
                     case 'Word.o':
-                        var $493 = self.pred;
-                        var $494 = Word$foldl$(_w0$4(_nil$3), _w0$4, _w1$5, $493);
-                        return $494;
+                        var $492 = self.pred;
+                        var $493 = Word$foldl$(_w0$4(_nil$3), _w0$4, _w1$5, $492);
+                        return $493;
                     case 'Word.i':
-                        var $495 = self.pred;
-                        var $496 = Word$foldl$(_w1$5(_nil$3), _w0$4, _w1$5, $495);
-                        return $496;
+                        var $494 = self.pred;
+                        var $495 = Word$foldl$(_w1$5(_nil$3), _w0$4, _w1$5, $494);
+                        return $495;
                     case 'Word.e':
-                        var $497 = _nil$3;
-                        return $497;
+                        var $496 = _nil$3;
+                        return $496;
                 };
             })();
             if (R.ctr === 'TCO') arg = R.arg;
@@ -2651,42 +2634,42 @@ module.exports = (function() {
     const Word$foldl = x0 => x1 => x2 => x3 => Word$foldl$(x0, x1, x2, x3);
 
     function Array$mut$(_idx$3, _f$4, _arr$5) {
-        var $498 = Word$foldl$((_arr$6 => {
-            var $499 = Array$tip$(_f$4(Array$extract_tip$(_arr$6)));
+        var $497 = Word$foldl$((_arr$6 => {
+            var $498 = Array$tip$(_f$4(Array$extract_tip$(_arr$6)));
+            return $498;
+        }), (_rec$7 => _arr$8 => {
+            var self = Array$extract_tie$(_arr$8);
+            switch (self._) {
+                case 'Pair.new':
+                    var $500 = self.fst;
+                    var $501 = self.snd;
+                    var $502 = Array$tie$(_rec$7($500), $501);
+                    var $499 = $502;
+                    break;
+            };
             return $499;
         }), (_rec$7 => _arr$8 => {
             var self = Array$extract_tie$(_arr$8);
             switch (self._) {
                 case 'Pair.new':
-                    var $501 = self.fst;
-                    var $502 = self.snd;
-                    var $503 = Array$tie$(_rec$7($501), $502);
-                    var $500 = $503;
+                    var $504 = self.fst;
+                    var $505 = self.snd;
+                    var $506 = Array$tie$($504, _rec$7($505));
+                    var $503 = $506;
                     break;
             };
-            return $500;
-        }), (_rec$7 => _arr$8 => {
-            var self = Array$extract_tie$(_arr$8);
-            switch (self._) {
-                case 'Pair.new':
-                    var $505 = self.fst;
-                    var $506 = self.snd;
-                    var $507 = Array$tie$($505, _rec$7($506));
-                    var $504 = $507;
-                    break;
-            };
-            return $504;
+            return $503;
         }), _idx$3)(_arr$5);
-        return $498;
+        return $497;
     };
     const Array$mut = x0 => x1 => x2 => Array$mut$(x0, x1, x2);
 
     function Array$set$(_idx$3, _val$4, _arr$5) {
-        var $508 = Array$mut$(_idx$3, (_x$6 => {
-            var $509 = _val$4;
-            return $509;
+        var $507 = Array$mut$(_idx$3, (_x$6 => {
+            var $508 = _val$4;
+            return $508;
         }), _arr$5);
-        return $508;
+        return $507;
     };
     const Array$set = x0 => x1 => x2 => Array$set$(x0, x1, x2);
     const Buffer32$set = a0 => a1 => a2 => ((a2[a0] = a1, a2));
@@ -2697,12 +2680,12 @@ module.exports = (function() {
     function Image3D$parse$(_voxdata$1) {
         var _siz$2 = (((_voxdata$1.length) / 12) >>> 0);
         var _img$3 = Image3D$alloc_capacity$(_siz$2);
-        var $510 = (() => {
-            var $511 = _img$3;
-            var $512 = 0;
-            var $513 = _siz$2;
-            let _img$5 = $511;
-            for (let _i$4 = $512; _i$4 < $513; ++_i$4) {
+        var $509 = (() => {
+            var $510 = _img$3;
+            var $511 = 0;
+            var $512 = _siz$2;
+            let _img$5 = $510;
+            for (let _i$4 = $511; _i$4 < $512; ++_i$4) {
                 var _x$6 = Image3D$parse_byte$(((((_i$4 * 6) >>> 0) + 0) >>> 0), _voxdata$1);
                 var _y$7 = Image3D$parse_byte$(((((_i$4 * 6) >>> 0) + 1) >>> 0), _voxdata$1);
                 var _z$8 = Image3D$parse_byte$(((((_i$4 * 6) >>> 0) + 2) >>> 0), _voxdata$1);
@@ -2712,12 +2695,12 @@ module.exports = (function() {
                 var _pos$12 = ((0 | _x$6 | (_y$7 << 12) | (_z$8 << 24)));
                 var _col$13 = ((0 | _r$9 | (_g$10 << 8) | (_b$11 << 16) | (255 << 24)));
                 var _img$14 = ((_img$5.buffer[_img$5.length * 2] = _pos$12, _img$5.buffer[_img$5.length * 2 + 1] = _col$13, _img$5.length++, _img$5));
-                var $511 = _img$14;
-                _img$5 = $511;
+                var $510 = _img$14;
+                _img$5 = $510;
             };
             return _img$5;
         })();
-        return $510;
+        return $509;
     };
     const Image3D$parse = x0 => Image3D$parse$(x0);
     const Mons$Assets$char$boy_r_0 = Image3D$parse$("83711a2c333d84711a2c333d7c72192c333d7d72192c333d7e72192c333d7f72192c333d8072192c333d8172192c333d8272192c333d8372195f35388472192c333d7b73182c333d7c73189f5b447d73189f5b447e73189f5b447f73189f5b448073189f5b448173189f5b448273186f403b8373185f35388473182c333d8573182c333d8673182c333d7a74172c333d7b74176f403b7c7417884e3f7d7417884e3f7e7417884e3f7f7417884e3f807417884e3f8174176f403b8274176f403b8374176f403b8474175f35388574175f35388674172c333d7975162c333d7a75165f35387b75166f403b7c75166f403b7d75166f403b7e75166f403b7f75166f403b8075166f403b8175166f403b8275166f403b8375166f403b8475166f403b8575165f35387976152c333d7a76155f35387b76156f403b7c76156f403b7d76156f403b7e76156f403b7f76156f403b8076156f403b8176156f403b8276156f403b8376155f35388476156f403b8576156f403b8676152c333d7977142c333d7a77145f35387b77145f35387c77146f403b7d77146f403b7e77146f403b7f77146f403b8077146f403b8177146f403b8277145f35388377142c333d8477145f35388577146f403b8677142c333d7978132c333d7a78135f35387b78135f35387c78135f35387d78135f35387e78136f403b7f78136f403b8078135f35388178135f35388278132c333d837813a5876e8478132c333d8578135f35388678132c333d7979122c333d7a79125f35387b79125f35387c79125f35387d79125f35387e79125f35387f79125f35388079122c333d8179122c333d827912a5876e8379122c333d847912a5876e8579122c333d7a7a112c333d7b7a115f35387c7a115f35387d7a115f35387e7a115f35387f7a112c333d807a11a5876e817a11ae9379827a11bba38a837a113f4353847a11cab89d857a112c333d7b7b102c333d7c7b102c333d7d7b102c333d7e7b102c333d7f7b10a5876e807b10ae9379817b10ae9379827b10db6176837b10fa83a9847b102c333d7c7c0f2c333d7d7c0f98202e7e7c0f98202e7f7c0f98202e807c0f98202e817c0fa43234827c0fb64c3b837c0fb64c3b847c0f2c333d7c7d0e2c333d7d7d0e98202e7e7d0e98202e7f7d0ea43234807d0ea43234817d0ea43234827d0ea43234837d0ea43234847d0e2c333d7c7e0d2c333d7d7e0d2a638e7e7e0d428a9b7f7e0d428a9b807e0d428a9b817e0d428a9b827e0d2a638e837e0d2c333d7c7f0c2c333d7d7f0c428a9b7e7f0c428a9b7f7f0c63a9a4807f0c63a9a4817f0c63a9a4827f0c63a9a4837f0c2c333d7c800b2c333d7d800b428a9b7e800b428a9b7f800b428a9b80800b63a9a481800b63a9a482800b63a9a483800b2c333d7c810a2c333d7d810a2a638e7e810a428a9b7f810a428a9b80810a428a9b81810a428a9b82810a2c333d7c82092c333d7d82092a638e7e82092a638e7f82092a638e8082092a638e8182092c333d7d83082c333d7e83082c333d7f83082c333d8083082c333d8183082c333d7d84072c333d7e8407ae93797f8407ae9379808407bba38a818407bba38a8284072c333d7e85062c333d7f85062c333d8085062c333d8185062c333d8285062c333d");
@@ -2737,17 +2720,20 @@ module.exports = (function() {
     const Mons$Skill$hero_kill = ({
         _: 'Mons.Skill.hero_kill'
     });
+    const Mons$Skill$none = ({
+        _: 'Mons.Skill.none'
+    });
     const Mons$Attr$new_hero = Mons$Attr$new$(Bool$false, 40, 0, "HERO", (_x$1 => _y$2 => _obj_ani$3 => _obj_dir$4 => {
-        var $514 = Mons$walk_char_pack$(_x$1, _y$2, _obj_ani$3, _obj_dir$4, Mons$Assets$char$boy_r_0, Mons$Assets$char$boy_u_0, Mons$Assets$char$boy_l_0, Mons$Assets$char$boy_d_0, Mons$Assets$char$boy_r_1, Mons$Assets$char$boy_u_1, Mons$Assets$char$boy_l_1, Mons$Assets$char$boy_d_1, Mons$Assets$char$boy_r_2, Mons$Assets$char$boy_u_2, Mons$Assets$char$boy_l_2, Mons$Assets$char$boy_d_2);
-        return $514;
+        var $513 = Mons$walk_char_pack$(_x$1, _y$2, _obj_ani$3, _obj_dir$4, Mons$Assets$char$boy_r_0, Mons$Assets$char$boy_u_0, Mons$Assets$char$boy_l_0, Mons$Assets$char$boy_d_0, Mons$Assets$char$boy_r_1, Mons$Assets$char$boy_u_1, Mons$Assets$char$boy_l_1, Mons$Assets$char$boy_d_1, Mons$Assets$char$boy_r_2, Mons$Assets$char$boy_u_2, Mons$Assets$char$boy_l_2, Mons$Assets$char$boy_d_2);
+        return $513;
     }), List$nil, Mons$Assets$char$boy_d_0, (_is_up$1 => {
-        var $515 = (_is_up$1 ? Mons$Assets$char$battle_boy_u : Mons$Assets$char$battle_boy_u);
-        return $515;
+        var $514 = (_is_up$1 ? Mons$Assets$char$battle_boy_u : Mons$Assets$char$battle_boy_u);
+        return $514;
     }), List$cons$(Mons$Skill$hero_kill, List$cons$(Mons$Skill$none, List$cons$(Mons$Skill$none, List$cons$(Mons$Skill$none, List$nil)))), Mons$global_scr_mid);
 
     function Mons$Kind$set_static_sprites$(_spr$1, _x$2, _y$3, _obj_ani$4, _obj_dir$5) {
-        var $516 = _spr$1;
-        return $516;
+        var $515 = _spr$1;
+        return $515;
     };
     const Mons$Kind$set_static_sprites = x0 => x1 => x2 => x3 => x4 => Mons$Kind$set_static_sprites$(x0, x1, x2, x3, x4);
     const Mons$Assets$char$mons_mage = Image3D$parse$("7d74172729607e74172729607f74172729608074172729608174172729608274172729607c75162729607d7516ae59b27e7516ae59b27f7516ae59b2807516ae59b2817516ae59b2827516ae59b28375162729607b76152729607c7615ae59b27d7615ae59b27e7615e7cb557f7615e7cb55807615e7cb55817615e7cb55827615ae59b2837615ae59b28476152729607a77142729607b7714ae59b27c7714e7cb557d7714e7cb557e77142729607f7714272960807714272960817714272960827714e7cb55837714e7cb55847714ae59b28577142729607978132729607a78138e4a9d7b7813d296437c78132729607d78132729607e7813ae93797f7813ae9379807813ae9379817813ae9379827813272960837813272960847813d296438578138e4a9d8678132729607879122729607979128e4a9d7a7912d296437b79122729607c7912ae93797d79122c333d7e79122c333d7f7912dacbb0807912dacbb08179122c333d8279122c333d837912ae9379847912272960857912d296438679128e4a9d877912272960787a11272960797a11d296437a7a112729607b7a11ae93797c7a112c333d7d7a11ffffff7e7a11ffffff7f7a112c333d807a112c333d817a11ffffff827a11ffffff837a112c333d847a11ae9379857a11272960867a11d29643877a11272960787b10272960797b10d296437a7b102729607b7b102c333d7c7b10428a9b7d7b10ffffff7e7b10ffffff7f7b102c333d807b102c333d817b10ffffff827b10ffffff837b10428a9b847b102c333d857b10272960867b10d29643877b10272960787c0f272960797c0fd296437a7c0f8e4a9d7b7c0fae93797c7c0fcab89d7d7c0f428a9b7e7c0f428a9b7f7c0f63a9a4807c0f63a9a4817c0f428a9b827c0f428a9b837c0fcab89d847c0fae9379857c0f8e4a9d867c0fd29643877c0f272960787d0e272960797d0e8e4a9d7a7d0eb96b337b7d0eae93797c7d0eae93797d7d0e63a9a47e7d0edacbb07f7d0ef0e8cc807d0ef0e8cc817d0edacbb0827d0e63a9a4837d0eae9379847d0eae9379857d0ed29643867d0e8e4a9d877d0e272960797e0d2729607a7e0db96b337b7e0d2c333d7c7e0dae93797d7e0dcab89d7e7e0ddacbb07f7e0ddacbb0807e0ddacbb0817e0ddacbb0827e0dcab89d837e0dae9379847e0d2c333d857e0db96b33867e0d2729607a7f0c2729607b7f0c2729607c7f0c2c333d7d7f0cae93797e7f0ccab89d7f7f0cdacbb0807f0cdacbb0817f0ccab89d827f0cae9379837f0c2c333d847f0c272960857f0c2729607a800b2729607b800b6a3a867c800b6a3a867d800bae93797e800bcab89d7f800bcab89d80800bcab89d81800bcab89d82800bae937983800b6a3a8684800b6a3a8685800b27296079810a2729607a810a6a3a867b810a6a3a867c810ad296437d810a6a3a867e810aae93797f810aae937980810aae937981810aae937982810a6a3a8683810ad2964384810a6a3a8685810a6a3a8686810a2729607982094a2b717a820990388a7b820990388a7c82094a2b717d82094a2b717e82092729607f8209705a58808209705a588182092729608282094a2b718382094a2b7184820990388a85820990388a8682094a2b717983084a2b717a830890388a7b830890388a7c830890388a7d830890388a7e83084a2b717f8308705a58808308705a588183084a2b7182830890388a83830890388a84830890388a85830890388a8683084a2b717984072729607a84074a2b717b84074a2b717c84074a2b717d84072729607e84074a2b717f8407705a58808407705a588184074a2b718284072729608384074a2b718484074a2b718584074a2b718684072729607a85062729607b85062729607c85062729607d8506705a587e8506705a587f8506272960808506272960818506705a58828506705a588385062729608485062729608585062729607c86052c333d7d8605ae93797e8605ae93797f86052c333d8086052c333d818605ae9379828605ae93798386052c333d7d87042c333d7e87042c333d8187042c333d8287042c333d");
@@ -2763,8 +2749,8 @@ module.exports = (function() {
     });
     const Mons$Skill$dummy_skills = List$cons$(Mons$Skill$hit_4, List$cons$(Mons$Skill$hit_2, List$cons$(Mons$Skill$heal, List$cons$(Mons$Skill$none, List$nil))));
     const Mons$Attr$new_mage = Mons$Attr$new$(Bool$false, 40, 0, "MAGE", Mons$Kind$set_static_sprites(List$cons$(Mons$Assets$char$mons_mage, List$nil)), List$cons$(Mons$Assets$char$mons_mage, List$nil), Mons$Assets$char$mons_mage, (_is_up$1 => {
-        var $517 = Mons$Assets$char$battle_mage_d;
-        return $517;
+        var $516 = Mons$Assets$char$battle_mage_d;
+        return $516;
     }), Mons$Skill$dummy_skills, Mons$image_to_global$(74, 74, 40, 12, 0));
     const Image3D$empty = Image3D$alloc_capacity$(100);
 
@@ -2772,54 +2758,54 @@ module.exports = (function() {
         var self = _spr$1;
         switch (self._) {
             case 'List.cons':
-                var $519 = self.head;
-                var $520 = $519;
-                var $518 = $520;
+                var $518 = self.head;
+                var $519 = $518;
+                var $517 = $519;
                 break;
             case 'List.nil':
-                var $521 = Image3D$empty;
-                var $518 = $521;
+                var $520 = Image3D$empty;
+                var $517 = $520;
                 break;
         };
-        return $518;
+        return $517;
     };
     const Mons$Kind$set_pic = x0 => Mons$Kind$set_pic$(x0);
 
     function Mons$Kind$set_default_battle_spr$(_is_up$1) {
-        var $522 = Image3D$empty;
-        return $522;
+        var $521 = Image3D$empty;
+        return $521;
     };
     const Mons$Kind$set_default_battle_spr = x0 => Mons$Kind$set_default_battle_spr$(x0);
 
     function Mons$Attr$new_neutral$(_spr$1) {
-        var $523 = Mons$Attr$new$(Bool$false, 0, 0, "", Mons$Kind$set_static_sprites(_spr$1), _spr$1, Mons$Kind$set_pic$(_spr$1), Mons$Kind$set_default_battle_spr, List$nil, Mons$global_scr_mid);
-        return $523;
+        var $522 = Mons$Attr$new$(Bool$false, 0, 0, "", Mons$Kind$set_static_sprites(_spr$1), _spr$1, Mons$Kind$set_pic$(_spr$1), Mons$Kind$set_default_battle_spr, List$nil, Mons$global_scr_mid);
+        return $522;
     };
     const Mons$Attr$new_neutral = x0 => Mons$Attr$new_neutral$(x0);
 
     function Mons$Kind$attr$(_kin$1) {
         var _default_pos$2 = Mons$global_scr_mid;
         var _set_pos_lvl1$3 = (_x$3 => _y$4 => {
-            var $525 = Mons$image_to_global$(80, 80, _x$3, _y$4, 1);
-            return $525;
+            var $524 = Mons$image_to_global$(80, 80, _x$3, _y$4, 1);
+            return $524;
         });
         var _set_pos_lvl2$4 = (_x$4 => _y$5 => {
-            var $526 = Mons$image_to_global$(20, 20, _x$4, _y$5, 2);
-            return $526;
+            var $525 = Mons$image_to_global$(20, 20, _x$4, _y$5, 2);
+            return $525;
         });
         var self = _kin$1;
         switch (self._) {
             case 'Mons.Kind.Mons':
-                var $527 = self.ele;
-                var self = $527;
+                var $526 = self.ele;
+                var self = $526;
                 switch (self._) {
                     case 'Mons.Kind.mons.HERO':
-                        var $529 = Mons$Attr$new_hero;
-                        var $528 = $529;
+                        var $528 = Mons$Attr$new_hero;
+                        var $527 = $528;
                         break;
                     case 'Mons.Kind.mons.MAGE':
-                        var $530 = Mons$Attr$new_mage;
-                        var $528 = $530;
+                        var $529 = Mons$Attr$new_mage;
+                        var $527 = $529;
                         break;
                     case 'Mons.Kind.mons.BEHOLDER':
                     case 'Mons.Kind.mons.ZOIO':
@@ -2831,20 +2817,20 @@ module.exports = (function() {
                     case 'Mons.Kind.mons.AZULA':
                     case 'Mons.Kind.mons.EMERELDER':
                     case 'Mons.Kind.mons.EMERELDER2':
-                        var $531 = Mons$Attr$new_neutral$(List$cons$(Image3D$empty, List$nil));
-                        var $528 = $531;
+                        var $530 = Mons$Attr$new_neutral$(List$cons$(Image3D$empty, List$nil));
+                        var $527 = $530;
                         break;
                 };
-                var $524 = $528;
+                var $523 = $527;
                 break;
             case 'Mons.Kind.Const':
             case 'Mons.Kind.Terrain':
             case 'Mons.Kind.Interactive':
-                var $532 = Mons$Attr$new_neutral$(List$cons$(Image3D$empty, List$nil));
-                var $524 = $532;
+                var $531 = Mons$Attr$new_neutral$(List$cons$(Image3D$empty, List$nil));
+                var $523 = $531;
                 break;
         };
-        return $524;
+        return $523;
     };
     const Mons$Kind$attr = x0 => Mons$Kind$attr$(x0);
 
@@ -2852,59 +2838,60 @@ module.exports = (function() {
         var self = _obj$1;
         switch (self._) {
             case 'Mons.Object.new':
-                var $534 = self.ani;
-                var $535 = $534;
-                var $533 = $535;
+                var $533 = self.ani;
+                var $534 = $533;
+                var $532 = $534;
                 break;
         };
-        return $533;
+        return $532;
     };
     const Mons$Object$get_ani = x0 => Mons$Object$get_ani$(x0);
 
     function Mons$Object$is_standing$(_obj$1) {
-        var $536 = (Mons$Object$get_ani$(_obj$1) === 0);
-        return $536;
+        var $535 = (Mons$Object$get_ani$(_obj$1) === 0);
+        return $535;
     };
     const Mons$Object$is_standing = x0 => Mons$Object$is_standing$(x0);
+    const Mons$Assets$screen$logo = Image3D$parse$("2f3e02242126303e02242126313e02242126323e02242126373e02242126383e02242126393e022421263a3e022421263b3e022421262e3f022421262f3f02242126303f02242126313f02242126323f02242126333f02242126363f02242126373f02242126383f02242126393f022421263a3f022421263b3f022421263c3f022421262d40022421262e40022421262f4002e079be304002e079be314002e079be324002e079be334002242126344002242126354002242126364002242126374002e079be384002e079be394002e079be3a4002e079be3b40022421263c40022421262d41022421262e41022421262f4102ae59b23041028e4a9d3141028e4a9d324102ae59b2334102242126344102242126354102242126364102242126374102ae59b23841028e4a9d3941028e4a9d3a4102ae59b23b41022421263c41022421262d42022421262e42022421262f42028e4a9d3042028e4a9d3142028e4a9d3242028e4a9d3342022421263442022421263542022421263642022421263742028e4a9d3842028e4a9d3942028e4a9d3a42028e4a9d3b42022421263c42022421262d43022421262e43022421262f43028e4a9d3043028e4a9d3143028e4a9d3243028e4a9d334302e079be344302e079be354302e079be364302e079be3743028e4a9d3843028e4a9d3943028e4a9d3a43028e4a9d3b43022421263c43022421263d43022421263e43022421263f43022421264043022421264143022421264243022421264c43022421264d43022421264e43022421264f43022421265043022421265143022421265243022421262d44022421262e44022421262f44028e4a9d3044028e4a9d3144028e4a9d3244028e4a9d3344028e4a9d3444028e4a9d3544028e4a9d3644028e4a9d3744028e4a9d3844028e4a9d3944028e4a9d3a44028e4a9d3b44022421263c44022421263d44022421263e44022421263f44022421264044022421264144022421264244022421264344022421264b44022421264c44022421264d44022421264e44022421264f44022421265044022421265144022421265244022421265344022421262d45022421262e45022421262f45028e4a9d3045028e4a9d3145028e4a9d3245028e4a9d3345028e4a9d3445028e4a9d3545028e4a9d3645028e4a9d3745028e4a9d3845028e4a9d3945028e4a9d3a45028e4a9d3b45022421263c4502777e923d4502777e923e4502777e923f4502777e92404502777e92414502777e92424502777e924345022421264445022421264a45022421264b45022421264c4502777e924d4502777e924e4502777e924f4502777e92504502777e92514502777e92524502777e925345022421265445022421262d46022421262e46022421262f46028e4a9d3046028e4a9d3146028e4a9d3246028e4a9d3346028e4a9d3446028e4a9d3546028e4a9d3646028e4a9d3746028e4a9d3846028e4a9d3946028e4a9d3a46028e4a9d3b46022421263c4602656c7f3d46025c626e3e46025c626e3f46025c626e4046025c626e4146025c626e4246025c626e434602777e924446022421264546022421264946022421264a46022421264b4602777e924c46025c626e4d46025c626e4e46025c626e4f46025c626e5046025c626e5146025c626e524602656c7f5346022421265446022421262d47022421262e47022421262f47024a2b713047024a2b713147026a3a863247028e4a9d3347028e4a9d3447028e4a9d3547028e4a9d3647028e4a9d3747028e4a9d3847028e4a9d3947028e4a9d3a47028e4a9d3b47022421263c47022421263d47022421263e47025c626e3f47025c626e4047025c626e4147025c626e4247025c626e434702656c7f4447022421264547022421264947022421264a47022421264b4702656c7f4c47025c626e4d47025c626e4e47025c626e4f47025c626e5047025c626e5147022421265247022421265347022421262e48022421262f4802242126304802242126314802242126324802ae59b23348028e4a9d3448028e4a9d3548028e4a9d3648028e4a9d3748028e4a9d3848028e4a9d3948028e4a9d3a48028e4a9d3b48022421263c48022421263d48022421263e48025c626e3f48025c626e4048025c626e4148025c626e4248025c626e4348025c626e4448022421264548022421264948022421264a48022421264b48025c626e4c48025c626e4d48025c626e4e48025c626e4f48025c626e5048025c626e5148022421265248022421265748022421265848022421265948022421265a48022421265b48022421265c48022421265d48022421265e48022421266a48022421266b48022421266c48022421266d48022421266e48022421266f48022421267048022421267148022421267648022421267748022421267848022421267948022421267a48022421267b48022421267c48022421267d48022421268348022421268448022421268548022421268648022421268748022421268848022421268948022421268e48022421268f48022421269048022421269148022421269248022421269348022421269448022421269548022421269648022421269748022421269948022421269a48022421269b48022421269c48022421269d48022421269e48022421269f4802242126a04802242126a14802242126a24802242126a34802242126a44802242126a54802242126a64802242126ad4802242126ae4802242126af4802242126b04802242126b14802242126b24802242126b34802242126b44802242126b94802242126ba4802242126bb4802242126bc4802242126bd4802242126be4802242126bf4802242126c04802242126c64802242126c74802242126c84802242126c94802242126ca4802242126cb4802242126cc48022421262f4902242126304902242126314902242126324902ae59b23349028e4a9d3449028e4a9d3549028e4a9d3649028e4a9d3749028e4a9d3849028e4a9d3949028e4a9d3a49028e4a9d3b49022421263c49022421263d49022421263e49025c626e3f49025c626e4049025c626e4149025c626e4249025c626e4349025c626e4449025c626e4549022421264649022421264849022421264949022421264a49025c626e4b49025c626e4c49025c626e4d49025c626e4e49025c626e4f49025c626e5049025c626e5149022421265249022421265549022421265649022421265749022421265849022421265949022421265a49022421265b49022421265c49022421265d49022421265e49022421265f49022421266049022421266849022421266949022421266a49022421266b49022421266c49022421266d49022421266e49022421266f49022421267049022421267149022421267249022421267349022421267549022421267649022421267749022421267849022421267949022421267a49022421267b49022421267c49022421267d49022421267e49022421268249022421268349022421268449022421268549022421268649022421268749022421268849022421268949022421268a49022421268c49022421268d49022421268e49022421268f49022421269049022421269149022421269249022421269349022421269449022421269549022421269649022421269749022421269849022421269949022421269a49022421269b49022421269c49022421269d49022421269e49022421269f4902242126a04902242126a14902242126a24902242126a34902242126a44902242126a54902242126a64902242126a74902242126ab4902242126ac4902242126ad4902242126ae4902242126af4902242126b04902242126b14902242126b24902242126b34902242126b44902242126b54902242126b64902242126b84902242126b94902242126ba4902242126bb4902242126bc4902242126bd4902242126be4902242126bf4902242126c04902242126c14902242126c54902242126c64902242126c74902242126c84902242126c94902242126ca4902242126cb4902242126cc4902242126cd4902242126304a02242126314a02242126324a028e4a9d334a028e4a9d344a028e4a9d354a028e4a9d364a028e4a9d374a028e4a9d384a024a2b71394a024a2b713a4a024a2b713b4a022421263c4a022421263d4a022421263e4a025c626e3f4a025c626e404a025c626e414a025c626e424a025c626e434a025c626e444a025c626e454a02242126464a02242126484a02242126494a022421264a4a025c626e4b4a025c626e4c4a025c626e4d4a025c626e4e4a025c626e4f4a025c626e504a025c626e514a02242126524a02242126544a02242126554a02242126564a02242126574a02777e92584a02777e92594a02777e925a4a02777e925b4a02777e925c4a02777e925d4a02777e925e4a02777e925f4a02242126604a02242126614a02242126674a02242126684a02242126694a022421266a4a02777e926b4a02777e926c4a02777e926d4a02777e926e4a02777e926f4a02777e92704a02777e92714a02777e92724a02242126734a02242126744a02242126754a02242126764a02777e92774a02777e92784a02777e92794a02777e927a4a02777e927b4a02777e927c4a02777e927d4a02777e927e4a022421267f4a02242126814a02242126824a02242126834a02777e92844a02777e92854a02777e92864a02777e92874a02777e92884a02777e92894a02777e928a4a022421268b4a022421268c4a022421268d4a022421268e4a02777e928f4a02777e92904a02777e92914a02777e92924a02777e92934a02777e92944a02777e92954a02777e92964a02777e92974a02777e92984a02242126994a02777e929a4a02777e929b4a02777e929c4a02777e929d4a02777e929e4a02777e929f4a02777e92a04a02777e92a14a02777e92a24a02777e92a34a02777e92a44a02777e92a54a02777e92a64a02777e92a74a02242126a84a02242126aa4a02242126ab4a02242126ac4a02242126ad4a02777e92ae4a02777e92af4a02777e92b04a02777e92b14a02777e92b24a02777e92b34a02777e92b44a02777e92b54a02242126b64a02242126b74a02242126b84a02242126b94a02777e92ba4a02777e92bb4a02777e92bc4a02777e92bd4a02777e92be4a02777e92bf4a02777e92c04a02777e92c14a02242126c24a02242126c44a02242126c54a02242126c64a02777e92c74a02777e92c84a02777e92c94a02777e92ca4a02777e92cb4a02777e92cc4a02777e92cd4a02242126ce4a02242126304b02242126314b02242126324b028e4a9d334b028e4a9d344b028e4a9d354b028e4a9d364b028e4a9d374b026a3a86384b02242126394b022421263a4b022421263b4b022421263c4b022421263d4b022421263e4b025c626e3f4b025c626e404b025c626e414b025c626e424b025c626e434b025c626e444b025c626e454b02242126464b02242126484b02242126494b022421264a4b025c626e4b4b025c626e4c4b025c626e4d4b025c626e4e4b025c626e4f4b025c626e504b025c626e514b02242126524b02242126534b02242126544b02242126554b02777e92564b02777e92574b025c626e584b025c626e594b025c626e5a4b025c626e5b4b025c626e5c4b025c626e5d4b025c626e5e4b025c626e5f4b02777e92604b02777e92614b02242126624b02242126664b02242126674b02242126684b02777e92694b02777e926a4b025c626e6b4b025c626e6c4b025c626e6d4b025c626e6e4b025c626e6f4b025c626e704b025c626e714b025c626e724b02777e92734b02777e92744b02242126754b02242126764b02656c7f774b025c626e784b025c626e794b025c626e7a4b025c626e7b4b025c626e7c4b025c626e7d4b025c626e7e4b02777e927f4b02242126804b02242126814b02242126824b02242126834b02656c7f844b025c626e854b025c626e864b025c626e874b025c626e884b025c626e894b02656c7f8a4b022421268b4b022421268c4b02777e928d4b02777e928e4b025c626e8f4b025c626e904b025c626e914b025c626e924b025c626e934b025c626e944b025c626e954b025c626e964b025c626e974b025c626e984b02242126994b02656c7f9a4b025c626e9b4b025c626e9c4b025c626e9d4b025c626e9e4b025c626e9f4b025c626ea04b025c626ea14b025c626ea24b025c626ea34b025c626ea44b025c626ea54b025c626ea64b02656c7fa74b02242126a84b02242126a94b02242126aa4b02242126ab4b02777e92ac4b02777e92ad4b025c626eae4b025c626eaf4b025c626eb04b025c626eb14b025c626eb24b025c626eb34b025c626eb44b025c626eb54b02777e92b64b02777e92b74b02242126b84b02242126b94b02656c7fba4b025c626ebb4b025c626ebc4b025c626ebd4b025c626ebe4b025c626ebf4b025c626ec04b025c626ec14b02777e92c24b02242126c34b02242126c44b02242126c54b02242126c64b02656c7fc74b025c626ec84b025c626ec94b025c626eca4b025c626ecb4b025c626ecc4b02656c7fcd4b02242126ce4b02242126304c02242126314c02242126324c028e4a9d334c028e4a9d344c028e4a9d354c028e4a9d364c028e4a9d374c02242126384c02242126394c022421263a4c022421263b4c022421263c4c022421263d4c022421263e4c025c626e3f4c025c626e404c025c626e414c025c626e424c025c626e434c025c626e444c025c626e454c025c626e464c02242126474c02242126484c02242126494c025c626e4a4c025c626e4b4c025c626e4c4c025c626e4d4c025c626e4e4c025c626e4f4c025c626e504c025c626e514c02242126524c02242126534c02242126544c02777e92554c025c626e564c025c626e574c025c626e584c025c626e594c022421265a4c022421265b4c022421265c4c022421265d4c025c626e5e4c025c626e5f4c025c626e604c025c626e614c02777e92624c02242126634c02242126654c02242126664c02242126674c02777e92684c025c626e694c025c626e6a4c025c626e6b4c025c626e6c4c022421266d4c022421266e4c022421266f4c02242126704c025c626e714c025c626e724c025c626e734c025c626e744c02777e92754c02242126764c02242126774c02242126784c025c626e794c025c626e7a4c025c626e7b4c025c626e7c4c025c626e7d4c025c626e7e4c02656c7f7f4c02242126804c02242126814c02242126824c02242126834c02242126844c025c626e854c025c626e864c025c626e874c025c626e884c02242126894c022421268a4c022421268b4c02777e928c4c025c626e8d4c025c626e8e4c025c626e8f4c025c626e904c02242126914c02242126924c02242126934c02242126944c025c626e954c025c626e964c025c626e974c025c626e984c02242126994c022421269a4c022421269b4c025c626e9c4c025c626e9d4c025c626e9e4c025c626e9f4c025c626ea04c025c626ea14c025c626ea24c025c626ea34c025c626ea44c025c626ea54c025c626ea64c025c626ea74c02242126a84c02242126a94c02242126aa4c02777e92ab4c025c626eac4c025c626ead4c025c626eae4c025c626eaf4c02242126b04c02242126b14c02242126b24c02242126b34c025c626eb44c025c626eb54c025c626eb64c025c626eb74c02777e92b84c02242126b94c02242126ba4c02242126bb4c025c626ebc4c025c626ebd4c025c626ebe4c025c626ebf4c025c626ec04c025c626ec14c02656c7fc24c02242126c34c02242126c44c02242126c54c02242126c64c02242126c74c025c626ec84c025c626ec94c025c626eca4c025c626ecb4c02242126cc4c02242126cd4c02242126304d02242126314d02242126324d028e4a9d334d028e4a9d344d028e4a9d354d028e4a9d364d028e4a9d374d02242126384d022421263c4d022421263d4d022421263e4d025c626e3f4d025c626e404d025c626e414d025c626e424d025c626e434d025c626e444d025c626e454d025c626e464d02242126474d02242126484d02242126494d025c626e4a4d025c626e4b4d025c626e4c4d025c626e4d4d025c626e4e4d025c626e4f4d025c626e504d025c626e514d02242126524d02242126534d02777e92544d025c626e554d025c626e564d025c626e574d025c626e584d02242126594d022421265a4d022421265b4d022421265c4d022421265d4d022421265e4d025c626e5f4d025c626e604d025c626e614d025c626e624d02777e92634d02242126644d02242126654d02242126664d02777e92674d025c626e684d025c626e694d025c626e6a4d025c626e6b4d022421266c4d022421266d4d022421266e4d022421266f4d02242126704d02242126714d025c626e724d025c626e734d025c626e744d025c626e754d02777e92764d02242126774d02242126784d025c626e794d025c626e7a4d025c626e7b4d025c626e7c4d025c626e7d4d025c626e7e4d025c626e7f4d02656c7f804d02242126814d02242126824d02242126834d02242126844d025c626e854d025c626e864d025c626e874d025c626e884d02242126894d022421268a4d02777e928b4d025c626e8c4d025c626e8d4d025c626e8e4d025c626e8f4d02242126904d02242126914d02242126924d02242126934d02242126944d025c626e954d025c626e964d025c626e974d025c626e984d02242126994d022421269a4d022421269b4d025c626e9c4d025c626e9d4d025c626e9e4d025c626e9f4d02242126a04d02242126a14d02242126a24d02242126a34d025c626ea44d025c626ea54d025c626ea64d025c626ea74d02242126a84d02242126a94d02777e92aa4d025c626eab4d025c626eac4d025c626ead4d025c626eae4d02242126af4d02242126b04d02242126b14d02242126b24d02242126b34d02242126b44d025c626eb54d025c626eb64d025c626eb74d025c626eb84d02777e92b94d02242126ba4d02242126bb4d025c626ebc4d025c626ebd4d025c626ebe4d025c626ebf4d025c626ec04d025c626ec14d025c626ec24d02656c7fc34d02242126c44d02242126c54d02242126c64d02242126c74d025c626ec84d025c626ec94d025c626eca4d025c626ecb4d02242126cc4d02242126304e02242126314e02242126324e028e4a9d334e028e4a9d344e028e4a9d354e028e4a9d364e028e4a9d374e02242126384e022421263c4e022421263d4e022421263e4e025c626e3f4e025c626e404e025c626e414e025c626e424e025c626e434e025c626e444e025c626e454e025c626e464e02242126474e02242126484e02242126494e025c626e4a4e025c626e4b4e025c626e4c4e025c626e4d4e025c626e4e4e025c626e4f4e025c626e504e025c626e514e02242126524e02242126534e02656c7f544e025c626e554e025c626e564e025c626e574e02242126584e02242126594e022421265c4e022421265d4e022421265e4e022421265f4e025c626e604e025c626e614e025c626e624e02656c7f634e02242126644e02242126654e02242126664e02656c7f674e025c626e684e025c626e694e025c626e6a4e022421266b4e022421266c4e022421266f4e02242126704e02242126714e02242126724e025c626e734e025c626e744e025c626e754e02656c7f764e02242126774e02242126784e025c626e794e025c626e7a4e025c626e7b4e025c626e7c4e025c626e7d4e025c626e7e4e025c626e7f4e025c626e804e02242126814e02242126824e02242126834e02242126844e025c626e854e025c626e864e025c626e874e025c626e884e02242126894e022421268a4e02656c7f8b4e025c626e8c4e025c626e8d4e025c626e8e4e022421268f4e02242126924e02242126934e02242126944e025c626e954e025c626e964e025c626e974e025c626e984e02242126994e022421269a4e022421269b4e025c626e9c4e025c626e9d4e025c626e9e4e025c626e9f4e02242126a04e02242126a14e02242126a24e02242126a34e025c626ea44e025c626ea54e025c626ea64e025c626ea74e02242126a84e02242126a94e02656c7faa4e025c626eab4e025c626eac4e025c626ead4e02242126ae4e02242126af4e02242126b24e02242126b34e02242126b44e02242126b54e025c626eb64e025c626eb74e025c626eb84e02656c7fb94e02242126ba4e02242126bb4e025c626ebc4e025c626ebd4e025c626ebe4e025c626ebf4e025c626ec04e025c626ec14e025c626ec24e025c626ec34e02242126c44e02242126c54e02242126c64e02242126c74e025c626ec84e025c626ec94e025c626eca4e025c626ecb4e02242126cc4e022421262f4f02242126304f02242126314f02ae59b2324f028e4a9d334f028e4a9d344f028e4a9d354f028e4a9d364f028e4a9d374f02242126384f022421263c4f022421263d4f022421263e4f025c626e3f4f025c626e404f025c626e414f025c626e424f025c626e434f025c626e444f025c626e454f025c626e464f025c626e474f02242126484f025c626e494f025c626e4a4f025c626e4b4f025c626e4c4f025c626e4d4f025c626e4e4f025c626e4f4f025c626e504f025c626e514f02242126524f02777e92534f025c626e544f025c626e554f025c626e564f025c626e574f02242126584f022421265d4f022421265e4f022421265f4f025c626e604f025c626e614f025c626e624f025c626e634f02777e92644f02242126654f02777e92664f025c626e674f025c626e684f025c626e694f025c626e6a4f022421266b4f02242126704f02242126714f02242126724f025c626e734f025c626e744f025c626e754f025c626e764f02777e92774f02242126784f025c626e794f025c626e7a4f025c626e7b4f025c626e7c4f025c626e7d4f025c626e7e4f025c626e7f4f025c626e804f025c626e814f02242126824f02242126834f02242126844f025c626e854f025c626e864f025c626e874f025c626e884f02242126894f02777e928a4f025c626e8b4f025c626e8c4f025c626e8d4f025c626e8e4f022421268f4f02242126924f02242126934f02242126944f02ba5ccf954f02ba5ccf964f02ba5ccf974f02ba5ccf984f02242126994f022421269a4f022421269b4f025c626e9c4f025c626e9d4f025c626e9e4f025c626e9f4f02242126a04f02242126a14f02242126a24f02242126a34f02242126a44f02242126a54f02242126a64f02242126a74f02242126a84f02777e92a94f025c626eaa4f025c626eab4f025c626eac4f025c626ead4f02242126ae4f02242126b34f02242126b44f02242126b54f025c626eb64f025c626eb74f025c626eb84f025c626eb94f02777e92ba4f02242126bb4f025c626ebc4f025c626ebd4f025c626ebe4f025c626ebf4f025c626ec04f025c626ec14f025c626ec24f025c626ec34f025c626ec44f02242126c54f02242126c64f02242126c74f025c626ec84f025c626ec94f025c626eca4f025c626ecb4f02242126cc4f02242126ce4f02242126cf4f02242126d04f02242126d14f02242126d24f02242126d34f02242126d44f02242126d54f022421262f5002242126305002242126315002ae59b23250028e4a9d3350028e4a9d3450028e4a9d3550028e4a9d3650028e4a9d3750022421263850022421263c50022421263d50022421263e50025c626e3f50025c626e4050025c626e4150025c626e4250022421264350025c626e4450025c626e4550025c626e4650025c626e4750025c626e4850025c626e4950025c626e4a50025c626e4b50025c626e4c50022421264d50025c626e4e50025c626e4f50025c626e5050025c626e515002242126525002656c7f5350025c626e5450025c626e5550025c626e5650025c626e5750022421265850022421265d50022421265e50022421265f50025c626e6050025c626e6150025c626e6250025c626e635002656c7f645002242126655002656c7f6650025c626e6750025c626e6850025c626e6950025c626e6a50022421266b50022421267050022421267150022421267250025c626e7350025c626e7450025c626e7550025c626e765002656c7f7750022421267850025c626e7950025c626e7a50025c626e7b50025c626e7c50025c626e7d50025c626e7e50025c626e7f50025c626e8050025c626e8150022421268250022421268350022421268450025c626e8550025c626e8650025c626e8750025c626e885002242126895002656c7f8a50025c626e8b50025c626e8c50025c626e8d50025c626e8e50022421268f50022421269350022421269450022421269550022421269650022421269750022421269850022421269950022421269a50022421269b50025c626e9c50025c626e9d50025c626e9e50025c626e9f5002242126a05002242126a15002242126a25002242126a35002242126a45002242126a55002242126a65002242126a75002242126a850025c626ea950025c626eaa50025c626eab50025c626eac50025c626ead5002242126ae5002242126b35002242126b45002242126b550025c626eb650025c626eb750025c626eb850025c626eb950025c626eba5002242126bb50025c626ebc50025c626ebd50025c626ebe50025c626ebf50025c626ec050025c626ec150025c626ec250025c626ec350025c626ec45002242126c55002242126c65002242126c750025c626ec850025c626ec950025c626eca50025c626ecb5002242126cc5002242126cd5002242126ce5002242126cf5002242126d05002242126d15002242126d25002242126d35002242126d45002242126d55002242126d650022421262f51022421263051022421263151028e4a9d3251028e4a9d3351028e4a9d3451028e4a9d3551028e4a9d3651028e4a9d3751022421263851022421263c51022421263d51022421263e51025c626e3f51025c626e4051025c626e4151025c626e4251022421264351025c626e4451025c626e4551025c626e4651025c626e4751025c626e4851025c626e4951025c626e4a51025c626e4b51025c626e4c51022421264d51025c626e4e51025c626e4f51025c626e5051025c626e5151022421265251025c626e5351025c626e5451025c626e5551025c626e5651022421265751022421265e51022421265f51022421266051025c626e6151025c626e6251025c626e6351025c626e6451022421266551025c626e6651025c626e6751025c626e6851025c626e6951022421266a51022421267151022421267251022421267351025c626e7451025c626e7551025c626e7651025c626e7751022421267851025c626e7951025c626e7a51025c626e7b51025c626e7c51022421267d51025c626e7e51025c626e7f51025c626e8051025c626e8151025c626e8251022421268351022421268451025c626e8551025c626e8651025c626e8751025c626e8851022421268951025c626e8a51025c626e8b51025c626e8c51025c626e8d51022421268e51022421269151022421269251022421269351022421269451022421269551022421269651022421269751022421269851022421269951022421269a51022421269b51025c626e9c51025c626e9d51025c626e9e51025c626e9f5102242126a05102242126a15102242126a25102242126a35102242126a45102777e92a55102777e92a65102777e92a75102242126a851025c626ea951025c626eaa51025c626eab51025c626eac5102242126ad5102242126b45102242126b55102242126b651025c626eb751025c626eb851025c626eb951025c626eba5102242126bb51025c626ebc51025c626ebd51025c626ebe51025c626ebf5102242126c051025c626ec151025c626ec251025c626ec351025c626ec451025c626ec55102242126c65102242126c751025c626ec851025c626ec951025c626eca51025c626ecb5102242126cc5102242126cd5102242126ce5102e079becf5102e079bed05102e079bed15102e079bed25102e079bed35102e079bed45102e079bed55102e079bed65102242126d751022421262f52022421263052022421263152028e4a9d3252028e4a9d3352028e4a9d3452028e4a9d3552028e4a9d3652028e4a9d3752022421263852022421263c52022421263d52022421263e52025c626e3f52025c626e4052025c626e4152025c626e4252022421264352025c626e4452025c626e4552025c626e4652025c626e4752025c626e4852025c626e4952025c626e4a52025c626e4b52025c626e4c52022421264d52025c626e4e52025c626e4f52025c626e5052025c626e5152022421265252025c626e5352025c626e5452025c626e5552025c626e5652022421265752022421265e52022421265f52022421266052025c626e6152025c626e6252025c626e6352025c626e6452022421266552025c626e6652025c626e6752025c626e6852025c626e6952022421266a52022421267152022421267252022421267352025c626e7452025c626e7552025c626e7652025c626e7752022421267852025c626e7952025c626e7a52025c626e7b52025c626e7c52022421267d52022421267e52025c626e7f52025c626e8052025c626e8152025c626e8252022421268352022421268452025c626e8552025c626e8652025c626e8752025c626e8852022421268952025c626e8a52025c626e8b52025c626e8c52025c626e8d52022421268e52022421268f52022421269052022421269152022421269252022421269352022421269452022421269552022421269652022421269752022421269852022421269952022421269a52022421269b52025c626e9c52025c626e9d52025c626e9e52025c626e9f5202656c7fa05202777e92a15202777e92a25202777e92a35202777e92a452025c626ea552025c626ea65202656c7fa75202242126a852025c626ea952025c626eaa52025c626eab52025c626eac5202242126ad5202242126b45202242126b55202242126b652025c626eb752025c626eb852025c626eb952025c626eba5202242126bb52025c626ebc52025c626ebd52025c626ebe52025c626ebf5202242126c05202242126c152025c626ec252025c626ec352025c626ec452025c626ec55202242126c65202242126c752025c626ec852025c626ec952025c626eca52025c626ecb5202242126cc5202242126cd5202242126ce52028e4a9dcf52028e4a9dd052028e4a9dd152028e4a9dd252028e4a9dd352028e4a9dd452028e4a9dd552028e4a9dd65202242126d752022421262f53022421263053022421263153028e4a9d3253028e4a9d3353028e4a9d3453028e4a9d3553028e4a9d3653028e4a9d3753022421263853022421263953022421263a53022421263b53022421263c53022421263d53022421263e53025c626e3f53025c626e4053025c626e4153025c626e4253022421264353022421264453025c626e4553025c626e4653025c626e4753025c626e4853025c626e4953025c626e4a53025c626e4b53022421264c53022421264d53025c626e4e53025c626e4f53025c626e5053025c626e5153022421265253025c626e5353025c626e5453025c626e5553025c626e5653022421265753022421265e53022421265f53022421266053025c626e6153025c626e6253025c626e6353025c626e6453022421266553025c626e6653025c626e6753025c626e6853025c626e6953022421266a53022421267153022421267253022421267353025c626e7453025c626e7553025c626e7653025c626e7753022421267853025c626e7953025c626e7a53025c626e7b53025c626e7c53022421267d53022421267e53025c626e7f53025c626e8053025c626e8153025c626e8253025c626e8353022421268453025c626e8553025c626e8653025c626e8753025c626e8853022421268953025c626e8a53025c626e8b53025c626e8c5302777e928d53022421268e53022421268f53022421269053022421269153025c626e9253025c626e9353025c626e9453025c626e9553025c626e9653025c626e9753025c626e9853022421269953022421269a53022421269b53025c626e9c53025c626e9d53025c626e9e53025c626e9f53025c626ea053025c626ea153025c626ea253025c626ea353025c626ea453025c626ea553025c626ea653025c626ea75302242126a853025c626ea953025c626eaa53025c626eab53025c626eac5302242126ad5302242126b45302242126b55302242126b653025c626eb753025c626eb853025c626eb953025c626eba5302242126bb53025c626ebc53025c626ebd53025c626ebe53025c626ebf5302242126c05302242126c153025c626ec253025c626ec353025c626ec453025c626ec553025c626ec65302242126c753025c626ec853025c626ec953025c626eca53025c626ecb5302242126cc5302242126cd5302242126ce53026a3a86cf53028e4a9dd053028e4a9dd153028e4a9dd253028e4a9dd353028e4a9dd453028e4a9dd553026a3a86d65302242126d753022421262f54022421263054022421263154028e4a9d3254028e4a9d3354028e4a9d3454028e4a9d3554028e4a9d3654028e4a9d3754022421263854022421263954022421263a54022421263b54022421263c54022421263d54022421263e54025c626e3f54025c626e4054025c626e4154025c626e4254022421264354022421264454025c626e4554025c626e4654025c626e4754025c626e4854025c626e4954025c626e4a54025c626e4b54022421264c54022421264d54025c626e4e54025c626e4f54025c626e5054025c626e5154022421265254025c626e5354025c626e5454025c626e5554025c626e5654022421265754022421265e54022421265f54022421266054025c626e6154025c626e6254025c626e6354025c626e6454022421266554025c626e6654025c626e6754025c626e6854025c626e6954022421266a54022421267154022421267254022421267354025c626e7454025c626e7554025c626e7654025c626e7754022421267854025c626e7954025c626e7a54025c626e7b54025c626e7c54022421267d54022421267e54022421267f54025c626e8054025c626e8154025c626e8254025c626e8354025c626e8454025c626e8554025c626e8654025c626e8754025c626e8854022421268954025c626e8a54025c626e8b54025c626e8c54025c626e8d54022421268e54022421268f5402242126905402242126915402ba5ccf925402ba5ccf935402ba5ccf9454025c626e9554025c626e9654025c626e9754025c626e9854022421269954022421269a54022421269b54025c626e9c54025c626e9d54025c626e9e54025c626e9f54028e4a9da05402ba5ccfa15402ba5ccfa25402ba5ccfa35402ba5ccfa454025c626ea554025c626ea654028e4a9da75402242126a854025c626ea954025c626eaa54025c626eab54025c626eac5402242126ad5402242126b45402242126b55402242126b654025c626eb754025c626eb854025c626eb954025c626eba5402242126bb54025c626ebc54025c626ebd54025c626ebe54025c626ebf5402242126c05402242126c15402242126c254025c626ec354025c626ec454025c626ec554025c626ec654025c626ec754025c626ec854025c626ec954025c626eca54025c626ecb5402242126cc5402242126cd5402242126ce54024a2b71cf54024a2b71d054024a2b71d154024a2b71d254024a2b71d354024a2b71d454024a2b71d554024a2b71d65402242126d754022421262f55022421263055022421263155028e4a9d3255028e4a9d3355028e4a9d3455028e4a9d3555028e4a9d3655028e4a9d375502ae59b2385502e079be395502e079be3a5502e079be3b55022421263c55022421263d55022421263e55025c626e3f55025c626e4055025c626e4155025c626e4255022421264355022421264455022421264555025c626e4655025c626e4755025c626e4855025c626e4955025c626e4a55022421264b55022421264c55022421264d55025c626e4e55025c626e4f55025c626e5055025c626e5155022421265255025c626e5355025c626e5455025c626e5555025c626e5655022421265755022421265e55022421265f55022421266055025c626e6155025c626e6255025c626e6355025c626e6455022421266555025c626e6655025c626e6755025c626e6855025c626e6955022421266a55022421267155022421267255022421267355025c626e7455025c626e7555025c626e7655025c626e7755022421267855025c626e7955025c626e7a55025c626e7b55025c626e7c55022421267d55022421267e55022421267f55025c626e8055025c626e8155025c626e8255025c626e8355025c626e8455025c626e8555025c626e8655025c626e8755025c626e8855022421268955025c626e8a55025c626e8b55025c626e8c55025c626e8d55022421268e55022421268f55022421269055022421269155022421269255022421269355022421269455025c626e9555025c626e9655025c626e9755025c626e9855022421269955022421269a55022421269b55025c626e9c55025c626e9d55025c626e9e55025c626e9f5502242126a05502242126a15502242126a25502242126a35502242126a45502ba5ccfa55502ba5ccfa65502ba5ccfa75502242126a855025c626ea955025c626eaa55025c626eab55025c626eac5502242126ad5502242126b45502242126b55502242126b655025c626eb755025c626eb855025c626eb955025c626eba5502242126bb55025c626ebc55025c626ebd55025c626ebe55025c626ebf5502242126c05502242126c15502242126c255025c626ec355025c626ec455025c626ec555025c626ec655025c626ec755025c626ec855025c626ec955025c626eca55025c626ecb5502242126cc5502242126cd5502242126ce5502242126cf5502242126d05502242126d15502242126d25502242126d35502242126d45502242126d55502242126d655022421262f56022421263056022421263156028e4a9d3256028e4a9d3356028e4a9d3456028e4a9d3556028e4a9d3656028e4a9d3756028e4a9d3856028e4a9d3956028e4a9d3a5602ae59b23b56022421263c56022421263d56022421263e56025c626e3f56025c626e4056025c626e4156025c626e4256022421264356022421264456022421264556028e4a9d4656025c626e4756025c626e4856025c626e4956028e4a9d4a56022421264b56022421264c56022421264d56025c626e4e56025c626e4f56025c626e5056025c626e5156022421265256028e4a9d5356025c626e5456025c626e5556025c626e5656025c626e5756022421265856022421265d56022421265e56022421265f56025c626e6056025c626e6156025c626e6256025c626e6356028e4a9d6456022421266556028e4a9d6656025c626e6756025c626e6856025c626e6956025c626e6a56022421266b56022421267056022421267156022421267256025c626e7356025c626e7456025c626e7556025c626e7656028e4a9d7756022421267856025c626e7956025c626e7a56025c626e7b56025c626e7c56022421267d56022421267e56022421267f56022421268056025c626e8156025c626e8256025c626e8356025c626e8456025c626e8556025c626e8656025c626e8756025c626e8856022421268956025c626e8a56025c626e8b56025c626e8c56025c626e8d56025c626e8e56022421268f56022421269156022421269256022421269356022421269456025c626e9556025c626e9656025c626e9756025c626e9856022421269956022421269a56022421269b56025c626e9c56025c626e9d56025c626e9e56025c626e9f5602242126a05602242126a15602242126a25602242126a35602242126a45602242126a55602242126a65602242126a75602242126a856028e4a9da956025c626eaa56025c626eab56025c626eac56025c626ead5602242126ae5602242126b35602242126b45602242126b556025c626eb656025c626eb756025c626eb856025c626eb956028e4a9dba5602242126bb56025c626ebc56025c626ebd56025c626ebe56025c626ebf5602242126c05602242126c15602242126c25602242126c356025c626ec456025c626ec556025c626ec656025c626ec756025c626ec856025c626ec956025c626eca56025c626ecb5602242126cc5602242126ce5602242126cf5602242126d05602242126d15602242126d25602242126d35602242126d45602242126d556022421262e57022421262f5702242126305702ae59b23157028e4a9d3257028e4a9d3357028e4a9d3457028e4a9d3557028e4a9d3657028e4a9d3757028e4a9d3857028e4a9d3957028e4a9d3a57028e4a9d3b57022421263c57022421263d57022421263e57025c626e3f57025c626e4057025c626e4157025c626e425702242126435702242126445702242126455702ba5ccf4657025c626e4757025c626e4857025c626e495702ba5ccf4a57022421264b57022421264c57022421264d57025c626e4e57025c626e4f57025c626e5057025c626e515702242126525702ba5ccf5357025c626e5457025c626e5557025c626e5657025c626e5757022421265857022421265d57022421265e57022421265f57025c626e6057025c626e6157025c626e6257025c626e635702ba5ccf645702242126655702ba5ccf6657025c626e6757025c626e6857025c626e6957025c626e6a57022421266b57022421267057022421267157022421267257025c626e7357025c626e7457025c626e7557025c626e765702ba5ccf7757022421267857025c626e7957025c626e7a57025c626e7b57025c626e7c57022421267d57022421267e57022421267f57022421268057025c626e8157025c626e8257025c626e8357025c626e8457025c626e8557025c626e8657025c626e8757025c626e885702242126895702ba5ccf8a57025c626e8b57025c626e8c57025c626e8d57025c626e8e57022421268f57022421269257022421269357022421269457025c626e9557025c626e9657025c626e9757025c626e9857022421269957022421269a57022421269b57025c626e9c57025c626e9d57025c626e9e57025c626e9f5702242126a05702242126a15702242126a25702242126a35702242126a45702242126a55702242126a65702242126a75702242126a85702ba5ccfa957025c626eaa57025c626eab57025c626eac57025c626ead5702242126ae5702242126b35702242126b45702242126b557025c626eb657025c626eb757025c626eb857025c626eb95702ba5ccfba5702242126bb57025c626ebc57025c626ebd57025c626ebe57025c626ebf5702242126c05702242126c15702242126c25702242126c357025c626ec457025c626ec557025c626ec657025c626ec757025c626ec857025c626ec957025c626eca57025c626ecb5702242126cc57022421262e58022421262f5802242126305802ae59b23158028e4a9d3258028e4a9d3358028e4a9d3458028e4a9d3558028e4a9d3658028e4a9d3758028e4a9d3858028e4a9d3958028e4a9d3a58028e4a9d3b58022421263c58022421263d58022421263e58025c626e3f58025c626e4058025c626e4158025c626e4258022421264358022421264458022421264558022421264658028e4a9d4758025c626e4858028e4a9d4958022421264a58022421264b58022421264c58022421264d58025c626e4e58025c626e4f58025c626e5058025c626e5158022421265258022421265358028e4a9d5458025c626e5558025c626e5658025c626e5758022421265858022421265958022421265c58022421265d58022421265e58022421265f58025c626e6058025c626e6158025c626e6258028e4a9d6358022421266458022421266558022421266658028e4a9d6758025c626e6858025c626e6958025c626e6a58022421266b58022421266c58022421266f58022421267058022421267158022421267258025c626e7358025c626e7458025c626e7558028e4a9d7658022421267758022421267858025c626e7958025c626e7a58025c626e7b58025c626e7c58022421267d58022421267f58022421268058022421268158025c626e8258025c626e8358025c626e8458025c626e8558025c626e8658025c626e8758025c626e8858022421268958022421268a58028e4a9d8b58025c626e8c58025c626e8d58025c626e8e58022421268f58022421269258022421269358022421269458025c626e9558025c626e9658025c626e9758025c626e9858022421269958022421269a58022421269b58025c626e9c58025c626e9d58025c626e9e58025c626e9f5802242126a05802242126a15802242126a25802242126a358025c626ea458025c626ea558025c626ea658025c626ea75802242126a85802242126a958028e4a9daa58025c626eab58025c626eac58025c626ead5802242126ae5802242126af5802242126b25802242126b35802242126b45802242126b558025c626eb658025c626eb758025c626eb858028e4a9db95802242126ba5802242126bb58025c626ebc58025c626ebd58025c626ebe58025c626ebf5802242126c05802242126c25802242126c35802242126c458025c626ec558025c626ec658025c626ec758025c626ec858025c626ec958025c626eca58025c626ecb5802242126cc58022421262e59022421262f59022421263059028e4a9d3159028e4a9d3259028e4a9d3359028e4a9d3459028e4a9d3559028e4a9d3659028e4a9d3759028e4a9d3859028e4a9d3959028e4a9d3a59028e4a9d3b59022421263c59022421263d59022421263e59025c626e3f59025c626e4059025c626e4159025c626e425902242126435902242126445902242126455902242126465902ba5ccf475902ba5ccf485902ba5ccf4959022421264a59022421264b59022421264c59022421264d59025c626e4e59025c626e4f59025c626e5059025c626e515902242126525902242126535902ba5ccf5459025c626e5559025c626e5659025c626e5759025c626e5859022421265959022421265a59022421265b59022421265c59022421265d59022421265e59025c626e5f59025c626e6059025c626e6159025c626e625902ba5ccf635902242126645902242126655902242126665902ba5ccf6759025c626e6859025c626e6959025c626e6a59025c626e6b59022421266c59022421266d59022421266e59022421266f59022421267059022421267159025c626e7259025c626e7359025c626e7459025c626e755902ba5ccf7659022421267759022421267859025c626e7959025c626e7a59025c626e7b59025c626e7c59022421267d59022421267f59022421268059022421268159028e4a9d8259025c626e8359025c626e8459025c626e8559025c626e8659025c626e8759025c626e8859022421268959022421268a5902ba5ccf8b59025c626e8c59025c626e8d59025c626e8e59025c626e8f59022421269059022421269159022421269259022421269359022421269459025c626e9559025c626e9659025c626e9759025c626e9859022421269959022421269a59022421269b59025c626e9c59025c626e9d59025c626e9e59025c626e9f5902242126a05902242126a15902242126a25902242126a359025c626ea459025c626ea559025c626ea659025c626ea75902242126a85902242126a95902ba5ccfaa59025c626eab59025c626eac59025c626ead59025c626eae5902242126af5902242126b05902242126b15902242126b25902242126b35902242126b459025c626eb559025c626eb659025c626eb759025c626eb85902ba5ccfb95902242126ba5902242126bb59025c626ebc59025c626ebd59025c626ebe59025c626ebf5902242126c05902242126c25902242126c35902242126c459028e4a9dc559025c626ec659025c626ec759025c626ec859025c626ec959025c626eca59025c626ecb5902242126cc59022421262e5a022421262f5a02242126305a028e4a9d315a028e4a9d325a028e4a9d335a028e4a9d345a028e4a9d355a028e4a9d365a028e4a9d375a028e4a9d385a028e4a9d395a028e4a9d3a5a028e4a9d3b5a022421263c5a022421263d5a022421263e5a025c626e3f5a025c626e405a025c626e415a025c626e425a02242126435a02242126445a02242126455a02242126465a02242126475a02242126485a02242126495a022421264a5a022421264b5a022421264c5a022421264d5a025c626e4e5a025c626e4f5a025c626e505a025c626e515a02242126525a02242126535a02242126545a02ba5ccf555a025c626e565a025c626e575a025c626e585a025c626e595a022421265a5a022421265b5a022421265c5a022421265d5a025c626e5e5a025c626e5f5a025c626e605a025c626e615a02ba5ccf625a02242126635a02242126655a02242126665a02242126675a02ba5ccf685a025c626e695a025c626e6a5a025c626e6b5a025c626e6c5a022421266d5a022421266e5a022421266f5a02242126705a025c626e715a025c626e725a025c626e735a025c626e745a02ba5ccf755a02242126765a02242126775a02242126785a025c626e795a025c626e7a5a025c626e7b5a025c626e7c5a022421267d5a02242126805a02242126815a02242126825a028e4a9d835a025c626e845a025c626e855a025c626e865a025c626e875a025c626e885a02242126895a022421268a5a022421268b5a02ba5ccf8c5a025c626e8d5a025c626e8e5a025c626e8f5a025c626e905a02242126915a02242126925a02242126935a02242126945a025c626e955a025c626e965a025c626e975a028e4a9d985a02242126995a022421269a5a022421269b5a025c626e9c5a025c626e9d5a025c626e9e5a025c626e9f5a025c626ea05a025c626ea15a025c626ea25a025c626ea35a025c626ea45a025c626ea55a025c626ea65a025c626ea75a02242126a85a02242126a95a02242126aa5a02ba5ccfab5a025c626eac5a025c626ead5a025c626eae5a025c626eaf5a02242126b05a02242126b15a02242126b25a02242126b35a025c626eb45a025c626eb55a025c626eb65a025c626eb75a02ba5ccfb85a02242126b95a02242126ba5a02242126bb5a025c626ebc5a025c626ebd5a025c626ebe5a025c626ebf5a02242126c05a02242126c35a02242126c45a02242126c55a028e4a9dc65a025c626ec75a025c626ec85a025c626ec95a025c626eca5a025c626ecb5a02242126cc5a02242126cd5a022421262e5b022421262f5b02242126305b026a3a86315b028e4a9d325b028e4a9d335b028e4a9d345b028e4a9d355b028e4a9d365b028e4a9d375b028e4a9d385b028e4a9d395b028e4a9d3a5b026a3a863b5b022421263c5b028e4a9d3d5b025c626e3e5b025c626e3f5b025c626e405b025c626e415b025c626e425b028e4a9d435b02242126445b02242126465b02242126475b02242126485b022421264a5b022421264b5b022421264c5b028e4a9d4d5b025c626e4e5b025c626e4f5b025c626e505b025c626e515b025c626e525b028e4a9d535b02242126545b02242126555b02ba5ccf565b02ba5ccf575b02ba5ccf585b025c626e595b025c626e5a5b025c626e5b5b025c626e5c5b025c626e5d5b025c626e5e5b02ba5ccf5f5b02ba5ccf605b02ba5ccf615b02242126625b02242126665b02242126675b02242126685b02ba5ccf695b02ba5ccf6a5b02ba5ccf6b5b025c626e6c5b025c626e6d5b025c626e6e5b025c626e6f5b025c626e705b025c626e715b02ba5ccf725b02ba5ccf735b02ba5ccf745b02242126755b02242126765b028e4a9d775b025c626e785b025c626e795b025c626e7a5b025c626e7b5b025c626e7c5b028e4a9d7d5b022421267e5b02242126805b02242126815b02242126825b02ba5ccf835b025c626e845b025c626e855b025c626e865b025c626e875b025c626e885b025c626e895b028e4a9d8a5b022421268b5b022421268c5b02ba5ccf8d5b02ba5ccf8e5b02ba5ccf8f5b025c626e905b025c626e915b025c626e925b025c626e935b025c626e945b025c626e955b025c626e965b025c626e975b02ba5ccf985b02242126995b028e4a9d9a5b025c626e9b5b025c626e9c5b025c626e9d5b025c626e9e5b025c626e9f5b025c626ea05b025c626ea15b025c626ea25b025c626ea35b025c626ea45b025c626ea55b025c626ea65b028e4a9da75b02242126a85b02242126a95b02242126aa5b02242126ab5b02ba5ccfac5b02ba5ccfad5b02ba5ccfae5b025c626eaf5b025c626eb05b025c626eb15b025c626eb25b025c626eb35b025c626eb45b02ba5ccfb55b02ba5ccfb65b02ba5ccfb75b02242126b85b02242126b95b028e4a9dba5b025c626ebb5b025c626ebc5b025c626ebd5b025c626ebe5b025c626ebf5b028e4a9dc05b02242126c15b02242126c35b02242126c45b02242126c55b02ba5ccfc65b025c626ec75b025c626ec85b025c626ec95b025c626eca5b025c626ecb5b025c626ecc5b028e4a9dcd5b02242126ce5b022421262e5c022421262f5c02242126305c024a2b71315c024a2b71325c024a2b71335c024a2b71345c024a2b71355c024a2b71365c024a2b71375c024a2b71385c024a2b71395c024a2b713a5c024a2b713b5c022421263c5c02ba5ccf3d5c02ba5ccf3e5c02ba5ccf3f5c02ba5ccf405c02ba5ccf415c02ba5ccf425c02ba5ccf435c02242126445c022421264a5c022421264b5c022421264c5c02ba5ccf4d5c02ba5ccf4e5c02ba5ccf4f5c02ba5ccf505c02ba5ccf515c02ba5ccf525c02ba5ccf535c02242126545c02242126555c02242126565c02242126575c02242126585c02ba5ccf595c02ba5ccf5a5c02ba5ccf5b5c02ba5ccf5c5c02ba5ccf5d5c02ba5ccf5e5c022421265f5c02242126605c02242126615c02242126675c02242126685c02242126695c022421266a5c022421266b5c02ba5ccf6c5c02ba5ccf6d5c02ba5ccf6e5c02ba5ccf6f5c02ba5ccf705c02ba5ccf715c02242126725c02242126735c02242126745c02242126755c02242126765c02ba5ccf775c02ba5ccf785c02ba5ccf795c02ba5ccf7a5c02ba5ccf7b5c02ba5ccf7c5c02ba5ccf7d5c022421267e5c02242126815c02242126825c02242126835c02ba5ccf845c02ba5ccf855c02ba5ccf865c02ba5ccf875c02ba5ccf885c02ba5ccf895c02ba5ccf8a5c022421268b5c022421268c5c022421268d5c022421268e5c022421268f5c02ba5ccf905c02ba5ccf915c02ba5ccf925c02ba5ccf935c02ba5ccf945c02ba5ccf955c02ba5ccf965c02ba5ccf975c02242126985c02242126995c02ba5ccf9a5c02ba5ccf9b5c02ba5ccf9c5c02ba5ccf9d5c02ba5ccf9e5c02ba5ccf9f5c02ba5ccfa05c02ba5ccfa15c02ba5ccfa25c02ba5ccfa35c02ba5ccfa45c02ba5ccfa55c02ba5ccfa65c02ba5ccfa75c02242126a85c02242126aa5c02242126ab5c02242126ac5c02242126ad5c02242126ae5c02ba5ccfaf5c02ba5ccfb05c02ba5ccfb15c02ba5ccfb25c02ba5ccfb35c02ba5ccfb45c02242126b55c02242126b65c02242126b75c02242126b85c02242126b95c02ba5ccfba5c02ba5ccfbb5c02ba5ccfbc5c02ba5ccfbd5c02ba5ccfbe5c02ba5ccfbf5c02ba5ccfc05c02242126c15c02242126c45c02242126c55c02242126c65c02ba5ccfc75c02ba5ccfc85c02ba5ccfc95c02ba5ccfca5c02ba5ccfcb5c02ba5ccfcc5c02ba5ccfcd5c02242126ce5c022421262f5d02242126305d02242126315d02242126325d02242126335d02242126345d02242126355d02242126365d02242126375d02242126385d02242126395d022421263a5d022421263b5d022421263c5d022421263d5d022421263e5d022421263f5d02242126405d02242126415d02242126425d02242126435d022421264b5d022421264c5d022421264d5d022421264e5d022421264f5d02242126505d02242126515d02242126525d02242126535d02242126555d02242126565d02242126575d02242126585d02242126595d022421265a5d022421265b5d022421265c5d022421265d5d022421265e5d022421265f5d02242126605d02242126685d02242126695d022421266a5d022421266b5d022421266c5d022421266d5d022421266e5d022421266f5d02242126705d02242126715d02242126725d02242126735d02242126755d02242126765d02242126775d02242126785d02242126795d022421267a5d022421267b5d022421267c5d022421267d5d02242126825d02242126835d02242126845d02242126855d02242126865d02242126875d02242126885d02242126895d022421268a5d022421268c5d022421268d5d022421268e5d022421268f5d02242126905d02242126915d02242126925d02242126935d02242126945d02242126955d02242126965d02242126975d02242126985d02242126995d022421269a5d022421269b5d022421269c5d022421269d5d022421269e5d022421269f5d02242126a05d02242126a15d02242126a25d02242126a35d02242126a45d02242126a55d02242126a65d02242126a75d02242126ab5d02242126ac5d02242126ad5d02242126ae5d02242126af5d02242126b05d02242126b15d02242126b25d02242126b35d02242126b45d02242126b55d02242126b65d02242126b85d02242126b95d02242126ba5d02242126bb5d02242126bc5d02242126bd5d02242126be5d02242126bf5d02242126c05d02242126c55d02242126c65d02242126c75d02242126c85d02242126c95d02242126ca5d02242126cb5d02242126cc5d02242126cd5d02242126305e02242126315e02242126325e02242126335e02242126345e02242126355e02242126365e02242126375e02242126385e02242126395e022421263a5e022421263b5e022421263c5e022421263d5e022421263e5e022421263f5e02242126405e02242126415e02242126425e022421264c5e022421264d5e022421264e5e022421264f5e02242126505e02242126515e02242126525e02242126585e02242126595e022421265a5e022421265b5e022421265c5e022421265d5e022421266b5e022421266c5e022421266d5e022421266e5e022421266f5e02242126705e02242126765e02242126775e02242126785e02242126795e022421267a5e022421267b5e022421267c5e02242126835e02242126845e02242126855e02242126865e02242126875e02242126885e02242126895e022421268f5e02242126905e02242126915e02242126925e02242126935e02242126945e02242126955e02242126965e02242126995e022421269a5e022421269b5e022421269c5e022421269d5e022421269e5e022421269f5e02242126a05e02242126a15e02242126a25e02242126a35e02242126a45e02242126a55e02242126a65e02242126ae5e02242126af5e02242126b05e02242126b15e02242126b25e02242126b35e02242126b95e02242126ba5e02242126bb5e02242126bc5e02242126bd5e02242126be5e02242126bf5e02242126c65e02242126c75e02242126c85e02242126c95e02242126ca5e02242126cb5e02242126cc5e02242126");
 
     function Image3D$get_length$(_img$1) {
         var self = _img$1;
         switch (self._) {
             case 'Image3D.new':
-                var $538 = self.length;
-                var $539 = $538;
-                var $537 = $539;
+                var $537 = self.length;
+                var $538 = $537;
+                var $536 = $538;
                 break;
         };
-        return $537;
+        return $536;
     };
     const Image3D$get_length = x0 => Image3D$get_length$(x0);
 
     function Array$get$(_idx$3, _arr$4) {
-        var $540 = Word$foldl$(Array$extract_tip, (_rec$6 => _arr$7 => {
+        var $539 = Word$foldl$(Array$extract_tip, (_rec$6 => _arr$7 => {
             var _arr_l$8 = Array$extract_tie$(_arr$7);
             var self = _arr_l$8;
             switch (self._) {
                 case 'Pair.new':
-                    var $542 = self.fst;
-                    var $543 = _rec$6($542);
-                    var $541 = $543;
+                    var $541 = self.fst;
+                    var $542 = _rec$6($541);
+                    var $540 = $542;
                     break;
             };
-            return $541;
+            return $540;
         }), (_rec$6 => _arr$7 => {
             var _arr_r$8 = Array$extract_tie$(_arr$7);
             var self = _arr_r$8;
             switch (self._) {
                 case 'Pair.new':
-                    var $545 = self.snd;
-                    var $546 = _rec$6($545);
-                    var $544 = $546;
+                    var $544 = self.snd;
+                    var $545 = _rec$6($544);
+                    var $543 = $545;
                     break;
             };
-            return $544;
+            return $543;
         }), _idx$3)(_arr$4);
-        return $540;
+        return $539;
     };
     const Array$get = x0 => x1 => Array$get$(x0, x1);
     const Buffer32$get = a0 => a1 => ((a1[a0]));
@@ -2921,8 +2908,8 @@ module.exports = (function() {
         var _c_x$9 = (Math.max(_a_x$3 - _b_x$6, 0));
         var _c_y$10 = (Math.max(_a_y$4 - _b_y$7, 0));
         var _c_z$11 = (Math.max(_a_z$5 - _b_z$8, 0));
-        var $547 = ((0 | _c_x$9 | (_c_y$10 << 12) | (_c_z$11 << 24)));
-        return $547;
+        var $546 = ((0 | _c_x$9 | (_c_y$10 << 12) | (_c_z$11 << 24)));
+        return $546;
     };
     const Pos32$sub = x0 => x1 => Pos32$sub$(x0, x1);
 
@@ -2936,8 +2923,8 @@ module.exports = (function() {
         var _c_x$9 = ((_a_x$3 + _b_x$6) >>> 0);
         var _c_y$10 = ((_a_y$4 + _b_y$7) >>> 0);
         var _c_z$11 = ((_a_z$5 + _b_z$8) >>> 0);
-        var $548 = ((0 | _c_x$9 | (_c_y$10 << 12) | (_c_z$11 << 24)));
-        return $548;
+        var $547 = ((0 | _c_x$9 | (_c_y$10 << 12) | (_c_z$11 << 24)));
+        return $547;
     };
     const Pos32$add = x0 => x1 => Pos32$add$(x0, x1);
     const Mons$vox_mid = ((0 | 128 | (128 << 12) | (0 << 24)));
@@ -2945,68 +2932,67 @@ module.exports = (function() {
     function Mons$draw$image$(_img$1, _pos$2, _scr$3) {
         var _len$4 = Image3D$get_length$(_img$1);
         var _scr$5 = (() => {
-            var $550 = _scr$3;
-            var $551 = 0;
-            var $552 = _len$4;
-            let _scr$6 = $550;
-            for (let _i$5 = $551; _i$5 < $552; ++_i$5) {
+            var $549 = _scr$3;
+            var $550 = 0;
+            var $551 = _len$4;
+            let _scr$6 = $549;
+            for (let _i$5 = $550; _i$5 < $551; ++_i$5) {
                 var _pix_pos$7 = ((_img$1.buffer[_i$5 * 2]));
                 var _pix_col$8 = ((_img$1.buffer[_i$5 * 2 + 1]));
                 var _pix_pos$9 = Pos32$sub$(Pos32$add$(_pos$2, _pix_pos$7), Mons$vox_mid);
-                var $550 = ((_scr$6.buffer[_scr$6.length * 2] = _pix_pos$9, _scr$6.buffer[_scr$6.length * 2 + 1] = _pix_col$8, _scr$6.length++, _scr$6));
-                _scr$6 = $550;
+                var $549 = ((_scr$6.buffer[_scr$6.length * 2] = _pix_pos$9, _scr$6.buffer[_scr$6.length * 2 + 1] = _pix_col$8, _scr$6.length++, _scr$6));
+                _scr$6 = $549;
             };
             return _scr$6;
         })();
-        var $549 = _scr$5;
-        return $549;
+        var $548 = _scr$5;
+        return $548;
     };
     const Mons$draw$image = x0 => x1 => x2 => Mons$draw$image$(x0, x1, x2);
-    const Mons$f_exe = Image3D$parse$("7d7f28ffffff7e7f28ffffff7f7f28ffffff807f28ffffff817f28ffffff");
     const List$for = a0 => a1 => a2 => (list_for(a0)(a1)(a2));
 
     function List$imap$(_f$3, _xs$4) {
         var self = _xs$4;
         switch (self._) {
             case 'List.cons':
-                var $554 = self.head;
-                var $555 = self.tail;
-                var $556 = List$cons$(_f$3(0n)($554), List$imap$((_n$7 => {
-                    var $557 = _f$3(Nat$succ$(_n$7));
-                    return $557;
-                }), $555));
-                var $553 = $556;
+                var $553 = self.head;
+                var $554 = self.tail;
+                var $555 = List$cons$(_f$3(0n)($553), List$imap$((_n$7 => {
+                    var $556 = _f$3(Nat$succ$(_n$7));
+                    return $556;
+                }), $554));
+                var $552 = $555;
                 break;
             case 'List.nil':
-                var $558 = List$nil;
-                var $553 = $558;
+                var $557 = List$nil;
+                var $552 = $557;
                 break;
         };
-        return $553;
+        return $552;
     };
     const List$imap = x0 => x1 => List$imap$(x0, x1);
 
     function List$indices$u32$(_xs$2) {
-        var $559 = List$imap$((_i$3 => _x$4 => {
-            var $560 = Pair$new$((Number(_i$3)), _x$4);
-            return $560;
+        var $558 = List$imap$((_i$3 => _x$4 => {
+            var $559 = Pair$new$((Number(_i$3)), _x$4);
+            return $559;
         }), _xs$2);
-        return $559;
+        return $558;
     };
     const List$indices$u32 = x0 => List$indices$u32$(x0);
 
     function String$to_list$(_str$1) {
         var self = _str$1;
         if (self.length === 0) {
-            var $562 = List$nil;
-            var $561 = $562;
+            var $561 = List$nil;
+            var $560 = $561;
         } else {
-            var $563 = self.charCodeAt(0);
-            var $564 = self.slice(1);
-            var $565 = List$cons$($563, String$to_list$($564));
-            var $561 = $565;
+            var $562 = self.charCodeAt(0);
+            var $563 = self.slice(1);
+            var $564 = List$cons$($562, String$to_list$($563));
+            var $560 = $564;
         };
-        return $561;
+        return $560;
     };
     const String$to_list = x0 => String$to_list$(x0);
     const U16$to_bits = a0 => (u16_to_bits(a0));
@@ -3015,16 +3001,16 @@ module.exports = (function() {
         var self = Map$get$((u16_to_bits(_char$1)), _map$2);
         switch (self._) {
             case 'Maybe.some':
-                var $567 = self.value;
-                var $568 = Maybe$some$($567);
-                var $566 = $568;
+                var $566 = self.value;
+                var $567 = Maybe$some$($566);
+                var $565 = $567;
                 break;
             case 'Maybe.none':
-                var $569 = Maybe$none;
-                var $566 = $569;
+                var $568 = Maybe$none;
+                var $565 = $568;
                 break;
         };
-        return $566;
+        return $565;
     };
     const Mons$font$get_img = x0 => x1 => Mons$font$get_img$(x0, x1);
 
@@ -3032,60 +3018,60 @@ module.exports = (function() {
         var self = Mons$font$get_img$(_chr$1, _font_map$2);
         switch (self._) {
             case 'Maybe.some':
-                var $571 = self.value;
-                var _img$6 = $571;
+                var $570 = self.value;
+                var _img$6 = $570;
                 var _img_len$7 = Image3D$get_length$(_img$6);
                 var _scr$8 = (() => {
-                    var $573 = _scr$4;
-                    var $574 = 0;
-                    var $575 = _img_len$7;
-                    let _scr$9 = $573;
-                    for (let _i$8 = $574; _i$8 < $575; ++_i$8) {
+                    var $572 = _scr$4;
+                    var $573 = 0;
+                    var $574 = _img_len$7;
+                    let _scr$9 = $572;
+                    for (let _i$8 = $573; _i$8 < $574; ++_i$8) {
                         var _vox_pos$10 = ((_img$6.buffer[_i$8 * 2]));
                         var _pos$11 = Pos32$sub$(Pos32$add$(_chr_pos$3, _vox_pos$10), Mons$vox_mid);
                         var _col$12 = ((_img$6.buffer[_i$8 * 2 + 1]));
-                        var $573 = ((_scr$9.buffer[_scr$9.length * 2] = _pos$11, _scr$9.buffer[_scr$9.length * 2 + 1] = _col$12, _scr$9.length++, _scr$9));
-                        _scr$9 = $573;
+                        var $572 = ((_scr$9.buffer[_scr$9.length * 2] = _pos$11, _scr$9.buffer[_scr$9.length * 2 + 1] = _col$12, _scr$9.length++, _scr$9));
+                        _scr$9 = $572;
                     };
                     return _scr$9;
                 })();
-                var $572 = _scr$8;
-                var $570 = $572;
+                var $571 = _scr$8;
+                var $569 = $571;
                 break;
             case 'Maybe.none':
-                var $576 = _scr$4;
-                var $570 = $576;
+                var $575 = _scr$4;
+                var $569 = $575;
                 break;
         };
-        return $570;
+        return $569;
     };
     const Mons$draw$char = x0 => x1 => x2 => x3 => Mons$draw$char$(x0, x1, x2, x3);
 
     function Mons$draw$text$(_txt$1, _font_map$2, _chr_pos$3, _scr$4) {
         var _scr$5 = (() => {
-            var $579 = _scr$4;
-            var $580 = List$indices$u32$(String$to_list$(_txt$1));
-            let _scr$6 = $579;
+            var $578 = _scr$4;
+            var $579 = List$indices$u32$(String$to_list$(_txt$1));
+            let _scr$6 = $578;
             let _pair$5;
-            while ($580._ === 'List.cons') {
-                _pair$5 = $580.head;
+            while ($579._ === 'List.cons') {
+                _pair$5 = $579.head;
                 var self = _pair$5;
                 switch (self._) {
                     case 'Pair.new':
-                        var $581 = self.fst;
-                        var $582 = self.snd;
-                        var _add_pos$9 = ((0 | (($581 * 6) >>> 0) | (0 << 12) | (0 << 24)));
-                        var $583 = Mons$draw$char$($582, _font_map$2, Pos32$add$(_chr_pos$3, _add_pos$9), _scr$6);
-                        var $579 = $583;
+                        var $580 = self.fst;
+                        var $581 = self.snd;
+                        var _add_pos$9 = ((0 | (($580 * 6) >>> 0) | (0 << 12) | (0 << 24)));
+                        var $582 = Mons$draw$char$($581, _font_map$2, Pos32$add$(_chr_pos$3, _add_pos$9), _scr$6);
+                        var $578 = $582;
                         break;
                 };
-                _scr$6 = $579;
-                $580 = $580.tail;
+                _scr$6 = $578;
+                $579 = $579.tail;
             }
             return _scr$6;
         })();
-        var $577 = _scr$5;
-        return $577;
+        var $576 = _scr$5;
+        return $576;
     };
     const Mons$draw$text = x0 => x1 => x2 => x3 => Mons$draw$text$(x0, x1, x2, x3);
 
@@ -3103,27 +3089,27 @@ module.exports = (function() {
                 var _y$9 = (((_pos$5 >>> 12) & 0xFFF));
                 var self = _horizontal$2;
                 if (self) {
-                    var $585 = ((0 | ((((_spacing$3 + _idx$7) >>> 0) + _x$8) >>> 0) | (_y$9 << 12) | (0 << 24)));
-                    var _pos$10 = $585;
+                    var $584 = ((0 | ((((_spacing$3 + _idx$7) >>> 0) + _x$8) >>> 0) | (_y$9 << 12) | (0 << 24)));
+                    var _pos$10 = $584;
                 } else {
-                    var $586 = ((0 | _x$8 | (((((_spacing$3 + _idx$7) >>> 0) + _y$9) >>> 0) << 12) | (0 << 24)));
-                    var _pos$10 = $586;
+                    var $585 = ((0 | _x$8 | (((((_spacing$3 + _idx$7) >>> 0) + _y$9) >>> 0) << 12) | (0 << 24)));
+                    var _pos$10 = $585;
                 };
                 var self = _texts$1;
                 switch (self._) {
                     case 'List.cons':
-                        var $587 = self.head;
-                        var $588 = self.tail;
-                        var _scr$13 = Mons$draw$text$($587, _font_map$4, _pos$10, _scr$6);
-                        var $589 = Mons$draw$list$go$($588, _horizontal$2, _spacing$3, _font_map$4, _pos$10, _scr$13, ((_idx$7 + 1) >>> 0));
-                        var $584 = $589;
+                        var $586 = self.head;
+                        var $587 = self.tail;
+                        var _scr$13 = Mons$draw$text$($586, _font_map$4, _pos$10, _scr$6);
+                        var $588 = Mons$draw$list$go$($587, _horizontal$2, _spacing$3, _font_map$4, _pos$10, _scr$13, ((_idx$7 + 1) >>> 0));
+                        var $583 = $588;
                         break;
                     case 'List.nil':
-                        var $590 = _scr$6;
-                        var $584 = $590;
+                        var $589 = _scr$6;
+                        var $583 = $589;
                         break;
                 };
-                return $584;
+                return $583;
             })();
             if (R.ctr === 'TCO') arg = R.arg;
             else return R;
@@ -3133,20 +3119,20 @@ module.exports = (function() {
 
     function Mons$draw$list$(_texts$1, _horizontal$2, _spacing$3, _font_map$4, _start_pos$5, _scr$6) {
         var _qtd$7 = (Number((list_length(_texts$1))));
-        var $591 = Mons$draw$list$go$(_texts$1, _horizontal$2, _spacing$3, _font_map$4, _start_pos$5, _scr$6, 0);
-        return $591;
+        var $590 = Mons$draw$list$go$(_texts$1, _horizontal$2, _spacing$3, _font_map$4, _start_pos$5, _scr$6, 0);
+        return $590;
     };
     const Mons$draw$list = x0 => x1 => x2 => x3 => x4 => x5 => Mons$draw$list$(x0, x1, x2, x3, x4, x5);
 
     function Mons$font$set_img$(_char$1, _img$2, _map$3) {
-        var $592 = Map$set$((u16_to_bits(_char$1)), _img$2, _map$3);
-        return $592;
+        var $591 = Map$set$((u16_to_bits(_char$1)), _img$2, _map$3);
+        return $591;
     };
     const Mons$font$set_img = x0 => x1 => x2 => Mons$font$set_img$(x0, x1, x2);
 
     function U16$new$(_value$1) {
-        var $593 = word_to_u16(_value$1);
-        return $593;
+        var $592 = word_to_u16(_value$1);
+        return $592;
     };
     const U16$new = x0 => U16$new$(x0);
 
@@ -3154,130 +3140,111 @@ module.exports = (function() {
         var self = _a$1;
         switch ('u16') {
             case 'u16':
-                var $595 = u16_to_word(self);
-                var $596 = U16$new$(Word$inc$($595));
-                var $594 = $596;
+                var $594 = u16_to_word(self);
+                var $595 = U16$new$(Word$inc$($594));
+                var $593 = $595;
                 break;
         };
-        return $594;
+        return $593;
     };
     const U16$inc = x0 => U16$inc$(x0);
     const U16$zero = U16$new$(Word$zero$(16n));
     const Nat$to_u16 = a0 => (Number(a0));
-    const Mons$Char_black$100 = Image3D$parse$("817c28ffffff817d28ffffff7e7e28ffffff7f7e28ffffff807e28ffffff817e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff818328ffffff");
-    const Mons$Char_black$101 = Image3D$parse$("7e7e28ffffff7f7e28ffffff807e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff7e8028ffffff7f8028ffffff808028ffffff818028ffffff7d8128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$102 = Image3D$parse$("7f7c28ffffff807c28ffffff817c28ffffff7e7d28ffffff7e7e28ffffff7d7f28ffffff7e7f28ffffff7f7f28ffffff807f28ffffff817f28ffffff7e8028ffffff7e8128ffffff7e8228ffffff7e8328ffffff");
-    const Mons$Char_black$103 = Image3D$parse$("7e7e28ffffff7f7e28ffffff807e28ffffff817e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff818328ffffff818428ffffff7e8528ffffff7f8528ffffff808528ffffff");
-    const Mons$Char_black$104 = Image3D$parse$("7d7c28ffffff7d7d28ffffff7d7e28ffffff7e7e28ffffff7f7e28ffffff807e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7d8328ffffff818328ffffff");
-    const Mons$Char_black$105 = Image3D$parse$("7f7d28ffffff7e7f28ffffff7f7f28ffffff7f8028ffffff7f8128ffffff7f8228ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$106 = Image3D$parse$("817d28ffffff7f7f28ffffff807f28ffffff817f28ffffff818028ffffff818128ffffff818228ffffff818328ffffff818428ffffff7e8528ffffff7f8528ffffff808528ffffff");
-    const Mons$Char_black$107 = Image3D$parse$("7d7c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff817e28ffffff7d7f28ffffff807f28ffffff7d8028ffffff7e8028ffffff7f8028ffffff7d8128ffffff808128ffffff7d8228ffffff818228ffffff7d8328ffffff818328ffffff");
-    const Mons$Char_black$108 = Image3D$parse$("7e7c28ffffff7f7c28ffffff7f7d28ffffff7f7e28ffffff7f7f28ffffff7f8028ffffff7f8128ffffff7f8228ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$109 = Image3D$parse$("7d7e28ffffff7e7e28ffffff7f7e28ffffff807e28ffffff7d7f28ffffff7f7f28ffffff817f28ffffff7d8028ffffff7f8028ffffff818028ffffff7d8128ffffff7f8128ffffff818128ffffff7d8228ffffff7f8228ffffff818228ffffff7d8328ffffff7f8328ffffff818328ffffff");
-    const Mons$Char_black$110 = Image3D$parse$("7d7e28ffffff7e7e28ffffff7f7e28ffffff807e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7d8328ffffff818328ffffff");
-    const Mons$Char_black$111 = Image3D$parse$("7e7e28ffffff7f7e28ffffff807e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$112 = Image3D$parse$("7d7e28ffffff7e7e28ffffff7f7e28ffffff807e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7d8328ffffff7e8328ffffff7f8328ffffff808328ffffff7d8428ffffff7d8528ffffff");
-    const Mons$Char_black$113 = Image3D$parse$("7e7e28ffffff7f7e28ffffff807e28ffffff817e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff818328ffffff818428ffffff818528ffffff");
-    const Mons$Char_black$114 = Image3D$parse$("7d7e28ffffff807e28ffffff817e28ffffff7d7f28ffffff7f7f28ffffff7d8028ffffff7e8028ffffff7d8128ffffff7d8228ffffff7d8328ffffff");
-    const Mons$Char_black$115 = Image3D$parse$("7e7e28ffffff7f7e28ffffff807e28ffffff817e28ffffff7d7f28ffffff7e8028ffffff7f8028ffffff808028ffffff818128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$116 = Image3D$parse$("7e7c28ffffff7e7d28ffffff7d7e28ffffff7e7e28ffffff7f7e28ffffff807e28ffffff7e7f28ffffff7e8028ffffff7e8128ffffff7e8228ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$117 = Image3D$parse$("7d7e28ffffff817e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff818328ffffff");
-    const Mons$Char_black$118 = Image3D$parse$("7d7e28ffffff817e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7e8228ffffff808228ffffff7f8328ffffff");
-    const Mons$Char_black$119 = Image3D$parse$("7d7e28ffffff817e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff7f8128ffffff818128ffffff7d8228ffffff7f8228ffffff818228ffffff7e8328ffffff808328ffffff");
-    const Mons$Char_black$120 = Image3D$parse$("7d7e28ffffff817e28ffffff7e7f28ffffff807f28ffffff7f8028ffffff7f8128ffffff7e8228ffffff808228ffffff7d8328ffffff818328ffffff");
-    const Mons$Char_black$121 = Image3D$parse$("7d7e28ffffff817e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff808428ffffff7d8528ffffff7e8528ffffff7f8528ffffff");
-    const Mons$Char_black$122 = Image3D$parse$("7d7e28ffffff7e7e28ffffff7f7e28ffffff807e28ffffff817e28ffffff817f28ffffff7f8028ffffff808028ffffff7e8128ffffff7d8228ffffff7d8328ffffff7e8328ffffff7f8328ffffff808328ffffff818328ffffff");
-    const Mons$Char_black$123 = Image3D$parse$("807c28ffffff7f7d28ffffff7f7e28ffffff7f7f28ffffff7e8028ffffff7f8128ffffff7f8228ffffff808328ffffff");
-    const Mons$Char_black$124 = Image3D$parse$("7f7c28ffffff7f7d28ffffff7f7e28ffffff7f7f28ffffff7f8028ffffff7f8128ffffff7f8228ffffff7f8328ffffff");
-    const Mons$Char_black$125 = Image3D$parse$("7e7c28ffffff7f7d28ffffff7f7e28ffffff7f7f28ffffff808028ffffff7f8128ffffff7f8228ffffff7e8328ffffff");
-    const Mons$Char_black$126 = Image3D$parse$("7e7b28ffffff817b28ffffff7d7c28ffffff7f7c28ffffff817c28ffffff7d7d28ffffff807d28ffffff");
+    const Mons$Char_black$100 = Image3D$parse$("7d7d1e2121287e7d1e2121287f7d1e2121287d7e1e212128807e1e2121287d7f1e212128807f1e2121287d801e21212880801e2121287d811e2121287e811e2121287f811e212128");
+    const Mons$Char_black$101 = Image3D$parse$("7d7d1e2121287e7d1e2121287f7d1e212128807d1e2121287d7e1e2121287d7f1e2121287e7f1e2121287f7f1e2121287d801e2121287d811e2121287e811e2121287f811e21212880811e212128");
+    const Mons$Char_black$102 = Image3D$parse$("7d7d1e2121287e7d1e2121287f7d1e212128807d1e2121287d7e1e2121287d7f1e2121287e7f1e2121287f7f1e212128807f1e2121287d801e2121287d811e212128");
+    const Mons$Char_black$103 = Image3D$parse$("7e7d1e2121287f7d1e212128807d1e2121287d7e1e2121287d7f1e2121287f7f1e212128807f1e2121287d801e21212880801e2121287e811e2121287f811e21212880811e212128");
+    const Mons$Char_black$104 = Image3D$parse$("7d7d1e212128807d1e2121287d7e1e212128807e1e2121287d7f1e2121287e7f1e2121287f7f1e212128807f1e2121287d801e21212880801e2121287d811e21212880811e212128");
+    const Mons$Char_black$105 = Image3D$parse$("7e7d1e2121287f7d1e212128807d1e2121287f7e1e2121287f7f1e2121287f801e2121287e811e2121287f811e21212880811e212128");
+    const Mons$Char_black$106 = Image3D$parse$("807d1e212128807e1e212128807f1e2121287d801e21212880801e2121287e811e2121287f811e212128");
+    const Mons$Char_black$107 = Image3D$parse$("7d7d1e212128807d1e2121287d7e1e2121287f7e1e2121287d7f1e2121287e7f1e2121287d801e2121287f801e2121287d811e21212880811e212128");
+    const Mons$Char_black$108 = Image3D$parse$("7d7d1e2121287d7e1e2121287d7f1e2121287d801e2121287d811e2121287e811e2121287f811e21212880811e212128");
+    const Mons$Char_black$109 = Image3D$parse$("7d7d1e2121287e7d1e212128807d1e212128817d1e2121287d7e1e2121287f7e1e212128817e1e2121287d7f1e212128817f1e2121287d801e21212881801e2121287d811e21212881811e212128");
+    const Mons$Char_black$110 = Image3D$parse$("7d7d1e212128807d1e2121287d7e1e2121287e7e1e212128807e1e2121287d7f1e2121287f7f1e212128807f1e2121287d801e21212880801e2121287d811e21212880811e212128");
+    const Mons$Char_black$111 = Image3D$parse$("7e7d1e2121287f7d1e2121287d7e1e212128807e1e2121287d7f1e212128807f1e2121287d801e21212880801e2121287e811e2121287f811e212128");
+    const Mons$Char_black$112 = Image3D$parse$("7d7d1e2121287e7d1e2121287f7d1e212128807d1e2121287d7e1e212128807e1e2121287d7f1e2121287e7f1e2121287f7f1e2121287d801e2121287d811e212128");
+    const Mons$Char_black$113 = Image3D$parse$("7e7d1e2121287f7d1e2121287d7e1e212128807e1e2121287d7f1e212128807f1e2121287d801e21212880801e2121287e811e2121287f811e2121287f821e21212880821e212128");
+    const Mons$Char_black$114 = Image3D$parse$("7d7d1e2121287e7d1e2121287f7d1e212128807d1e2121287d7e1e212128807e1e2121287d7f1e2121287e7f1e2121287f7f1e2121287d801e21212880801e2121287d811e21212880811e212128");
+    const Mons$Char_black$115 = Image3D$parse$("7e7d1e2121287f7d1e212128807d1e2121287d7e1e2121287e7f1e2121287f7f1e21212880801e2121287d811e2121287e811e2121287f811e212128");
+    const Mons$Char_black$116 = Image3D$parse$("7e7d1e2121287f7d1e212128807d1e2121287f7e1e2121287f7f1e2121287f801e2121287f811e212128");
+    const Mons$Char_black$117 = Image3D$parse$("7d7d1e212128807d1e2121287d7e1e212128807e1e2121287d7f1e212128807f1e2121287d801e21212880801e2121287e811e2121287f811e212128");
+    const Mons$Char_black$118 = Image3D$parse$("7e7d1e212128807d1e2121287e7e1e212128807e1e2121287e7f1e212128807f1e2121287e801e21212880801e2121287f811e212128");
+    const Mons$Char_black$119 = Image3D$parse$("7d7d1e212128817d1e2121287d7e1e212128817e1e2121287d7f1e2121287f7f1e212128817f1e2121287d801e2121287e801e21212880801e21212881801e2121287d811e21212881811e212128");
+    const Mons$Char_black$120 = Image3D$parse$("7d7d1e212128817d1e2121287e7e1e212128807e1e2121287f7f1e2121287e801e21212880801e2121287d811e21212881811e212128");
+    const Mons$Char_black$121 = Image3D$parse$("7d7d1e212128817d1e2121287e7e1e212128807e1e2121287f7f1e2121287f801e2121287f811e212128");
+    const Mons$Char_black$122 = Image3D$parse$("7d7d1e2121287e7d1e2121287f7d1e212128807d1e212128807e1e2121287e7f1e2121287f7f1e2121287d801e2121287d811e2121287e811e2121287f811e21212880811e212128");
+    const Mons$Char_black$123 = Image3D$parse$("7f7d1e212128807d1e2121287f7e1e2121287e7f1e2121287f801e2121287f811e21212880811e212128");
+    const Mons$Char_black$124 = Image3D$parse$("7f7d1e2121287f7e1e2121287f7f1e2121287f801e2121287f811e212128");
+    const Mons$Char_black$125 = Image3D$parse$("7e7d1e2121287f7d1e2121287f7e1e212128807f1e2121287f801e2121287e811e2121287f811e212128");
+    const Mons$Char_black$126 = Image3D$parse$("7e7d1e2121287f7d1e212128817d1e2121287d7e1e2121287f7e1e212128817e1e2121287d7f1e2121287f7f1e212128807f1e212128");
     const Mons$Char_black$32 = Image3D$parse$("");
-    const Mons$Char_black$33 = Image3D$parse$("7f7c28ffffff7f7d28ffffff7f7e28ffffff7f7f28ffffff7f8028ffffff7f8128ffffff7f8328ffffff");
-    const Mons$Char_black$34 = Image3D$parse$("7e7c28ffffff807c28ffffff7e7d28ffffff807d28ffffff");
-    const Mons$Char_black$35 = Image3D$parse$("7e7c28ffffff807c28ffffff7e7d28ffffff807d28ffffff7d7e28ffffff7e7e28ffffff7f7e28ffffff807e28ffffff817e28ffffff7e7f28ffffff807f28ffffff7e8028ffffff808028ffffff7d8128ffffff7e8128ffffff7f8128ffffff808128ffffff818128ffffff7e8228ffffff808228ffffff7e8328ffffff808328ffffff");
-    const Mons$Char_black$36 = Image3D$parse$("7f7b28ffffff7e7c28ffffff7f7c28ffffff807c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff7e7f28ffffff7f8028ffffff808028ffffff818128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff7f8428ffffff");
-    const Mons$Char_black$37 = Image3D$parse$("7e7b28ffffff7d7c28ffffff7f7c28ffffff7e7d28ffffff817d28ffffff807e28ffffff7f7f28ffffff7e8028ffffff7d8128ffffff808128ffffff7f8228ffffff818228ffffff808328ffffff");
-    const Mons$Char_black$38 = Image3D$parse$("7e7c28ffffff7f7c28ffffff7d7d28ffffff807d28ffffff7d7e28ffffff807e28ffffff7e7f28ffffff7f7f28ffffff7d8028ffffff7d8128ffffff7f8128ffffff808128ffffff818128ffffff7d8228ffffff808228ffffff7e8328ffffff7f8328ffffff818328ffffff");
-    const Mons$Char_black$39 = Image3D$parse$("7f7c28ffffff7f7d28ffffff");
-    const Mons$Char_black$40 = Image3D$parse$("807c28ffffff7f7d28ffffff7e7e28ffffff7e7f28ffffff7e8028ffffff7e8128ffffff7f8228ffffff808328ffffff");
-    const Mons$Char_black$41 = Image3D$parse$("7e7c28ffffff7f7d28ffffff807e28ffffff807f28ffffff808028ffffff808128ffffff7f8228ffffff7e8328ffffff");
-    const Mons$Char_black$42 = Image3D$parse$("7e7d28ffffff807d28ffffff7f7e28ffffff7e7f28ffffff7f7f28ffffff807f28ffffff7f8028ffffff7e8128ffffff808128ffffff");
-    const Mons$Char_black$43 = Image3D$parse$("7f7d28ffffff7f7e28ffffff7d7f28ffffff7e7f28ffffff7f7f28ffffff807f28ffffff817f28ffffff7f8028ffffff7f8128ffffff");
-    const Mons$Char_black$44 = Image3D$parse$("7f8228ffffff808228ffffff7f8328ffffff808328ffffff808428ffffff7f8528ffffff");
-    const Mons$Char_black$45 = Image3D$parse$("7d7f28ffffff7e7f28ffffff7f7f28ffffff807f28ffffff817f28ffffff");
-    const Mons$Char_black$46 = Image3D$parse$("808328ffffff818328ffffff");
-    const Mons$Char_black$47 = Image3D$parse$("817c28ffffff807d28ffffff807e28ffffff7f7f28ffffff7f8028ffffff7e8128ffffff7e8228ffffff7d8328ffffff");
-    const Mons$Char_black$48 = Image3D$parse$("7e7c28ffffff7f7c28ffffff807c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff807e28ffffff817e28ffffff7d7f28ffffff7f7f28ffffff817f28ffffff7d8028ffffff7f8028ffffff818028ffffff7d8128ffffff7e8128ffffff818128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$49 = Image3D$parse$("807c28ffffff7f7d28ffffff807d28ffffff7e7e28ffffff807e28ffffff7d7f28ffffff807f28ffffff808028ffffff808128ffffff808228ffffff808328ffffff");
-    const Mons$Char_black$50 = Image3D$parse$("7e7c28ffffff7f7c28ffffff807c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff817e28ffffff807f28ffffff7f8028ffffff7e8128ffffff7d8228ffffff7d8328ffffff7e8328ffffff7f8328ffffff808328ffffff818328ffffff");
-    const Mons$Char_black$51 = Image3D$parse$("7e7c28ffffff7f7c28ffffff807c28ffffff7d7d28ffffff817d28ffffff817e28ffffff7e7f28ffffff7f7f28ffffff807f28ffffff818028ffffff818128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$52 = Image3D$parse$("7e7c28ffffff7e7d28ffffff7e7e28ffffff807e28ffffff7e7f28ffffff807f28ffffff7d8028ffffff808028ffffff7d8128ffffff7e8128ffffff7f8128ffffff808128ffffff818128ffffff808228ffffff808328ffffff");
-    const Mons$Char_black$53 = Image3D$parse$("7d7c28ffffff7e7c28ffffff7f7c28ffffff807c28ffffff817c28ffffff7d7d28ffffff7d7e28ffffff7d7f28ffffff7e7f28ffffff7f7f28ffffff807f28ffffff818028ffffff818128ffffff818228ffffff7d8328ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$54 = Image3D$parse$("807c28ffffff7f7d28ffffff7e7e28ffffff7e7f28ffffff7f7f28ffffff807f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$55 = Image3D$parse$("7d7c28ffffff7e7c28ffffff7f7c28ffffff807c28ffffff817c28ffffff817d28ffffff807e28ffffff7f7f28ffffff7e8028ffffff7e8128ffffff7e8228ffffff7e8328ffffff");
-    const Mons$Char_black$56 = Image3D$parse$("7e7c28ffffff7f7c28ffffff807c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff817e28ffffff7e7f28ffffff7f7f28ffffff807f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$57 = Image3D$parse$("7e7c28ffffff7f7c28ffffff807c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff817e28ffffff7d7f28ffffff817f28ffffff7e8028ffffff7f8028ffffff808028ffffff808128ffffff7f8228ffffff7e8328ffffff");
-    const Mons$Char_black$58 = Image3D$parse$("7f7f28ffffff807f28ffffff7f8228ffffff808228ffffff");
-    const Mons$Char_black$59 = Image3D$parse$("7f7f28ffffff807f28ffffff7f8228ffffff808228ffffff7f8328ffffff808328ffffff808428ffffff7f8528ffffff");
-    const Mons$Char_black$60 = Image3D$parse$("807c28ffffff7f7d28ffffff7e7e28ffffff7d7f28ffffff7d8028ffffff7e8128ffffff7f8228ffffff808328ffffff");
-    const Mons$Char_black$61 = Image3D$parse$("7d7f28ffffff7e7f28ffffff7f7f28ffffff807f28ffffff817f28ffffff7d8128ffffff7e8128ffffff7f8128ffffff808128ffffff818128ffffff");
-    const Mons$Char_black$62 = Image3D$parse$("7e7c28ffffff7f7d28ffffff807e28ffffff817f28ffffff818028ffffff808128ffffff7f8228ffffff7e8328ffffff");
-    const Mons$Char_black$63 = Image3D$parse$("7e7c28ffffff7f7c28ffffff807c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff817e28ffffff807f28ffffff7f8028ffffff7f8128ffffff7f8328ffffff");
-    const Mons$Char_black$64 = Image3D$parse$("7e7c28ffffff7f7c28ffffff807c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff807e28ffffff817e28ffffff7d7f28ffffff7f7f28ffffff817f28ffffff7d8028ffffff7f8028ffffff818028ffffff7d8128ffffff808128ffffff818128ffffff7d8228ffffff7e8328ffffff7f8328ffffff808328ffffff818328ffffff");
-    const Mons$Char_black$65 = Image3D$parse$("7e7c28ffffff7f7c28ffffff807c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff817e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff7e8128ffffff7f8128ffffff808128ffffff818128ffffff7d8228ffffff818228ffffff7d8328ffffff818328ffffff");
-    const Mons$Char_black$66 = Image3D$parse$("7d7c28ffffff7e7c28ffffff7f7c28ffffff807c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff817e28ffffff7d7f28ffffff7e7f28ffffff7f7f28ffffff807f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7d8328ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$67 = Image3D$parse$("7e7c28ffffff7f7c28ffffff807c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff7d7f28ffffff7d8028ffffff7d8128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$68 = Image3D$parse$("7d7c28ffffff7e7c28ffffff7f7c28ffffff807c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff817e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7d8328ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$69 = Image3D$parse$("7d7c28ffffff7e7c28ffffff7f7c28ffffff807c28ffffff817c28ffffff7d7d28ffffff7d7e28ffffff7d7f28ffffff7e7f28ffffff7f7f28ffffff807f28ffffff817f28ffffff7d8028ffffff7d8128ffffff7d8228ffffff7d8328ffffff7e8328ffffff7f8328ffffff808328ffffff818328ffffff");
-    const Mons$Char_black$70 = Image3D$parse$("7d7c28ffffff7e7c28ffffff7f7c28ffffff807c28ffffff817c28ffffff7d7d28ffffff7d7e28ffffff7d7f28ffffff7e7f28ffffff7f7f28ffffff807f28ffffff7d8028ffffff7d8128ffffff7d8228ffffff7d8328ffffff");
-    const Mons$Char_black$71 = Image3D$parse$("7e7c28ffffff7f7c28ffffff807c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff7d7f28ffffff7d8028ffffff7d8128ffffff808128ffffff818128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$72 = Image3D$parse$("7d7c28ffffff817c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff817e28ffffff7d7f28ffffff7e7f28ffffff7f7f28ffffff807f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7d8328ffffff818328ffffff");
-    const Mons$Char_black$73 = Image3D$parse$("7e7c28ffffff7f7c28ffffff807c28ffffff7f7d28ffffff7f7e28ffffff7f7f28ffffff7f8028ffffff7f8128ffffff7f8228ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$74 = Image3D$parse$("817c28ffffff817d28ffffff817e28ffffff817f28ffffff818028ffffff818128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$75 = Image3D$parse$("7d7c28ffffff817c28ffffff7d7d28ffffff807d28ffffff7d7e28ffffff7f7e28ffffff7d7f28ffffff7e7f28ffffff7d8028ffffff7f8028ffffff7d8128ffffff808128ffffff7d8228ffffff818228ffffff7d8328ffffff818328ffffff");
-    const Mons$Char_black$76 = Image3D$parse$("7d7c28ffffff7d7d28ffffff7d7e28ffffff7d7f28ffffff7d8028ffffff7d8128ffffff7d8228ffffff7d8328ffffff7e8328ffffff7f8328ffffff808328ffffff818328ffffff");
-    const Mons$Char_black$77 = Image3D$parse$("7d7c28ffffff817c28ffffff7d7d28ffffff7e7d28ffffff807d28ffffff817d28ffffff7d7e28ffffff7f7e28ffffff817e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7d8328ffffff818328ffffff");
-    const Mons$Char_black$78 = Image3D$parse$("7d7c28ffffff817c28ffffff7d7d28ffffff7e7d28ffffff817d28ffffff7d7e28ffffff7f7e28ffffff817e28ffffff7d7f28ffffff807f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7d8328ffffff818328ffffff");
-    const Mons$Char_black$79 = Image3D$parse$("7e7c28ffffff7f7c28ffffff807c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff817e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$80 = Image3D$parse$("7d7c28ffffff7e7c28ffffff7f7c28ffffff807c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff817e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff7e8028ffffff7f8028ffffff808028ffffff7d8128ffffff7d8228ffffff7d8328ffffff");
-    const Mons$Char_black$81 = Image3D$parse$("7e7c28ffffff7f7c28ffffff807c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff817e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff808428ffffff818428ffffff");
-    const Mons$Char_black$82 = Image3D$parse$("7d7c28ffffff7e7c28ffffff7f7c28ffffff807c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff817e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff7e8028ffffff7f8028ffffff808028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7d8328ffffff818328ffffff");
-    const Mons$Char_black$83 = Image3D$parse$("7e7c28ffffff7f7c28ffffff807c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff7e7f28ffffff7f7f28ffffff808028ffffff818128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$84 = Image3D$parse$("7d7c28ffffff7e7c28ffffff7f7c28ffffff807c28ffffff817c28ffffff7f7d28ffffff7f7e28ffffff7f7f28ffffff7f8028ffffff7f8128ffffff7f8228ffffff7f8328ffffff");
-    const Mons$Char_black$85 = Image3D$parse$("7d7c28ffffff817c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff817e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$86 = Image3D$parse$("7d7c28ffffff817c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff817e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7e8228ffffff808228ffffff7f8328ffffff");
-    const Mons$Char_black$87 = Image3D$parse$("7d7c28ffffff817c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff817e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff7f8128ffffff818128ffffff7d8228ffffff7e8228ffffff808228ffffff818228ffffff7d8328ffffff818328ffffff");
-    const Mons$Char_black$88 = Image3D$parse$("7d7c28ffffff817c28ffffff7d7d28ffffff817d28ffffff7e7e28ffffff807e28ffffff7f7f28ffffff7f8028ffffff7e8128ffffff808128ffffff7d8228ffffff818228ffffff7d8328ffffff818328ffffff");
-    const Mons$Char_black$89 = Image3D$parse$("7d7c28ffffff817c28ffffff7d7d28ffffff817d28ffffff7d7e28ffffff817e28ffffff7e7f28ffffff807f28ffffff7f8028ffffff7f8128ffffff7f8228ffffff7f8328ffffff");
-    const Mons$Char_black$90 = Image3D$parse$("7d7c28ffffff7e7c28ffffff7f7c28ffffff807c28ffffff817c28ffffff817d28ffffff807e28ffffff7f7f28ffffff7e8028ffffff7e8128ffffff7d8228ffffff7d8328ffffff7e8328ffffff7f8328ffffff808328ffffff818328ffffff");
-    const Mons$Char_black$91 = Image3D$parse$("7e7c28ffffff7f7c28ffffff807c28ffffff7e7d28ffffff7e7e28ffffff7e7f28ffffff7e8028ffffff7e8128ffffff7e8228ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$92 = Image3D$parse$("7d7c28ffffff7e7d28ffffff7e7e28ffffff7f7f28ffffff7f8028ffffff808128ffffff808228ffffff818328ffffff");
-    const Mons$Char_black$93 = Image3D$parse$("7e7c28ffffff7f7c28ffffff807c28ffffff807d28ffffff807e28ffffff807f28ffffff808028ffffff808128ffffff808228ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$94 = Image3D$parse$("7f7b28ffffff7e7c28ffffff807c28ffffff7d7d28ffffff817d28ffffff");
-    const Mons$Char_black$95 = Image3D$parse$("7d8328ffffff7e8328ffffff7f8328ffffff808328ffffff818328ffffff");
-    const Mons$Char_black$96 = Image3D$parse$("7e7b28ffffff7f7c28ffffff807d28ffffff");
-    const Mons$Char_black$97 = Image3D$parse$("7e7e28ffffff7f7e28ffffff807e28ffffff817f28ffffff7e8028ffffff7f8028ffffff808028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff818328ffffff");
-    const Mons$Char_black$98 = Image3D$parse$("7d7c28ffffff7d7d28ffffff7d7e28ffffff7e7e28ffffff7f7e28ffffff807e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff818028ffffff7d8128ffffff818128ffffff7d8228ffffff818228ffffff7d8328ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$99 = Image3D$parse$("7e7e28ffffff7f7e28ffffff807e28ffffff7d7f28ffffff817f28ffffff7d8028ffffff7d8128ffffff7d8228ffffff818228ffffff7e8328ffffff7f8328ffffff808328ffffff");
-    const Mons$Char_black$normal = Image3D$parse$("7e7e28544b487f7e28544b48807e28544b487d7f28544b487e7f28e7dcc17f7f28cab89d807f28bba38a817f28544b487d8028544b487e8028cab89d7f8028bba38a808028bba38a818028544b487d8128544b487e8128bba38a7f8128bba38a808128a5876e818128544b487e8228544b487f8228544b48808228544b48");
-    const Mons$Char_black$earth = Image3D$parse$("7d7e285f35387e7e285f35387f7e285f3538807e285f3538817e285f35387d7f285f35387e7f289f5b447f7f289f5b44807f289f5b44817f285f35387d80284b2a357e8028884e3f7f8028884e3f808028884e3f8180284b2a357e81284b2a357f81286f403b8081284b2a357e82284b2a357f82284b2a358082284b2a35");
-    const Mons$Char_black$fire = Image3D$parse$("7e7d28a432347f7d28a432347e7e28a432347f7e28fbe896807e28a432347d7f2898202e7e7f28e7cb557f7f28e7cb55807f28e7cb55817f2898202e7d802898202e7e8028efa93f7f8028efa93f808028efa93f81802898202e7d812877262f7e8128d3783c7f8128d3783c808128d3783c81812877262f7e822877262f7f822877262f80822877262f");
-    const Mons$Char_black$water = Image3D$parse$("7e7d282f37707f7d282f37707e7e282f37707f7e28f0e8cc807e282f37707d7f282f37707e7f2863a9a47f7f2882c8ac807f28f0e8cc817f282f37707d80282729607e802863a9a47f8028799cd380802882c8ac8180282729607d81282729607e8128428a9b7f812863a9a480812863a9a48181282729607e82283421637f8228342163808228342163");
-    const Mons$Char_black$grass = Image3D$parse$("807d28375839817d28477e3d7f7e28375839807e2885ca77817e283758397e7f283758397f7f2885ca77807f2864af69817f283758397d80282a56517e802885ca777f8028287f4e80802864af698180283758397d81282a56517e8128287f4e7f812864af6980812885ca778181283758397e82282a56517f82282a5651808228375839");
-    const Mons$Char_black$electric = Image3D$parse$("7f7d28d3783c807d28d3783c7e7e28c766437f7e28e7cb55807e28d3783c7d7f28b64c3b7e7f28dab04d7f7f28c766437e8028c766437f8028dab04d808028b64c3b7d8128c766437e8128e7cb557f8128c766437d8228d3783c7e8228c76643");
-    const Mons$Char_black$psychic = Image3D$parse$("7e7e286420737f7e28642073807e286420737d7f286420737e7f28c757a67f7f28ac4999807f28f0e8cc817f286420737d80284a2b717e8028fa83a97f8028342163808028ac49998180284a2b717d81283421637e8128fa83a97f8128fa83a9808128c757a68181283421637e82283421637f8228342163808228342163");
-    const Mons$Char_black$ice = Image3D$parse$("7e7e2882c8ac7f7e284662a1807e2882c8ac7d7f2882c8ac7e7f2863a9a47f7f28394c87807f2863a9a4817f2882c8ac7d80284662a17e8028394c877f802863a9a4808028394c878180284662a17d812882c8ac7e812863a9a47f8128394c8780812863a9a481812882c8ac7e822882c8ac7f82284662a180822882c8ac");
-    const Mons$Char_black$light = Image3D$parse$("7e7e28d296437f7e28dab04d807e28d296437d7f28d296437e7f28fbe8967f7f28e7cb55807f28fbe896817f28d296437d8028dab04d7e8028e7cb557f8028fbe896808028e7cb55818028dab04d7d8128d296437e8128fbe8967f8128e7cb55808128fbe896818128d296437e8228d296437f8228dab04d808228d29643");
-    const Mons$Char_black$darkness = Image3D$parse$("7e7e284a2b717f7e282c333d807e284a2b717d7f284a2b717e7f286a3a867f7f28353b48807f286a3a86817f284a2b717d80282c333d7e8028353b487f80282c333d808028353b488180282c333d7d81284a2b717e81286a3a867f8128353b488081286a3a868181284a2b717e82284a2b717f82282c333d8082284a2b71");
-    const Mons$Char_black$s_72 = Image3D$parse$("7d7d28212128807d282121287d7e28212128807e282121287d7f282121287e7f282121287f7f28212128807f282121287d80282121288080282121287d8128212128808128212128");
-    const Mons$Char_black$s_80 = Image3D$parse$("7d7d282121287e7d282121287f7d28212128807d282121287d7e28212128807e282121287d7f282121287e7f282121287f7f282121287d80282121287d8128212128");
-    const Mons$Char_black$burn = Image3D$parse$("7d7d1e4b2a357e7d1e4b2a357f7d1e4b2a357d7e1e4b2a357e7e1efa642f7f7e1efa642f807e1e4b2a357e7f1e4b2a357f7f1eefa93f807f1efa642f817f1e4b2a357d801e4b2a357e801eefa93f7f801efbe89680801efbe89681801e4b2a357d811e4b2a357e811efa642f7f811eefa93f80811efbe89681811e4b2a357d821e4b2a357e821efa642f7f821efa642f80821eefa93f81821e4b2a357e831e4b2a357f831e4b2a3580831e4b2a35");
-    const Mons$Char_black$hit = Image3D$parse$("7f7d1e3758397e7e1e3758397f7e1ec7c85c807e1e3758397e7f1e3758397f7f1ec7c85c807f1e3758397d801e3758397e801e6b91477f801e6b914780801ec7c85c81801e3758397d811e3758397e811e477e3d7f811e477e3d80811ec7c85c81811e3758397d821e3758397e821e477e3d7f821e477e3d80821e6b914781821e3758397e831e3758397f831e37583980831e375839");
-    const Mons$Char_black$invulnerable = Image3D$parse$("7d7d1e4b2a357e7d1e4b2a35817d1e4b2a357d7e1e4b2a357e7e1edab04d7f7e1e4b2a35807e1e4b2a35817e1ef0e8cc7e7f1e4b2a357f7f1ef0e8cc807f1ee7cb55817f1e4b2a357e801e4b2a357f801ee7cb5580801edab04d81801e4b2a357d811e4b2a357e811ee7cb557f811edab04d80811ed3783c81811e4b2a357d821edab04d7e821e4b2a357f821e4b2a3580821e4b2a3581821edab04d7d831e4b2a3581831e4b2a35");
-    const Mons$Char_black$minimize = Image3D$parse$("7d7d1e2c333d7e7d1e2c333d7f7d1e2c333d807d1e2c333d817d1e2c333d7d7e1e2c333d7e7e1e656c7f7f7e1eabaeb2807e1eabaeb2817e1e2c333d7d7f1e2c333d7e7f1e656c7f7f7f1e656c7f807f1e656c7f817f1e2c333d7d801e2c333d7e801e565d6e7f801e565d6e80801e656c7f81801e2c333d7d811e2c333d7e811e565d6e7f811e565d6e80811e656c7f81811e2c333d7e821e2c333d7f821e565d6e80821e2c333d7f831e2c333d");
-    const Mons$Char_black$poison = Image3D$parse$("7f7d1e5f19347e7e1e5f19347f7e1edf3e46807e1e5f19347e7f1e5f19347f7f1edf3e46807f1e5f19347d801e5f19347e801ea2242c7f801ea2242c80801edf3e4681801e5f19347d811e5f19347e811e8c0b2c7f811e8c0b2c80811edf3e4681811e5f19347d821e5f19347e821e8c0b2c7f821e8c0b2c80821ea2242c81821e5f19347e831e5f19347f831e5f193480831e5f1934");
-    const Mons$Char_black$protect = Image3D$parse$("7d7d1e4b2a357e7d1e4b2a357f7d1e4b2a35807d1e4b2a35817d1e4b2a357d7e1e4b2a357e7e1ecc833c7f7e1edab04d807e1edab04d817e1e4b2a357d7f1e4b2a357e7f1ecc833c7f7f1ecc833c807f1ecc833c817f1e4b2a357d801e4b2a357e801eb96b337f801eb96b3380801ecc833c81801e4b2a357d811e4b2a357e811eb96b337f811eb96b3380811ecc833c81811e4b2a357e821e4b2a357f821eb96b3380821e4b2a357f831e4b2a35");
-    const Mons$Char_black$sleep = Image3D$parse$("7d7d1e2729607e7d1e2729607f7d1e272960807d1e272960817d1e2729607d7e1e2729607e7e1e799cd37f7e1e799cd3807e1e799cd3817e1e2729607e7f1e2729607f7f1e272960807f1e799cd3817f1e2729607e801e2729607f801e5176b880801e2729607d811e2729607e811e4662a17f811e27296080811e2729607d821e2729607e821e4662a17f821e4662a180821e4662a181821e2729607d831e2729607e831e2729607f831e27296080831e27296081831e272960");
+    const Mons$Char_black$33 = Image3D$parse$("7f7d1e2121287f7e1e2121287f7f1e2121287f811e212128");
+    const Mons$Char_black$34 = Image3D$parse$("7e7d1e212128807d1e2121287e7e1e212128807e1e212128");
+    const Mons$Char_black$35 = Image3D$parse$("7e7d1e212128807d1e2121287d7e1e2121287e7e1e2121287f7e1e212128807e1e212128817e1e2121287e7f1e212128807f1e2121287d801e2121287e801e2121287f801e21212880801e21212881801e2121287e811e21212880811e212128");
+    const Mons$Char_black$36 = Image3D$parse$("7e7d1e2121287f7d1e212128807d1e2121287d7e1e2121287d7f1e2121287e7f1e2121287f7f1e212128807f1e212128817f1e21212881801e2121287e811e2121287f811e21212880811e2121287f821e212128");
+    const Mons$Char_black$37 = Image3D$parse$("7d7d1e2121287e7d1e212128817d1e212128807e1e2121287f7f1e2121287e801e2121287d811e21212880811e21212881811e212128");
+    const Mons$Char_black$38 = Image3D$parse$("7e7d1e2121287f7d1e2121287d7e1e212128807e1e2121287e7f1e2121287f7f1e212128817f1e2121287d801e21212880801e2121287e811e2121287f811e21212881811e212128");
+    const Mons$Char_black$39 = Image3D$parse$("7f7d1e2121287f7e1e212128");
+    const Mons$Char_black$40 = Image3D$parse$("807d1e2121287f7e1e2121287f7f1e2121287f801e21212880811e212128");
+    const Mons$Char_black$41 = Image3D$parse$("7e7d1e2121287f7e1e2121287f7f1e2121287f801e2121287e811e212128");
+    const Mons$Char_black$42 = Image3D$parse$("7e7d1e212128807d1e2121287f7e1e2121287e7f1e212128807f1e212128");
+    const Mons$Char_black$43 = Image3D$parse$("7f7e1e2121287e7f1e2121287f7f1e212128807f1e2121287f801e212128");
+    const Mons$Char_black$44 = Image3D$parse$("7e811e2121287f811e2121287f821e212128");
+    const Mons$Char_black$45 = Image3D$parse$("7e7f1e2121287f7f1e212128807f1e212128");
+    const Mons$Char_black$46 = Image3D$parse$("7f811e212128");
+    const Mons$Char_black$47 = Image3D$parse$("807e1e2121287f7f1e2121287e801e2121287d811e212128");
+    const Mons$Char_black$48 = Image3D$parse$("7e7d1e2121287f7d1e2121287d7e1e212128807e1e2121287d7f1e212128807f1e2121287d801e21212880801e2121287e811e2121287f811e212128");
+    const Mons$Char_black$49 = Image3D$parse$("7f7d1e2121287e7e1e2121287f7e1e2121287f7f1e2121287f801e2121287e811e2121287f811e21212880811e212128");
+    const Mons$Char_black$50 = Image3D$parse$("7e7d1e2121287f7d1e2121287d7e1e212128807e1e2121287f7f1e2121287e801e2121287d811e2121287e811e2121287f811e21212880811e212128");
+    const Mons$Char_black$51 = Image3D$parse$("7d7d1e2121287e7d1e2121287f7d1e212128807e1e2121287e7f1e2121287f7f1e212128807f1e21212880801e2121287d811e2121287e811e2121287f811e212128");
+    const Mons$Char_black$52 = Image3D$parse$("7d7d1e212128807d1e2121287d7e1e212128807e1e2121287d7f1e2121287e7f1e2121287f7f1e212128807f1e21212880801e21212880811e212128");
+    const Mons$Char_black$53 = Image3D$parse$("7d7d1e2121287e7d1e2121287f7d1e212128807d1e2121287d7e1e2121287d7f1e2121287e7f1e2121287f7f1e212128807f1e21212880801e2121287d811e2121287e811e2121287f811e212128");
+    const Mons$Char_black$54 = Image3D$parse$("7e7d1e2121287f7d1e212128807d1e2121287d7e1e2121287d7f1e2121287e7f1e2121287f7f1e212128807f1e2121287d801e21212880801e2121287e811e2121287f811e212128");
+    const Mons$Char_black$55 = Image3D$parse$("7d7d1e2121287e7d1e2121287f7d1e212128807d1e212128807e1e2121287f7f1e2121287e801e2121287d811e212128");
+    const Mons$Char_black$56 = Image3D$parse$("7e7d1e2121287f7d1e2121287d7e1e212128807e1e2121287e7f1e2121287f7f1e2121287d801e21212880801e2121287e811e2121287f811e212128");
+    const Mons$Char_black$57 = Image3D$parse$("7e7d1e2121287f7d1e2121287d7e1e212128807e1e2121287e7f1e2121287f7f1e212128807f1e21212880801e2121287d811e2121287e811e2121287f811e212128");
+    const Mons$Char_black$58 = Image3D$parse$("7f7e1e2121287f801e212128");
+    const Mons$Char_black$59 = Image3D$parse$("7f7e1e2121287e801e2121287f801e2121287f811e212128");
+    const Mons$Char_black$60 = Image3D$parse$("807d1e2121287f7e1e2121287e7f1e2121287f801e21212880811e212128");
+    const Mons$Char_black$61 = Image3D$parse$("7e7e1e2121287f7e1e212128807e1e2121287e801e2121287f801e21212880801e212128");
+    const Mons$Char_black$62 = Image3D$parse$("7e7d1e2121287f7e1e212128807f1e2121287f801e2121287e811e212128");
+    const Mons$Char_black$63 = Image3D$parse$("7e7d1e2121287f7d1e212128807d1e212128807e1e2121287e7f1e2121287f7f1e2121287e811e212128");
+    const Mons$Char_black$64 = Image3D$parse$("7e7d1e2121287f7d1e212128807d1e2121287d7e1e2121287f7e1e212128807e1e2121287d7f1e2121287f7f1e212128807f1e2121287d801e2121287e811e2121287f811e21212880811e212128");
+    const Mons$Char_black$65 = Image3D$parse$("7e7d1e2121287f7d1e2121287d7e1e212128807e1e2121287d7f1e2121287e7f1e2121287f7f1e212128807f1e2121287d801e21212880801e2121287d811e21212880811e212128");
+    const Mons$Char_black$66 = Image3D$parse$("7d7d1e2121287e7d1e2121287f7d1e2121287d7e1e212128807e1e2121287d7f1e2121287e7f1e2121287f7f1e2121287d801e21212880801e2121287d811e2121287e811e2121287f811e212128");
+    const Mons$Char_black$67 = Image3D$parse$("7e7d1e2121287f7d1e212128807d1e2121287d7e1e2121287d7f1e2121287d801e2121287e811e2121287f811e21212880811e212128");
+    const Mons$Char_black$68 = Image3D$parse$("7d7d1e2121287e7d1e2121287f7d1e2121287d7e1e212128807e1e2121287d7f1e212128807f1e2121287d801e21212880801e2121287d811e2121287e811e2121287f811e212128");
+    const Mons$Char_black$69 = Image3D$parse$("7d7d1e2121287e7d1e2121287f7d1e212128807d1e2121287d7e1e2121287d7f1e2121287e7f1e2121287f7f1e2121287d801e2121287d811e2121287e811e2121287f811e21212880811e212128");
+    const Mons$Char_black$70 = Image3D$parse$("7d7d1e2121287e7d1e2121287f7d1e212128807d1e2121287d7e1e2121287d7f1e2121287e7f1e2121287f7f1e212128807f1e2121287d801e2121287d811e212128");
+    const Mons$Char_black$71 = Image3D$parse$("7e7d1e2121287f7d1e212128807d1e2121287d7e1e2121287d7f1e2121287f7f1e212128807f1e2121287d801e21212880801e2121287e811e2121287f811e21212880811e212128");
+    const Mons$Char_black$72 = Image3D$parse$("7d7d1e212128807d1e2121287d7e1e212128807e1e2121287d7f1e2121287e7f1e2121287f7f1e212128807f1e2121287d801e21212880801e2121287d811e21212880811e212128");
+    const Mons$Char_black$73 = Image3D$parse$("7e7d1e2121287f7d1e212128807d1e2121287f7e1e2121287f7f1e2121287f801e2121287e811e2121287f811e21212880811e212128");
+    const Mons$Char_black$74 = Image3D$parse$("807d1e212128807e1e212128807f1e2121287d801e21212880801e2121287e811e2121287f811e212128");
+    const Mons$Char_black$75 = Image3D$parse$("7d7d1e212128807d1e2121287d7e1e2121287f7e1e2121287d7f1e2121287e7f1e2121287d801e2121287f801e2121287d811e21212880811e212128");
+    const Mons$Char_black$76 = Image3D$parse$("7d7d1e2121287d7e1e2121287d7f1e2121287d801e2121287d811e2121287e811e2121287f811e21212880811e212128");
+    const Mons$Char_black$77 = Image3D$parse$("7d7d1e2121287e7d1e212128807d1e212128817d1e2121287d7e1e2121287f7e1e212128817e1e2121287d7f1e212128817f1e2121287d801e21212881801e2121287d811e21212881811e212128");
+    const Mons$Char_black$78 = Image3D$parse$("7d7d1e212128807d1e2121287d7e1e2121287e7e1e212128807e1e2121287d7f1e2121287f7f1e212128807f1e2121287d801e21212880801e2121287d811e21212880811e212128");
+    const Mons$Char_black$79 = Image3D$parse$("7e7d1e2121287f7d1e2121287d7e1e212128807e1e2121287d7f1e212128807f1e2121287d801e21212880801e2121287e811e2121287f811e212128");
+    const Mons$Char_black$80 = Image3D$parse$("7d7d1e2121287e7d1e2121287f7d1e212128807d1e2121287d7e1e212128807e1e2121287d7f1e2121287e7f1e2121287f7f1e2121287d801e2121287d811e212128");
+    const Mons$Char_black$81 = Image3D$parse$("7e7d1e2121287f7d1e2121287d7e1e212128807e1e2121287d7f1e212128807f1e2121287d801e21212880801e2121287e811e2121287f811e2121287f821e21212880821e212128");
+    const Mons$Char_black$82 = Image3D$parse$("7d7d1e2121287e7d1e2121287f7d1e212128807d1e2121287d7e1e212128807e1e2121287d7f1e2121287e7f1e2121287f7f1e2121287d801e21212880801e2121287d811e21212880811e212128");
+    const Mons$Char_black$83 = Image3D$parse$("7e7d1e2121287f7d1e212128807d1e2121287d7e1e2121287e7f1e2121287f7f1e21212880801e2121287d811e2121287e811e2121287f811e212128");
+    const Mons$Char_black$84 = Image3D$parse$("7e7d1e2121287f7d1e212128807d1e2121287f7e1e2121287f7f1e2121287f801e2121287f811e212128");
+    const Mons$Char_black$85 = Image3D$parse$("7d7d1e212128807d1e2121287d7e1e212128807e1e2121287d7f1e212128807f1e2121287d801e21212880801e2121287e811e2121287f811e212128");
+    const Mons$Char_black$86 = Image3D$parse$("7e7d1e212128807d1e2121287e7e1e212128807e1e2121287e7f1e212128807f1e2121287e801e21212880801e2121287f811e212128");
+    const Mons$Char_black$87 = Image3D$parse$("7d7d1e212128817d1e2121287d7e1e212128817e1e2121287d7f1e2121287f7f1e212128817f1e2121287d801e2121287e801e21212880801e21212881801e2121287d811e21212881811e212128");
+    const Mons$Char_black$88 = Image3D$parse$("7d7d1e212128817d1e2121287e7e1e212128807e1e2121287f7f1e2121287e801e21212880801e2121287d811e21212881811e212128");
+    const Mons$Char_black$89 = Image3D$parse$("7d7d1e212128817d1e2121287e7e1e212128807e1e2121287f7f1e2121287f801e2121287f811e212128");
+    const Mons$Char_black$90 = Image3D$parse$("7d7d1e2121287e7d1e2121287f7d1e212128807d1e212128807e1e2121287e7f1e2121287f7f1e2121287d801e2121287d811e2121287e811e2121287f811e21212880811e212128");
+    const Mons$Char_black$91 = Image3D$parse$("7e7d1e2121287f7d1e2121287e7e1e2121287e7f1e2121287e801e2121287e811e2121287f811e212128");
+    const Mons$Char_black$92 = Image3D$parse$("7e7d1e2121287e7e1e2121287f7f1e2121287f801e21212880811e212128");
+    const Mons$Char_black$93 = Image3D$parse$("7f7d1e212128807d1e212128807e1e212128807f1e21212880801e2121287f811e21212880811e212128");
+    const Mons$Char_black$94 = Image3D$parse$("7f7d1e2121287e7e1e212128807e1e212128");
+    const Mons$Char_black$95 = Image3D$parse$("7d811e2121287e811e2121287f811e21212880811e212128");
+    const Mons$Char_black$96 = Image3D$parse$("7d7d1e2121287e7e1e2121287f7f1e212128");
+    const Mons$Char_black$97 = Image3D$parse$("7e7d1e2121287f7d1e2121287d7e1e212128807e1e2121287d7f1e2121287e7f1e2121287f7f1e212128807f1e2121287d801e21212880801e2121287d811e21212880811e212128");
+    const Mons$Char_black$98 = Image3D$parse$("7d7d1e2121287e7d1e2121287f7d1e2121287d7e1e212128807e1e2121287d7f1e2121287e7f1e2121287f7f1e2121287d801e21212880801e2121287d811e2121287e811e2121287f811e212128");
+    const Mons$Char_black$99 = Image3D$parse$("7e7d1e2121287f7d1e212128807d1e2121287d7e1e2121287d7f1e2121287d801e2121287e811e2121287f811e21212880811e212128");
     const Mons$Char_black$font = (() => {
         var _map$1 = Map$new;
         var _map$2 = Mons$font$set_img$(100, Mons$Char_black$100, _map$1);
@@ -3375,27 +3342,8 @@ module.exports = (function() {
         var _map$94 = Mons$font$set_img$(97, Mons$Char_black$97, _map$93);
         var _map$95 = Mons$font$set_img$(98, Mons$Char_black$98, _map$94);
         var _map$96 = Mons$font$set_img$(99, Mons$Char_black$99, _map$95);
-        var _map$97 = Mons$font$set_img$(9312, Mons$Char_black$normal, _map$96);
-        var _map$98 = Mons$font$set_img$(9313, Mons$Char_black$earth, _map$97);
-        var _map$99 = Mons$font$set_img$(9314, Mons$Char_black$fire, _map$98);
-        var _map$100 = Mons$font$set_img$(9315, Mons$Char_black$water, _map$99);
-        var _map$101 = Mons$font$set_img$(9316, Mons$Char_black$grass, _map$100);
-        var _map$102 = Mons$font$set_img$(9317, Mons$Char_black$electric, _map$101);
-        var _map$103 = Mons$font$set_img$(9318, Mons$Char_black$psychic, _map$102);
-        var _map$104 = Mons$font$set_img$(9319, Mons$Char_black$ice, _map$103);
-        var _map$105 = Mons$font$set_img$(9320, Mons$Char_black$light, _map$104);
-        var _map$106 = Mons$font$set_img$(9321, Mons$Char_black$darkness, _map$105);
-        var _map$107 = Mons$font$set_img$(405, Mons$Char_black$s_72, _map$106);
-        var _map$108 = Mons$font$set_img$(421, Mons$Char_black$s_80, _map$107);
-        var _map$109 = Mons$font$set_img$(9398, Mons$Char_black$burn, _map$108);
-        var _map$110 = Mons$font$set_img$(9399, Mons$Char_black$hit, _map$109);
-        var _map$111 = Mons$font$set_img$(9400, Mons$Char_black$invulnerable, _map$110);
-        var _map$112 = Mons$font$set_img$(9401, Mons$Char_black$minimize, _map$111);
-        var _map$113 = Mons$font$set_img$(9402, Mons$Char_black$poison, _map$112);
-        var _map$114 = Mons$font$set_img$(9403, Mons$Char_black$protect, _map$113);
-        var _map$115 = Mons$font$set_img$(9404, Mons$Char_black$sleep, _map$114);
-        var $597 = _map$115;
-        return $597;
+        var $596 = _map$96;
+        return $596;
     })();
 
     function Mons$draw$list_selector$(_idx$1, _horizontal$2, _spacing$3, _font_map$4, _start_pos$5, _scr$6) {
@@ -3404,16 +3352,518 @@ module.exports = (function() {
         var _idx$9 = ((_idx$1 + 1) >>> 0);
         var self = _horizontal$2;
         if (self) {
-            var $599 = ((0 | ((((_spacing$3 * _idx$9) >>> 0) + _x$7) >>> 0) | (_y$8 << 12) | (0 << 24)));
-            var _pos$10 = $599;
+            var $598 = ((0 | ((((_spacing$3 * _idx$9) >>> 0) + _x$7) >>> 0) | (_y$8 << 12) | (0 << 24)));
+            var _pos$10 = $598;
         } else {
-            var $600 = ((0 | _x$7 | (((((_spacing$3 * _idx$9) >>> 0) + _y$8) >>> 0) << 12) | (0 << 24)));
-            var _pos$10 = $600;
+            var $599 = ((0 | _x$7 | (((((_spacing$3 * _idx$9) >>> 0) + _y$8) >>> 0) << 12) | (0 << 24)));
+            var _pos$10 = $599;
         };
-        var $598 = Mons$draw$text$("> ", _font_map$4, _pos$10, _scr$6);
-        return $598;
+        var $597 = Mons$draw$text$("> ", _font_map$4, _pos$10, _scr$6);
+        return $597;
     };
     const Mons$draw$list_selector = x0 => x1 => x2 => x3 => x4 => x5 => Mons$draw$list_selector$(x0, x1, x2, x3, x4, x5);
+
+    function List$reverse$go$(_xs$2, _res$3) {
+        var List$reverse$go$ = (_xs$2, _res$3) => ({
+            ctr: 'TCO',
+            arg: [_xs$2, _res$3]
+        });
+        var List$reverse$go = _xs$2 => _res$3 => List$reverse$go$(_xs$2, _res$3);
+        var arg = [_xs$2, _res$3];
+        while (true) {
+            let [_xs$2, _res$3] = arg;
+            var R = (() => {
+                var self = _xs$2;
+                switch (self._) {
+                    case 'List.cons':
+                        var $600 = self.head;
+                        var $601 = self.tail;
+                        var $602 = List$reverse$go$($601, List$cons$($600, _res$3));
+                        return $602;
+                    case 'List.nil':
+                        var $603 = _res$3;
+                        return $603;
+                };
+            })();
+            if (R.ctr === 'TCO') arg = R.arg;
+            else return R;
+        }
+    };
+    const List$reverse$go = x0 => x1 => List$reverse$go$(x0, x1);
+
+    function List$reverse$(_xs$2) {
+        var $604 = List$reverse$go$(_xs$2, List$nil);
+        return $604;
+    };
+    const List$reverse = x0 => List$reverse$(x0);
+
+    function Mons$Object$get_dir$(_obj$1) {
+        var self = _obj$1;
+        switch (self._) {
+            case 'Mons.Object.new':
+                var $606 = self.dir;
+                var $607 = $606;
+                var $605 = $607;
+                break;
+        };
+        return $605;
+    };
+    const Mons$Object$get_dir = x0 => Mons$Object$get_dir$(x0);
+
+    function Mons$draw$global_xy$(_t_x$1, _t_y$2, _obj$3) {
+        var self = _obj$3;
+        switch (self._) {
+            case 'Mons.Object.new':
+                var _ani$15 = Mons$Object$get_ani$(_obj$3);
+                var _dir$16 = Mons$Object$get_dir$(_obj$3);
+                var _g_x$17 = ((_t_x$1 * 16) >>> 0);
+                var _g_y$18 = ((_t_y$2 * 16) >>> 0);
+                var self = _dir$16;
+                switch (self._) {
+                    case 'Mons.Dir.right':
+                        var $610 = (Math.max(_g_x$17 - _ani$15, 0));
+                        var _g_x$19 = $610;
+                        break;
+                    case 'Mons.Dir.up':
+                    case 'Mons.Dir.down':
+                        var $611 = _g_x$17;
+                        var _g_x$19 = $611;
+                        break;
+                    case 'Mons.Dir.left':
+                        var $612 = ((_g_x$17 + _ani$15) >>> 0);
+                        var _g_x$19 = $612;
+                        break;
+                };
+                var self = _dir$16;
+                switch (self._) {
+                    case 'Mons.Dir.right':
+                    case 'Mons.Dir.left':
+                        var $613 = _g_y$18;
+                        var _g_y$20 = $613;
+                        break;
+                    case 'Mons.Dir.up':
+                        var $614 = ((_g_y$18 + _ani$15) >>> 0);
+                        var _g_y$20 = $614;
+                        break;
+                    case 'Mons.Dir.down':
+                        var $615 = (Math.max(_g_y$18 - _ani$15, 0));
+                        var _g_y$20 = $615;
+                        break;
+                };
+                var $609 = Pair$new$(_g_x$19, _g_y$20);
+                var $608 = $609;
+                break;
+        };
+        return $608;
+    };
+    const Mons$draw$global_xy = x0 => x1 => x2 => Mons$draw$global_xy$(x0, x1, x2);
+
+    function Nat$mod$go$(_n$1, _m$2, _r$3) {
+        var Nat$mod$go$ = (_n$1, _m$2, _r$3) => ({
+            ctr: 'TCO',
+            arg: [_n$1, _m$2, _r$3]
+        });
+        var Nat$mod$go = _n$1 => _m$2 => _r$3 => Nat$mod$go$(_n$1, _m$2, _r$3);
+        var arg = [_n$1, _m$2, _r$3];
+        while (true) {
+            let [_n$1, _m$2, _r$3] = arg;
+            var R = (() => {
+                var self = _m$2;
+                if (self === 0n) {
+                    var $616 = Nat$mod$go$(_n$1, _r$3, _m$2);
+                    return $616;
+                } else {
+                    var $617 = (self - 1n);
+                    var self = _n$1;
+                    if (self === 0n) {
+                        var $619 = _r$3;
+                        var $618 = $619;
+                    } else {
+                        var $620 = (self - 1n);
+                        var $621 = Nat$mod$go$($620, $617, Nat$succ$(_r$3));
+                        var $618 = $621;
+                    };
+                    return $618;
+                };
+            })();
+            if (R.ctr === 'TCO') arg = R.arg;
+            else return R;
+        }
+    };
+    const Nat$mod$go = x0 => x1 => x2 => Nat$mod$go$(x0, x1, x2);
+
+    function Nat$mod$(_n$1, _m$2) {
+        var $622 = Nat$mod$go$(_n$1, _m$2, 0n);
+        return $622;
+    };
+    const Nat$mod = x0 => x1 => Nat$mod$(x0, x1);
+
+    function Either$(_A$1, _B$2) {
+        var $623 = null;
+        return $623;
+    };
+    const Either = x0 => x1 => Either$(x0, x1);
+
+    function Either$left$(_value$3) {
+        var $624 = ({
+            _: 'Either.left',
+            'value': _value$3
+        });
+        return $624;
+    };
+    const Either$left = x0 => Either$left$(x0);
+
+    function Either$right$(_value$3) {
+        var $625 = ({
+            _: 'Either.right',
+            'value': _value$3
+        });
+        return $625;
+    };
+    const Either$right = x0 => Either$right$(x0);
+
+    function Nat$sub_rem$(_n$1, _m$2) {
+        var Nat$sub_rem$ = (_n$1, _m$2) => ({
+            ctr: 'TCO',
+            arg: [_n$1, _m$2]
+        });
+        var Nat$sub_rem = _n$1 => _m$2 => Nat$sub_rem$(_n$1, _m$2);
+        var arg = [_n$1, _m$2];
+        while (true) {
+            let [_n$1, _m$2] = arg;
+            var R = (() => {
+                var self = _m$2;
+                if (self === 0n) {
+                    var $626 = Either$left$(_n$1);
+                    return $626;
+                } else {
+                    var $627 = (self - 1n);
+                    var self = _n$1;
+                    if (self === 0n) {
+                        var $629 = Either$right$(Nat$succ$($627));
+                        var $628 = $629;
+                    } else {
+                        var $630 = (self - 1n);
+                        var $631 = Nat$sub_rem$($630, $627);
+                        var $628 = $631;
+                    };
+                    return $628;
+                };
+            })();
+            if (R.ctr === 'TCO') arg = R.arg;
+            else return R;
+        }
+    };
+    const Nat$sub_rem = x0 => x1 => Nat$sub_rem$(x0, x1);
+
+    function Nat$div_mod$go$(_n$1, _m$2, _d$3) {
+        var Nat$div_mod$go$ = (_n$1, _m$2, _d$3) => ({
+            ctr: 'TCO',
+            arg: [_n$1, _m$2, _d$3]
+        });
+        var Nat$div_mod$go = _n$1 => _m$2 => _d$3 => Nat$div_mod$go$(_n$1, _m$2, _d$3);
+        var arg = [_n$1, _m$2, _d$3];
+        while (true) {
+            let [_n$1, _m$2, _d$3] = arg;
+            var R = (() => {
+                var self = Nat$sub_rem$(_n$1, _m$2);
+                switch (self._) {
+                    case 'Either.left':
+                        var $632 = self.value;
+                        var $633 = Nat$div_mod$go$($632, _m$2, Nat$succ$(_d$3));
+                        return $633;
+                    case 'Either.right':
+                        var $634 = Pair$new$(_d$3, _n$1);
+                        return $634;
+                };
+            })();
+            if (R.ctr === 'TCO') arg = R.arg;
+            else return R;
+        }
+    };
+    const Nat$div_mod$go = x0 => x1 => x2 => Nat$div_mod$go$(x0, x1, x2);
+    const Nat$div_mod = a0 => a1 => (({
+        _: 'Pair.new',
+        'fst': a0 / a1,
+        'snd': a0 % a1
+    }));
+    const Nat$div = a0 => a1 => (a0 / a1);
+
+    function Mons$draw$cur_sprite$(_idl$1, _sprites$2) {
+        var _len_sprite$3 = (list_length(_sprites$2));
+        var _idl_nat$4 = U32$to_nat$((Math.max(_idl$1 - 1, 0)));
+        var _idx$5 = Nat$mod$((_idl_nat$4 / 4n), _len_sprite$3);
+        var self = List$at$(_idx$5, _sprites$2);
+        switch (self._) {
+            case 'Maybe.some':
+                var $636 = self.value;
+                var $637 = $636;
+                var $635 = $637;
+                break;
+            case 'Maybe.none':
+                var $638 = Image3D$empty;
+                var $635 = $638;
+                break;
+        };
+        return $635;
+    };
+    const Mons$draw$cur_sprite = x0 => x1 => Mons$draw$cur_sprite$(x0, x1);
+
+    function Mons$Sprite$new$(_x$1, _y$2, _z$3, _img$4) {
+        var $639 = ({
+            _: 'Mons.Sprite.new',
+            'x': _x$1,
+            'y': _y$2,
+            'z': _z$3,
+            'img': _img$4
+        });
+        return $639;
+    };
+    const Mons$Sprite$new = x0 => x1 => x2 => x3 => Mons$Sprite$new$(x0, x1, x2, x3);
+
+    function Mons$game_sprites$(_game$1) {
+        var self = _game$1;
+        switch (self._) {
+            case 'Mons.Game.new':
+                var $641 = self.map;
+                var $642 = self.tik;
+                var _sprs$7 = List$nil;
+                var self = Mons$Game$get_hero_pos$(_game$1);
+                switch (self._) {
+                    case 'Maybe.some':
+                        var $644 = self.value;
+                        var _c_x$9 = (($644 & 0xFFF));
+                        var _c_y$10 = ((($644 >>> 12) & 0xFFF));
+                        var _c_z$11 = (($644 >>> 24));
+                        var _sprs$12 = (() => {
+                            var $646 = _sprs$7;
+                            var $647 = 0;
+                            var $648 = 17;
+                            let _sprs$13 = $646;
+                            for (let _x$12 = $647; _x$12 < $648; ++_x$12) {
+                                var _sprs$14 = (() => {
+                                    var $649 = _sprs$13;
+                                    var $650 = 0;
+                                    var $651 = 13;
+                                    let _sprs$15 = $649;
+                                    for (let _y$14 = $650; _y$14 < $651; ++_y$14) {
+                                        var _t_x$16 = (((Math.max(_c_x$9 - 8, 0)) + _x$12) >>> 0);
+                                        var _t_y$17 = (((Math.max(_c_y$10 - 6, 0)) + _y$14) >>> 0);
+                                        var _t_z$18 = _c_z$11;
+                                        var _pos$19 = ((0 | _t_x$16 | (_t_y$17 << 12) | (_t_z$18 << 24)));
+                                        var _got$20 = Map$get$(U32$to_bits$(_pos$19), $641);
+                                        var self = _got$20;
+                                        switch (self._) {
+                                            case 'Maybe.some':
+                                                var $652 = self.value;
+                                                var $653 = List$reverse$($652);
+                                                var _objs$21 = $653;
+                                                break;
+                                            case 'Maybe.none':
+                                                var $654 = List$cons$(Mons$Object$void, List$nil);
+                                                var _objs$21 = $654;
+                                                break;
+                                        };
+                                        var _sprs$22 = (() => {
+                                            var $656 = _sprs$15;
+                                            var $657 = _objs$21;
+                                            let _sprs$23 = $656;
+                                            let _obj$22;
+                                            while ($657._ === 'List.cons') {
+                                                _obj$22 = $657.head;
+                                                var self = _obj$22;
+                                                switch (self._) {
+                                                    case 'Mons.Object.new':
+                                                        var $658 = self.kin;
+                                                        var $659 = self.dir;
+                                                        var $660 = self.ani;
+                                                        var self = Mons$Kind$attr$($658);
+                                                        switch (self._) {
+                                                            case 'Mons.Attr.new':
+                                                                var $662 = self.wlk;
+                                                                var _sprites$45 = $662(_t_x$16)(_t_y$17)($660)($659);
+                                                                var self = Mons$draw$global_xy$(_t_x$16, _t_y$17, _obj$22);
+                                                                switch (self._) {
+                                                                    case 'Pair.new':
+                                                                        var $664 = self.fst;
+                                                                        var $665 = self.snd;
+                                                                        var _s_z$48 = _t_z$18;
+                                                                        var self = Mons$Object$is_standing$(_obj$22);
+                                                                        if (self) {
+                                                                            var _cur_spr$49 = Mons$draw$cur_sprite$($642, _sprites$45);
+                                                                            var _spr$50 = Mons$Sprite$new$($664, $665, _s_z$48, _cur_spr$49);
+                                                                            var $667 = List$cons$(_spr$50, _sprs$23);
+                                                                            var $666 = $667;
+                                                                        } else {
+                                                                            var _sprs$49 = (() => {
+                                                                                var $670 = _sprs$23;
+                                                                                var $671 = _sprites$45;
+                                                                                let _sprs$50 = $670;
+                                                                                let _img$49;
+                                                                                while ($671._ === 'List.cons') {
+                                                                                    _img$49 = $671.head;
+                                                                                    var _ani$51 = Mons$Object$get_ani$(_obj$22);
+                                                                                    var _dir$52 = Mons$Object$get_dir$(_obj$22);
+                                                                                    var _spr$53 = Mons$Sprite$new$($664, $665, _s_z$48, _img$49);
+                                                                                    var $670 = List$cons$(_spr$53, _sprs$50);
+                                                                                    _sprs$50 = $670;
+                                                                                    $671 = $671.tail;
+                                                                                }
+                                                                                return _sprs$50;
+                                                                            })();
+                                                                            var $668 = _sprs$49;
+                                                                            var $666 = $668;
+                                                                        };
+                                                                        var $663 = $666;
+                                                                        break;
+                                                                };
+                                                                var $661 = $663;
+                                                                break;
+                                                        };
+                                                        var $656 = $661;
+                                                        break;
+                                                };
+                                                _sprs$23 = $656;
+                                                $657 = $657.tail;
+                                            }
+                                            return _sprs$23;
+                                        })();
+                                        var $649 = _sprs$22;
+                                        _sprs$15 = $649;
+                                    };
+                                    return _sprs$15;
+                                })();
+                                var $646 = _sprs$14;
+                                _sprs$13 = $646;
+                            };
+                            return _sprs$13;
+                        })();
+                        var $645 = _sprs$12;
+                        var $643 = $645;
+                        break;
+                    case 'Maybe.none':
+                        var $672 = List$nil;
+                        var $643 = $672;
+                        break;
+                };
+                var $640 = $643;
+                break;
+        };
+        return $640;
+    };
+    const Mons$game_sprites = x0 => Mons$game_sprites$(x0);
+    const Mons$scr_mid = ((0 | 120 | (80 << 12) | (0 << 24)));
+
+    function Cmp$as_lte$(_cmp$1) {
+        var self = _cmp$1;
+        switch (self._) {
+            case 'Cmp.ltn':
+            case 'Cmp.eql':
+                var $674 = Bool$true;
+                var $673 = $674;
+                break;
+            case 'Cmp.gtn':
+                var $675 = Bool$false;
+                var $673 = $675;
+                break;
+        };
+        return $673;
+    };
+    const Cmp$as_lte = x0 => Cmp$as_lte$(x0);
+
+    function Word$lte$(_a$2, _b$3) {
+        var $676 = Cmp$as_lte$(Word$cmp$(_a$2, _b$3));
+        return $676;
+    };
+    const Word$lte = x0 => x1 => Word$lte$(x0, x1);
+    const U32$lte = a0 => a1 => (a0 <= a1);
+
+    function Mons$Map$build_sprites$(_game$1, _scr$2, _hero_pos$3, _hero_obj$4) {
+        var _sprs$5 = Mons$game_sprites$(_game$1);
+        var _scr$6 = (() => {
+            var $679 = _scr$2;
+            var $680 = _sprs$5;
+            let _scr$7 = $679;
+            let _spr$6;
+            while ($680._ === 'List.cons') {
+                _spr$6 = $680.head;
+                var self = _spr$6;
+                switch (self._) {
+                    case 'Mons.Sprite.new':
+                        var $681 = self.x;
+                        var $682 = self.y;
+                        var $683 = self.z;
+                        var $684 = self.img;
+                        var _len$12 = Image3D$get_length$($684);
+                        var _scr$13 = (() => {
+                            var $686 = _scr$7;
+                            var $687 = 0;
+                            var $688 = _len$12;
+                            let _scr$14 = $686;
+                            for (let _i$13 = $687; _i$13 < $688; ++_i$13) {
+                                var _s_w$15 = ((Mons$scr_mid & 0xFFF));
+                                var _s_h$16 = (((Mons$scr_mid >>> 12) & 0xFFF));
+                                var _h_x$17 = ((_hero_pos$3 & 0xFFF));
+                                var _h_y$18 = (((_hero_pos$3 >>> 12) & 0xFFF));
+                                var self = Mons$draw$global_xy$(_h_x$17, _h_y$18, _hero_obj$4);
+                                switch (self._) {
+                                    case 'Pair.new':
+                                        var $689 = self.fst;
+                                        var $690 = self.snd;
+                                        var _s_x$21 = $681;
+                                        var _s_y$22 = $682;
+                                        var _s_z$23 = $683;
+                                        var _xyz$24 = (($684.buffer[_i$13 * 2]));
+                                        var _v_x$25 = (Math.max(((((_xyz$24 & 0xFFF)) + _s_x$21) >>> 0) - ((Mons$vox_mid & 0xFFF)), 0));
+                                        var _v_y$26 = (Math.max((((((_xyz$24 >>> 12) & 0xFFF)) + _s_y$22) >>> 0) - (((Mons$vox_mid >>> 12) & 0xFFF)), 0));
+                                        var _v_z$27 = ((_xyz$24 >>> 24));
+                                        var _ok0$28 = ((Math.max($689 - _s_w$15, 0)) <= _v_x$25);
+                                        var _ok1$29 = (_v_x$25 < (($689 + _s_w$15) >>> 0));
+                                        var _ok2$30 = ((Math.max($690 - _s_h$16, 0)) <= _v_y$26);
+                                        var _ok3$31 = (_v_y$26 < (($690 + _s_h$16) >>> 0));
+                                        var _ok$32 = (_ok0$28 && (_ok1$29 && (_ok2$30 && _ok3$31)));
+                                        var _c_x$33 = (Math.max(((_v_x$25 + ((Mons$scr_mid & 0xFFF))) >>> 0) - $689, 0));
+                                        var _c_y$34 = (Math.max(((_v_y$26 + (((Mons$scr_mid >>> 12) & 0xFFF))) >>> 0) - $690, 0));
+                                        var _c_z$35 = (_ok$32 ? _v_z$27 : 0);
+                                        var _pos$36 = ((0 | _c_x$33 | (_c_y$34 << 12) | (_c_z$35 << 24)));
+                                        var _col$37 = (($684.buffer[_i$13 * 2 + 1]));
+                                        var $691 = ((_scr$14.buffer[_scr$14.length * 2] = _pos$36, _scr$14.buffer[_scr$14.length * 2 + 1] = _col$37, _scr$14.length++, _scr$14));
+                                        var $686 = $691;
+                                        break;
+                                };
+                                _scr$14 = $686;
+                            };
+                            return _scr$14;
+                        })();
+                        var $685 = _scr$13;
+                        var $679 = $685;
+                        break;
+                };
+                _scr$7 = $679;
+                $680 = $680.tail;
+            }
+            return _scr$7;
+        })();
+        var $677 = _scr$6;
+        return $677;
+    };
+    const Mons$Map$build_sprites = x0 => x1 => x2 => x3 => Mons$Map$build_sprites$(x0, x1, x2, x3);
+    const Mons$draw$text_screen_bg = Image3D$empty;
+    const Mons$draw$msg_screen$line_0 = ((0 | 16 | (128 << 12) | (0 << 24)));
+    const Mons$draw$msg_screen$line_1 = ((0 | 16 | (144 << 12) | (0 << 24)));
+
+    function Mons$draw$mage_talk$(_text_0$1, _text_1$2, _scr$3) {
+        var _battle_boy_u$4 = Image3D$empty;
+        var _battle_mage_d$5 = Image3D$empty;
+        var _scr$6 = Mons$draw$image$(Mons$draw$text_screen_bg, ((0 | 120 | (80 << 12) | (0 << 24))), _scr$3);
+        var _scr$7 = Mons$draw$text$(_text_0$1, Mons$Char_black$font, Mons$draw$msg_screen$line_0, _scr$6);
+        var _scr$8 = Mons$draw$text$(_text_1$2, Mons$Char_black$font, Mons$draw$msg_screen$line_1, _scr$7);
+        var _scr$9 = Mons$draw$image$(_battle_boy_u$4, ((0 | 75 | (85 << 12) | (0 << 24))), _scr$8);
+        var _scr$10 = Mons$draw$image$(_battle_mage_d$5, ((0 | 180 | (80 << 12) | (0 << 24))), _scr$9);
+        var $692 = _scr$10;
+        return $692;
+    };
+    const Mons$draw$mage_talk = x0 => x1 => x2 => Mons$draw$mage_talk$(x0, x1, x2);
     const Mons$Char_white$100 = Image3D$parse$("817c1effffff817d1effffff7e7e1effffff7f7e1effffff807e1effffff817e1effffff7d7f1effffff817f1effffff7d801effffff81801effffff7d811effffff81811effffff7d821effffff81821effffff7e831effffff7f831effffff80831effffff81831effffff");
     const Mons$Char_white$101 = Image3D$parse$("7e7e1effffff7f7e1effffff807e1effffff7d7f1effffff817f1effffff7d801effffff7e801effffff7f801effffff80801effffff81801effffff7d811effffff7d821effffff81821effffff7e831effffff7f831effffff80831effffff");
     const Mons$Char_white$102 = Image3D$parse$("7f7c1effffff807c1effffff817c1effffff7e7d1effffff7e7e1effffff7d7f1effffff7e7f1effffff7f7f1effffff807f1effffff817f1effffff7e801effffff7e811effffff7e821effffff7e831effffff");
@@ -3606,553 +4056,41 @@ module.exports = (function() {
         var _map$94 = Mons$font$set_img$(97, Mons$Char_white$97, _map$93);
         var _map$95 = Mons$font$set_img$(98, Mons$Char_white$98, _map$94);
         var _map$96 = Mons$font$set_img$(99, Mons$Char_white$99, _map$95);
-        var _map$97 = Mons$font$set_img$(9312, Mons$Char_black$normal, _map$96);
-        var _map$98 = Mons$font$set_img$(9313, Mons$Char_black$earth, _map$97);
-        var _map$99 = Mons$font$set_img$(9314, Mons$Char_black$fire, _map$98);
-        var _map$100 = Mons$font$set_img$(9315, Mons$Char_black$water, _map$99);
-        var _map$101 = Mons$font$set_img$(9316, Mons$Char_black$grass, _map$100);
-        var _map$102 = Mons$font$set_img$(9317, Mons$Char_black$electric, _map$101);
-        var _map$103 = Mons$font$set_img$(9318, Mons$Char_black$psychic, _map$102);
-        var _map$104 = Mons$font$set_img$(9319, Mons$Char_black$ice, _map$103);
-        var _map$105 = Mons$font$set_img$(9320, Mons$Char_black$light, _map$104);
-        var _map$106 = Mons$font$set_img$(9321, Mons$Char_black$darkness, _map$105);
-        var $601 = _map$106;
-        return $601;
+        var $693 = _map$96;
+        return $693;
     })();
-
-    function List$reverse$go$(_xs$2, _res$3) {
-        var List$reverse$go$ = (_xs$2, _res$3) => ({
-            ctr: 'TCO',
-            arg: [_xs$2, _res$3]
-        });
-        var List$reverse$go = _xs$2 => _res$3 => List$reverse$go$(_xs$2, _res$3);
-        var arg = [_xs$2, _res$3];
-        while (true) {
-            let [_xs$2, _res$3] = arg;
-            var R = (() => {
-                var self = _xs$2;
-                switch (self._) {
-                    case 'List.cons':
-                        var $602 = self.head;
-                        var $603 = self.tail;
-                        var $604 = List$reverse$go$($603, List$cons$($602, _res$3));
-                        return $604;
-                    case 'List.nil':
-                        var $605 = _res$3;
-                        return $605;
-                };
-            })();
-            if (R.ctr === 'TCO') arg = R.arg;
-            else return R;
-        }
-    };
-    const List$reverse$go = x0 => x1 => List$reverse$go$(x0, x1);
-
-    function List$reverse$(_xs$2) {
-        var $606 = List$reverse$go$(_xs$2, List$nil);
-        return $606;
-    };
-    const List$reverse = x0 => List$reverse$(x0);
-
-    function Mons$Object$get_dir$(_obj$1) {
-        var self = _obj$1;
-        switch (self._) {
-            case 'Mons.Object.new':
-                var $608 = self.dir;
-                var $609 = $608;
-                var $607 = $609;
-                break;
-        };
-        return $607;
-    };
-    const Mons$Object$get_dir = x0 => Mons$Object$get_dir$(x0);
-
-    function Mons$draw$global_xy$(_t_x$1, _t_y$2, _obj$3) {
-        var self = _obj$3;
-        switch (self._) {
-            case 'Mons.Object.new':
-                var _ani$15 = Mons$Object$get_ani$(_obj$3);
-                var _dir$16 = Mons$Object$get_dir$(_obj$3);
-                var _g_x$17 = ((_t_x$1 * 16) >>> 0);
-                var _g_y$18 = ((_t_y$2 * 16) >>> 0);
-                var self = _dir$16;
-                switch (self._) {
-                    case 'Mons.Dir.right':
-                        var $612 = (Math.max(_g_x$17 - _ani$15, 0));
-                        var _g_x$19 = $612;
-                        break;
-                    case 'Mons.Dir.up':
-                    case 'Mons.Dir.down':
-                        var $613 = _g_x$17;
-                        var _g_x$19 = $613;
-                        break;
-                    case 'Mons.Dir.left':
-                        var $614 = ((_g_x$17 + _ani$15) >>> 0);
-                        var _g_x$19 = $614;
-                        break;
-                };
-                var self = _dir$16;
-                switch (self._) {
-                    case 'Mons.Dir.right':
-                    case 'Mons.Dir.left':
-                        var $615 = _g_y$18;
-                        var _g_y$20 = $615;
-                        break;
-                    case 'Mons.Dir.up':
-                        var $616 = ((_g_y$18 + _ani$15) >>> 0);
-                        var _g_y$20 = $616;
-                        break;
-                    case 'Mons.Dir.down':
-                        var $617 = (Math.max(_g_y$18 - _ani$15, 0));
-                        var _g_y$20 = $617;
-                        break;
-                };
-                var $611 = Pair$new$(_g_x$19, _g_y$20);
-                var $610 = $611;
-                break;
-        };
-        return $610;
-    };
-    const Mons$draw$global_xy = x0 => x1 => x2 => Mons$draw$global_xy$(x0, x1, x2);
-
-    function Nat$mod$go$(_n$1, _m$2, _r$3) {
-        var Nat$mod$go$ = (_n$1, _m$2, _r$3) => ({
-            ctr: 'TCO',
-            arg: [_n$1, _m$2, _r$3]
-        });
-        var Nat$mod$go = _n$1 => _m$2 => _r$3 => Nat$mod$go$(_n$1, _m$2, _r$3);
-        var arg = [_n$1, _m$2, _r$3];
-        while (true) {
-            let [_n$1, _m$2, _r$3] = arg;
-            var R = (() => {
-                var self = _m$2;
-                if (self === 0n) {
-                    var $618 = Nat$mod$go$(_n$1, _r$3, _m$2);
-                    return $618;
-                } else {
-                    var $619 = (self - 1n);
-                    var self = _n$1;
-                    if (self === 0n) {
-                        var $621 = _r$3;
-                        var $620 = $621;
-                    } else {
-                        var $622 = (self - 1n);
-                        var $623 = Nat$mod$go$($622, $619, Nat$succ$(_r$3));
-                        var $620 = $623;
-                    };
-                    return $620;
-                };
-            })();
-            if (R.ctr === 'TCO') arg = R.arg;
-            else return R;
-        }
-    };
-    const Nat$mod$go = x0 => x1 => x2 => Nat$mod$go$(x0, x1, x2);
-
-    function Nat$mod$(_n$1, _m$2) {
-        var $624 = Nat$mod$go$(_n$1, _m$2, 0n);
-        return $624;
-    };
-    const Nat$mod = x0 => x1 => Nat$mod$(x0, x1);
-
-    function Either$(_A$1, _B$2) {
-        var $625 = null;
-        return $625;
-    };
-    const Either = x0 => x1 => Either$(x0, x1);
-
-    function Either$left$(_value$3) {
-        var $626 = ({
-            _: 'Either.left',
-            'value': _value$3
-        });
-        return $626;
-    };
-    const Either$left = x0 => Either$left$(x0);
-
-    function Either$right$(_value$3) {
-        var $627 = ({
-            _: 'Either.right',
-            'value': _value$3
-        });
-        return $627;
-    };
-    const Either$right = x0 => Either$right$(x0);
-
-    function Nat$sub_rem$(_n$1, _m$2) {
-        var Nat$sub_rem$ = (_n$1, _m$2) => ({
-            ctr: 'TCO',
-            arg: [_n$1, _m$2]
-        });
-        var Nat$sub_rem = _n$1 => _m$2 => Nat$sub_rem$(_n$1, _m$2);
-        var arg = [_n$1, _m$2];
-        while (true) {
-            let [_n$1, _m$2] = arg;
-            var R = (() => {
-                var self = _m$2;
-                if (self === 0n) {
-                    var $628 = Either$left$(_n$1);
-                    return $628;
-                } else {
-                    var $629 = (self - 1n);
-                    var self = _n$1;
-                    if (self === 0n) {
-                        var $631 = Either$right$(Nat$succ$($629));
-                        var $630 = $631;
-                    } else {
-                        var $632 = (self - 1n);
-                        var $633 = Nat$sub_rem$($632, $629);
-                        var $630 = $633;
-                    };
-                    return $630;
-                };
-            })();
-            if (R.ctr === 'TCO') arg = R.arg;
-            else return R;
-        }
-    };
-    const Nat$sub_rem = x0 => x1 => Nat$sub_rem$(x0, x1);
-
-    function Nat$div_mod$go$(_n$1, _m$2, _d$3) {
-        var Nat$div_mod$go$ = (_n$1, _m$2, _d$3) => ({
-            ctr: 'TCO',
-            arg: [_n$1, _m$2, _d$3]
-        });
-        var Nat$div_mod$go = _n$1 => _m$2 => _d$3 => Nat$div_mod$go$(_n$1, _m$2, _d$3);
-        var arg = [_n$1, _m$2, _d$3];
-        while (true) {
-            let [_n$1, _m$2, _d$3] = arg;
-            var R = (() => {
-                var self = Nat$sub_rem$(_n$1, _m$2);
-                switch (self._) {
-                    case 'Either.left':
-                        var $634 = self.value;
-                        var $635 = Nat$div_mod$go$($634, _m$2, Nat$succ$(_d$3));
-                        return $635;
-                    case 'Either.right':
-                        var $636 = Pair$new$(_d$3, _n$1);
-                        return $636;
-                };
-            })();
-            if (R.ctr === 'TCO') arg = R.arg;
-            else return R;
-        }
-    };
-    const Nat$div_mod$go = x0 => x1 => x2 => Nat$div_mod$go$(x0, x1, x2);
-    const Nat$div_mod = a0 => a1 => (({
-        _: 'Pair.new',
-        'fst': a0 / a1,
-        'snd': a0 % a1
-    }));
-    const Nat$div = a0 => a1 => (a0 / a1);
-
-    function Mons$draw$cur_sprite$(_idl$1, _sprites$2) {
-        var _len_sprite$3 = (list_length(_sprites$2));
-        var _idl_nat$4 = U32$to_nat$((Math.max(_idl$1 - 1, 0)));
-        var _idx$5 = Nat$mod$((_idl_nat$4 / 4n), _len_sprite$3);
-        var self = List$at$(_idx$5, _sprites$2);
-        switch (self._) {
-            case 'Maybe.some':
-                var $638 = self.value;
-                var $639 = $638;
-                var $637 = $639;
-                break;
-            case 'Maybe.none':
-                var $640 = Image3D$empty;
-                var $637 = $640;
-                break;
-        };
-        return $637;
-    };
-    const Mons$draw$cur_sprite = x0 => x1 => Mons$draw$cur_sprite$(x0, x1);
-
-    function Mons$Sprite$new$(_x$1, _y$2, _z$3, _img$4) {
-        var $641 = ({
-            _: 'Mons.Sprite.new',
-            'x': _x$1,
-            'y': _y$2,
-            'z': _z$3,
-            'img': _img$4
-        });
-        return $641;
-    };
-    const Mons$Sprite$new = x0 => x1 => x2 => x3 => Mons$Sprite$new$(x0, x1, x2, x3);
-
-    function Mons$game_sprites$(_game$1) {
-        var self = _game$1;
-        switch (self._) {
-            case 'Mons.Game.new':
-                var $643 = self.map;
-                var $644 = self.tik;
-                var _sprs$7 = List$nil;
-                var self = Mons$Game$get_hero_pos$(_game$1);
-                switch (self._) {
-                    case 'Maybe.some':
-                        var $646 = self.value;
-                        var _c_x$9 = (($646 & 0xFFF));
-                        var _c_y$10 = ((($646 >>> 12) & 0xFFF));
-                        var _c_z$11 = (($646 >>> 24));
-                        var _sprs$12 = (() => {
-                            var $648 = _sprs$7;
-                            var $649 = 0;
-                            var $650 = 17;
-                            let _sprs$13 = $648;
-                            for (let _x$12 = $649; _x$12 < $650; ++_x$12) {
-                                var _sprs$14 = (() => {
-                                    var $651 = _sprs$13;
-                                    var $652 = 0;
-                                    var $653 = 13;
-                                    let _sprs$15 = $651;
-                                    for (let _y$14 = $652; _y$14 < $653; ++_y$14) {
-                                        var _t_x$16 = (((Math.max(_c_x$9 - 8, 0)) + _x$12) >>> 0);
-                                        var _t_y$17 = (((Math.max(_c_y$10 - 6, 0)) + _y$14) >>> 0);
-                                        var _t_z$18 = _c_z$11;
-                                        var _pos$19 = ((0 | _t_x$16 | (_t_y$17 << 12) | (_t_z$18 << 24)));
-                                        var _got$20 = Map$get$(U32$to_bits$(_pos$19), $643);
-                                        var self = _got$20;
-                                        switch (self._) {
-                                            case 'Maybe.some':
-                                                var $654 = self.value;
-                                                var $655 = List$reverse$($654);
-                                                var _objs$21 = $655;
-                                                break;
-                                            case 'Maybe.none':
-                                                var $656 = List$cons$(Mons$Object$void, List$nil);
-                                                var _objs$21 = $656;
-                                                break;
-                                        };
-                                        var _sprs$22 = (() => {
-                                            var $658 = _sprs$15;
-                                            var $659 = _objs$21;
-                                            let _sprs$23 = $658;
-                                            let _obj$22;
-                                            while ($659._ === 'List.cons') {
-                                                _obj$22 = $659.head;
-                                                var self = _obj$22;
-                                                switch (self._) {
-                                                    case 'Mons.Object.new':
-                                                        var $660 = self.kin;
-                                                        var $661 = self.dir;
-                                                        var $662 = self.ani;
-                                                        var self = Mons$Kind$attr$($660);
-                                                        switch (self._) {
-                                                            case 'Mons.Attr.new':
-                                                                var $664 = self.wlk;
-                                                                var _sprites$45 = $664(_t_x$16)(_t_y$17)($662)($661);
-                                                                var self = Mons$draw$global_xy$(_t_x$16, _t_y$17, _obj$22);
-                                                                switch (self._) {
-                                                                    case 'Pair.new':
-                                                                        var $666 = self.fst;
-                                                                        var $667 = self.snd;
-                                                                        var _s_z$48 = _t_z$18;
-                                                                        var self = Mons$Object$is_standing$(_obj$22);
-                                                                        if (self) {
-                                                                            var _cur_spr$49 = Mons$draw$cur_sprite$($644, _sprites$45);
-                                                                            var _spr$50 = Mons$Sprite$new$($666, $667, _s_z$48, _cur_spr$49);
-                                                                            var $669 = List$cons$(_spr$50, _sprs$23);
-                                                                            var $668 = $669;
-                                                                        } else {
-                                                                            var _sprs$49 = (() => {
-                                                                                var $672 = _sprs$23;
-                                                                                var $673 = _sprites$45;
-                                                                                let _sprs$50 = $672;
-                                                                                let _img$49;
-                                                                                while ($673._ === 'List.cons') {
-                                                                                    _img$49 = $673.head;
-                                                                                    var _ani$51 = Mons$Object$get_ani$(_obj$22);
-                                                                                    var _dir$52 = Mons$Object$get_dir$(_obj$22);
-                                                                                    var _spr$53 = Mons$Sprite$new$($666, $667, _s_z$48, _img$49);
-                                                                                    var $672 = List$cons$(_spr$53, _sprs$50);
-                                                                                    _sprs$50 = $672;
-                                                                                    $673 = $673.tail;
-                                                                                }
-                                                                                return _sprs$50;
-                                                                            })();
-                                                                            var $670 = _sprs$49;
-                                                                            var $668 = $670;
-                                                                        };
-                                                                        var $665 = $668;
-                                                                        break;
-                                                                };
-                                                                var $663 = $665;
-                                                                break;
-                                                        };
-                                                        var $658 = $663;
-                                                        break;
-                                                };
-                                                _sprs$23 = $658;
-                                                $659 = $659.tail;
-                                            }
-                                            return _sprs$23;
-                                        })();
-                                        var $651 = _sprs$22;
-                                        _sprs$15 = $651;
-                                    };
-                                    return _sprs$15;
-                                })();
-                                var $648 = _sprs$14;
-                                _sprs$13 = $648;
-                            };
-                            return _sprs$13;
-                        })();
-                        var $647 = _sprs$12;
-                        var $645 = $647;
-                        break;
-                    case 'Maybe.none':
-                        var $674 = List$nil;
-                        var $645 = $674;
-                        break;
-                };
-                var $642 = $645;
-                break;
-        };
-        return $642;
-    };
-    const Mons$game_sprites = x0 => Mons$game_sprites$(x0);
-    const Mons$scr_mid = ((0 | 120 | (80 << 12) | (0 << 24)));
-
-    function Cmp$as_lte$(_cmp$1) {
-        var self = _cmp$1;
-        switch (self._) {
-            case 'Cmp.ltn':
-            case 'Cmp.eql':
-                var $676 = Bool$true;
-                var $675 = $676;
-                break;
-            case 'Cmp.gtn':
-                var $677 = Bool$false;
-                var $675 = $677;
-                break;
-        };
-        return $675;
-    };
-    const Cmp$as_lte = x0 => Cmp$as_lte$(x0);
-
-    function Word$lte$(_a$2, _b$3) {
-        var $678 = Cmp$as_lte$(Word$cmp$(_a$2, _b$3));
-        return $678;
-    };
-    const Word$lte = x0 => x1 => Word$lte$(x0, x1);
-    const U32$lte = a0 => a1 => (a0 <= a1);
-
-    function Mons$Map$build_sprites$(_game$1, _scr$2, _hero_pos$3, _hero_obj$4) {
-        var _sprs$5 = Mons$game_sprites$(_game$1);
-        var _scr$6 = (() => {
-            var $681 = _scr$2;
-            var $682 = _sprs$5;
-            let _scr$7 = $681;
-            let _spr$6;
-            while ($682._ === 'List.cons') {
-                _spr$6 = $682.head;
-                var self = _spr$6;
-                switch (self._) {
-                    case 'Mons.Sprite.new':
-                        var $683 = self.x;
-                        var $684 = self.y;
-                        var $685 = self.z;
-                        var $686 = self.img;
-                        var _len$12 = Image3D$get_length$($686);
-                        var _scr$13 = (() => {
-                            var $688 = _scr$7;
-                            var $689 = 0;
-                            var $690 = _len$12;
-                            let _scr$14 = $688;
-                            for (let _i$13 = $689; _i$13 < $690; ++_i$13) {
-                                var _s_w$15 = ((Mons$scr_mid & 0xFFF));
-                                var _s_h$16 = (((Mons$scr_mid >>> 12) & 0xFFF));
-                                var _h_x$17 = ((_hero_pos$3 & 0xFFF));
-                                var _h_y$18 = (((_hero_pos$3 >>> 12) & 0xFFF));
-                                var self = Mons$draw$global_xy$(_h_x$17, _h_y$18, _hero_obj$4);
-                                switch (self._) {
-                                    case 'Pair.new':
-                                        var $691 = self.fst;
-                                        var $692 = self.snd;
-                                        var _s_x$21 = $683;
-                                        var _s_y$22 = $684;
-                                        var _s_z$23 = $685;
-                                        var _xyz$24 = (($686.buffer[_i$13 * 2]));
-                                        var _v_x$25 = (Math.max(((((_xyz$24 & 0xFFF)) + _s_x$21) >>> 0) - ((Mons$vox_mid & 0xFFF)), 0));
-                                        var _v_y$26 = (Math.max((((((_xyz$24 >>> 12) & 0xFFF)) + _s_y$22) >>> 0) - (((Mons$vox_mid >>> 12) & 0xFFF)), 0));
-                                        var _v_z$27 = ((_xyz$24 >>> 24));
-                                        var _ok0$28 = ((Math.max($691 - _s_w$15, 0)) <= _v_x$25);
-                                        var _ok1$29 = (_v_x$25 < (($691 + _s_w$15) >>> 0));
-                                        var _ok2$30 = ((Math.max($692 - _s_h$16, 0)) <= _v_y$26);
-                                        var _ok3$31 = (_v_y$26 < (($692 + _s_h$16) >>> 0));
-                                        var _ok$32 = (_ok0$28 && (_ok1$29 && (_ok2$30 && _ok3$31)));
-                                        var _c_x$33 = (Math.max(((_v_x$25 + ((Mons$scr_mid & 0xFFF))) >>> 0) - $691, 0));
-                                        var _c_y$34 = (Math.max(((_v_y$26 + (((Mons$scr_mid >>> 12) & 0xFFF))) >>> 0) - $692, 0));
-                                        var _c_z$35 = (_ok$32 ? _v_z$27 : 0);
-                                        var _pos$36 = ((0 | _c_x$33 | (_c_y$34 << 12) | (_c_z$35 << 24)));
-                                        var _col$37 = (($686.buffer[_i$13 * 2 + 1]));
-                                        var $693 = ((_scr$14.buffer[_scr$14.length * 2] = _pos$36, _scr$14.buffer[_scr$14.length * 2 + 1] = _col$37, _scr$14.length++, _scr$14));
-                                        var $688 = $693;
-                                        break;
-                                };
-                                _scr$14 = $688;
-                            };
-                            return _scr$14;
-                        })();
-                        var $687 = _scr$13;
-                        var $681 = $687;
-                        break;
-                };
-                _scr$7 = $681;
-                $682 = $682.tail;
-            }
-            return _scr$7;
-        })();
-        var $679 = _scr$6;
-        return $679;
-    };
-    const Mons$Map$build_sprites = x0 => x1 => x2 => x3 => Mons$Map$build_sprites$(x0, x1, x2, x3);
-    const Mons$draw$text_screen_bg = Image3D$empty;
-    const Mons$draw$msg_screen$line_0 = ((0 | 16 | (128 << 12) | (0 << 24)));
-    const Mons$draw$msg_screen$line_1 = ((0 | 16 | (144 << 12) | (0 << 24)));
-
-    function Mons$draw$mage_talk$(_text_0$1, _text_1$2, _scr$3) {
-        var _battle_boy_u$4 = Image3D$empty;
-        var _battle_mage_d$5 = Image3D$empty;
-        var _scr$6 = Mons$draw$image$(Mons$draw$text_screen_bg, ((0 | 120 | (80 << 12) | (0 << 24))), _scr$3);
-        var _scr$7 = Mons$draw$text$(_text_0$1, Mons$Char_black$font, Mons$draw$msg_screen$line_0, _scr$6);
-        var _scr$8 = Mons$draw$text$(_text_1$2, Mons$Char_black$font, Mons$draw$msg_screen$line_1, _scr$7);
-        var _scr$9 = Mons$draw$image$(_battle_boy_u$4, ((0 | 75 | (85 << 12) | (0 << 24))), _scr$8);
-        var _scr$10 = Mons$draw$image$(_battle_mage_d$5, ((0 | 180 | (80 << 12) | (0 << 24))), _scr$9);
-        var $694 = _scr$10;
-        return $694;
-    };
-    const Mons$draw$mage_talk = x0 => x1 => x2 => Mons$draw$mage_talk$(x0, x1, x2);
 
     function Mons$Object$get_images$(_bag$1) {
         var _images$2 = List$nil;
         var _images$3 = (() => {
-            var $697 = _images$2;
-            var $698 = _bag$1;
-            let _images$4 = $697;
+            var $696 = _images$2;
+            var $697 = _bag$1;
+            let _images$4 = $696;
             let _mon$3;
-            while ($698._ === 'List.cons') {
-                _mon$3 = $698.head;
+            while ($697._ === 'List.cons') {
+                _mon$3 = $697.head;
                 var self = _mon$3;
                 switch (self._) {
                     case 'Mons.Object.new':
-                        var $699 = self.kin;
-                        var self = Mons$Kind$attr$($699);
+                        var $698 = self.kin;
+                        var self = Mons$Kind$attr$($698);
                         switch (self._) {
                             case 'Mons.Attr.new':
-                                var $701 = self.pic;
-                                var $702 = List$cons$($701, _images$4);
-                                var $700 = $702;
+                                var $700 = self.pic;
+                                var $701 = List$cons$($700, _images$4);
+                                var $699 = $701;
                                 break;
                         };
-                        var $697 = $700;
+                        var $696 = $699;
                         break;
                 };
-                _images$4 = $697;
-                $698 = $698.tail;
+                _images$4 = $696;
+                $697 = $697.tail;
             }
             return _images$4;
         })();
-        var $695 = _images$3;
-        return $695;
+        var $694 = _images$3;
+        return $694;
     };
     const Mons$Object$get_images = x0 => Mons$Object$get_images$(x0);
 
@@ -4160,40 +4098,40 @@ module.exports = (function() {
         var self = Mons$Kind$attr$(_kind$1);
         switch (self._) {
             case 'Mons.Attr.new':
-                var $704 = self.name;
-                var $705 = $704;
-                var $703 = $705;
+                var $703 = self.name;
+                var $704 = $703;
+                var $702 = $704;
                 break;
         };
-        return $703;
+        return $702;
     };
     const Mons$Kind$get_name = x0 => Mons$Kind$get_name$(x0);
 
     function Mons$Object$get_names$(_bag$1) {
         var _names$2 = List$nil;
         var _names$3 = (() => {
-            var $708 = _names$2;
-            var $709 = _bag$1;
-            let _names$4 = $708;
+            var $707 = _names$2;
+            var $708 = _bag$1;
+            let _names$4 = $707;
             let _mon$3;
-            while ($709._ === 'List.cons') {
-                _mon$3 = $709.head;
+            while ($708._ === 'List.cons') {
+                _mon$3 = $708.head;
                 var self = _mon$3;
                 switch (self._) {
                     case 'Mons.Object.new':
-                        var $710 = self.kin;
-                        var _name$16 = Mons$Kind$get_name$($710);
-                        var $711 = List$cons$(_name$16, _names$4);
-                        var $708 = $711;
+                        var $709 = self.kin;
+                        var _name$16 = Mons$Kind$get_name$($709);
+                        var $710 = List$cons$(_name$16, _names$4);
+                        var $707 = $710;
                         break;
                 };
-                _names$4 = $708;
-                $709 = $709.tail;
+                _names$4 = $707;
+                $708 = $708.tail;
             }
             return _names$4;
         })();
-        var $706 = _names$3;
-        return $706;
+        var $705 = _names$3;
+        return $705;
     };
     const Mons$Object$get_names = x0 => Mons$Object$get_names$(x0);
 
@@ -4212,28 +4150,28 @@ module.exports = (function() {
                 var self = _images$1;
                 switch (self._) {
                     case 'List.cons':
-                        var $713 = self.head;
-                        var $714 = self.tail;
+                        var $712 = self.head;
+                        var $713 = self.tail;
                         var _inventory_mon_selection$11 = Image3D$empty;
                         var _scr$12 = Mons$draw$image$(_inventory_mon_selection$11, _pos$4, _scr$5);
-                        var _scr$13 = Mons$draw$image$($713, _pos$4, _scr$12);
+                        var _scr$13 = Mons$draw$image$($712, _pos$4, _scr$12);
                         var self = _horizontal$2;
                         if (self) {
-                            var $716 = ((0 | ((_x$7 + _spacing$3) >>> 0) | (_y$8 << 12) | (0 << 24)));
-                            var _pos$14 = $716;
+                            var $715 = ((0 | ((_x$7 + _spacing$3) >>> 0) | (_y$8 << 12) | (0 << 24)));
+                            var _pos$14 = $715;
                         } else {
-                            var $717 = ((0 | _x$7 | (((_y$8 + _spacing$3) >>> 0) << 12) | (0 << 24)));
-                            var _pos$14 = $717;
+                            var $716 = ((0 | _x$7 | (((_y$8 + _spacing$3) >>> 0) << 12) | (0 << 24)));
+                            var _pos$14 = $716;
                         };
-                        var $715 = Mons$draw$list_image$go$($714, _horizontal$2, _spacing$3, _pos$14, _scr$13, ((_idx$6 + 1) >>> 0));
-                        var $712 = $715;
+                        var $714 = Mons$draw$list_image$go$($713, _horizontal$2, _spacing$3, _pos$14, _scr$13, ((_idx$6 + 1) >>> 0));
+                        var $711 = $714;
                         break;
                     case 'List.nil':
-                        var $718 = _scr$5;
-                        var $712 = $718;
+                        var $717 = _scr$5;
+                        var $711 = $717;
                         break;
                 };
-                return $712;
+                return $711;
             })();
             if (R.ctr === 'TCO') arg = R.arg;
             else return R;
@@ -4243,8 +4181,8 @@ module.exports = (function() {
 
     function Mons$draw$list_image$(_images$1, _horizontal$2, _spacing$3, _start_pos$4, _scr$5) {
         var _qtd$6 = (Number((list_length(_images$1))));
-        var $719 = Mons$draw$list_image$go$(_images$1, _horizontal$2, _spacing$3, _start_pos$4, _scr$5, 0);
-        return $719;
+        var $718 = Mons$draw$list_image$go$(_images$1, _horizontal$2, _spacing$3, _start_pos$4, _scr$5, 0);
+        return $718;
     };
     const Mons$draw$list_image = x0 => x1 => x2 => x3 => x4 => Mons$draw$list_image$(x0, x1, x2, x3, x4);
 
@@ -4253,29 +4191,29 @@ module.exports = (function() {
         var _y_pos$8 = (((_pos$5 >>> 12) & 0xFFF));
         var self = (_mon_idx$1 === 0);
         if (self) {
-            var $721 = ((0 | _x_pos$7 | (_y_pos$8 << 12) | (0 << 24)));
-            var _pos$9 = $721;
+            var $720 = ((0 | _x_pos$7 | (_y_pos$8 << 12) | (0 << 24)));
+            var _pos$9 = $720;
         } else {
             var self = _horizontal$3;
             if (self) {
-                var $723 = ((0 | ((_x_pos$7 + ((_spacing$4 * _mon_idx$1) >>> 0)) >>> 0) | (_y_pos$8 << 12) | (0 << 24)));
-                var $722 = $723;
+                var $722 = ((0 | ((_x_pos$7 + ((_spacing$4 * _mon_idx$1) >>> 0)) >>> 0) | (_y_pos$8 << 12) | (0 << 24)));
+                var $721 = $722;
             } else {
-                var $724 = ((0 | _x_pos$7 | (((_y_pos$8 + ((_spacing$4 * _mon_idx$1) >>> 0)) >>> 0) << 12) | (0 << 24)));
-                var $722 = $724;
+                var $723 = ((0 | _x_pos$7 | (((_y_pos$8 + ((_spacing$4 * _mon_idx$1) >>> 0)) >>> 0) << 12) | (0 << 24)));
+                var $721 = $723;
             };
-            var _pos$9 = $722;
+            var _pos$9 = $721;
         };
         var self = (_qtd$2 === 0);
         if (self) {
-            var $725 = _scr$6;
-            var $720 = $725;
+            var $724 = _scr$6;
+            var $719 = $724;
         } else {
             var _inventory_mon_selected$10 = Image3D$empty;
-            var $726 = Mons$draw$image$(_inventory_mon_selected$10, _pos$9, _scr$6);
-            var $720 = $726;
+            var $725 = Mons$draw$image$(_inventory_mon_selected$10, _pos$9, _scr$6);
+            var $719 = $725;
         };
-        return $720;
+        return $719;
     };
     const Mons$draw$mon_img_selected = x0 => x1 => x2 => x3 => x4 => x5 => Mons$draw$mon_img_selected$(x0, x1, x2, x3, x4, x5);
 
@@ -4283,29 +4221,29 @@ module.exports = (function() {
         var self = _obj$1;
         switch (self._) {
             case 'Mons.Object.new':
-                var $728 = self.bag;
-                var $729 = self.mon;
-                var _qtd$14 = (Number((list_length($728))));
+                var $727 = self.bag;
+                var $728 = self.mon;
+                var _qtd$14 = (Number((list_length($727))));
                 var self = (_qtd$14 === 0);
                 if (self) {
-                    var $731 = Mons$draw$text$("nothing to show", Mons$Char_white$font, ((0 | 60 | (50 << 12) | (0 << 24))), _scr$2);
-                    var $730 = $731;
+                    var $730 = Mons$draw$text$("nothing to show", Mons$Char_white$font, ((0 | 60 | (50 << 12) | (0 << 24))), _scr$2);
+                    var $729 = $730;
                 } else {
                     var _scr$15 = Mons$draw$image$(Mons$draw$text_screen_bg, ((0 | 120 | (90 << 12) | (0 << 24))), _scr$2);
-                    var _mons_images$16 = List$reverse$(Mons$Object$get_images$($728));
-                    var _mons_names$17 = List$reverse$(Mons$Object$get_names$($728));
+                    var _mons_images$16 = List$reverse$(Mons$Object$get_images$($727));
+                    var _mons_names$17 = List$reverse$(Mons$Object$get_names$($727));
                     var _scr$18 = Mons$draw$list$(_mons_names$17, Bool$false, 34, Mons$Char_white$font, ((0 | 70 | (0 << 12) | (0 << 24))), _scr$15);
                     var _scr$19 = Mons$draw$list_image$(_mons_images$16, Bool$false, 34, ((0 | 40 | (30 << 12) | (0 << 24))), _scr$18);
-                    var _scr$20 = Mons$draw$mon_img_selected$($729, _qtd$14, Bool$false, 34, ((0 | 40 | (30 << 12) | (0 << 24))), _scr$19);
+                    var _scr$20 = Mons$draw$mon_img_selected$($728, _qtd$14, Bool$false, 34, ((0 | 40 | (30 << 12) | (0 << 24))), _scr$19);
                     var _scr$21 = Mons$draw$text$("Choose a Mon to start with and ", Mons$Char_black$font, ((0 | 16 | (134 << 12) | (0 << 24))), _scr$20);
                     var _scr$22 = Mons$draw$text$("run to the tower. [c]", Mons$Char_black$font, ((0 | 16 | (148 << 12) | (0 << 24))), _scr$21);
-                    var $732 = _scr$22;
-                    var $730 = $732;
+                    var $731 = _scr$22;
+                    var $729 = $731;
                 };
-                var $727 = $730;
+                var $726 = $729;
                 break;
         };
-        return $727;
+        return $726;
     };
     const Mons$draw$initial_mons = x0 => x1 => Mons$draw$initial_mons$(x0, x1);
     const String$concat = a0 => a1 => (a0 + a1);
@@ -4323,13 +4261,13 @@ module.exports = (function() {
                 var self = _xs$1;
                 switch (self._) {
                     case 'List.cons':
-                        var $733 = self.head;
-                        var $734 = self.tail;
-                        var $735 = String$flatten$go$($734, (_res$2 + $733));
-                        return $735;
+                        var $732 = self.head;
+                        var $733 = self.tail;
+                        var $734 = String$flatten$go$($733, (_res$2 + $732));
+                        return $734;
                     case 'List.nil':
-                        var $736 = _res$2;
-                        return $736;
+                        var $735 = _res$2;
+                        return $735;
                 };
             })();
             if (R.ctr === 'TCO') arg = R.arg;
@@ -4339,8 +4277,8 @@ module.exports = (function() {
     const String$flatten$go = x0 => x1 => String$flatten$go$(x0, x1);
 
     function String$flatten$(_xs$1) {
-        var $737 = String$flatten$go$(_xs$1, "");
-        return $737;
+        var $736 = String$flatten$go$(_xs$1, "");
+        return $736;
     };
     const String$flatten = x0 => String$flatten$(x0);
 
@@ -4348,60 +4286,60 @@ module.exports = (function() {
         var self = _kind$1;
         switch (self._) {
             case 'Mons.Kind.Mons':
-                var $739 = self.pri_type;
-                var self = $739;
+                var $738 = self.pri_type;
+                var self = $738;
                 switch (self._) {
                     case 'Mons.Type.normal':
-                        var $741 = "\u{2460}";
-                        var $740 = $741;
+                        var $740 = "\u{2460}";
+                        var $739 = $740;
                         break;
                     case 'Mons.Type.earth':
-                        var $742 = "\u{2461}";
-                        var $740 = $742;
+                        var $741 = "\u{2461}";
+                        var $739 = $741;
                         break;
                     case 'Mons.Type.fire':
-                        var $743 = "\u{2462}";
-                        var $740 = $743;
+                        var $742 = "\u{2462}";
+                        var $739 = $742;
                         break;
                     case 'Mons.Type.water':
-                        var $744 = "\u{2463}";
-                        var $740 = $744;
+                        var $743 = "\u{2463}";
+                        var $739 = $743;
                         break;
                     case 'Mons.Type.grass':
-                        var $745 = "\u{2464}";
-                        var $740 = $745;
+                        var $744 = "\u{2464}";
+                        var $739 = $744;
                         break;
                     case 'Mons.Type.electric':
-                        var $746 = "\u{2465}";
-                        var $740 = $746;
+                        var $745 = "\u{2465}";
+                        var $739 = $745;
                         break;
                     case 'Mons.Type.psychic':
-                        var $747 = "\u{2466}";
-                        var $740 = $747;
+                        var $746 = "\u{2466}";
+                        var $739 = $746;
                         break;
                     case 'Mons.Type.ice':
-                        var $748 = "\u{2467}";
-                        var $740 = $748;
+                        var $747 = "\u{2467}";
+                        var $739 = $747;
                         break;
                     case 'Mons.Type.light':
-                        var $749 = "\u{2468}";
-                        var $740 = $749;
+                        var $748 = "\u{2468}";
+                        var $739 = $748;
                         break;
                     case 'Mons.Type.darkness':
-                        var $750 = "\u{2469}";
-                        var $740 = $750;
+                        var $749 = "\u{2469}";
+                        var $739 = $749;
                         break;
                 };
-                var $738 = $740;
+                var $737 = $739;
                 break;
             case 'Mons.Kind.Const':
             case 'Mons.Kind.Terrain':
             case 'Mons.Kind.Interactive':
-                var $751 = "";
-                var $738 = $751;
+                var $750 = "";
+                var $737 = $750;
                 break;
         };
-        return $738;
+        return $737;
     };
     const Mons$draw$img_type = x0 => Mons$draw$img_type$(x0);
     const Mons$draw$small_HP = "\u{195}\u{1a5}";
@@ -4410,17 +4348,17 @@ module.exports = (function() {
         var self = _list$2;
         switch (self._) {
             case 'List.cons':
-                var $753 = self.head;
-                var $754 = self.tail;
-                var $755 = _cons$5($753)(List$fold$($754, _nil$4, _cons$5));
-                var $752 = $755;
+                var $752 = self.head;
+                var $753 = self.tail;
+                var $754 = _cons$5($752)(List$fold$($753, _nil$4, _cons$5));
+                var $751 = $754;
                 break;
             case 'List.nil':
-                var $756 = _nil$4;
-                var $752 = $756;
+                var $755 = _nil$4;
+                var $751 = $755;
                 break;
         };
-        return $752;
+        return $751;
     };
     const List$fold = x0 => x1 => x2 => List$fold$(x0, x1, x2);
 
@@ -4441,18 +4379,18 @@ module.exports = (function() {
                 }));
                 switch (self._) {
                     case 'Pair.new':
-                        var $757 = self.fst;
-                        var $758 = self.snd;
-                        var self = $757;
+                        var $756 = self.fst;
+                        var $757 = self.snd;
+                        var self = $756;
                         if (self === 0n) {
-                            var $760 = List$cons$($758, _res$3);
-                            var $759 = $760;
+                            var $759 = List$cons$($757, _res$3);
+                            var $758 = $759;
                         } else {
-                            var $761 = (self - 1n);
-                            var $762 = Nat$to_base$go$(_base$1, $757, List$cons$($758, _res$3));
-                            var $759 = $762;
+                            var $760 = (self - 1n);
+                            var $761 = Nat$to_base$go$(_base$1, $756, List$cons$($757, _res$3));
+                            var $758 = $761;
                         };
-                        return $759;
+                        return $758;
                 };
             })();
             if (R.ctr === 'TCO') arg = R.arg;
@@ -4462,8 +4400,8 @@ module.exports = (function() {
     const Nat$to_base$go = x0 => x1 => x2 => Nat$to_base$go$(x0, x1, x2);
 
     function Nat$to_base$(_base$1, _nat$2) {
-        var $763 = Nat$to_base$go$(_base$1, _nat$2, List$nil);
-        return $763;
+        var $762 = Nat$to_base$go$(_base$1, _nat$2, List$nil);
+        return $762;
     };
     const Nat$to_base = x0 => x1 => Nat$to_base$(x0, x1);
     const Nat$gtn = a0 => a1 => (a0 > a1);
@@ -4477,36 +4415,36 @@ module.exports = (function() {
             var self = List$at$(_m$3, _base64$4);
             switch (self._) {
                 case 'Maybe.some':
-                    var $766 = self.value;
-                    var $767 = $766;
-                    var $765 = $767;
+                    var $765 = self.value;
+                    var $766 = $765;
+                    var $764 = $766;
                     break;
                 case 'Maybe.none':
-                    var $768 = 35;
-                    var $765 = $768;
+                    var $767 = 35;
+                    var $764 = $767;
                     break;
             };
-            var $764 = $765;
+            var $763 = $764;
         } else {
-            var $769 = 35;
-            var $764 = $769;
+            var $768 = 35;
+            var $763 = $768;
         };
-        return $764;
+        return $763;
     };
     const Nat$show_digit = x0 => x1 => Nat$show_digit$(x0, x1);
 
     function Nat$to_string_base$(_base$1, _nat$2) {
-        var $770 = List$fold$(Nat$to_base$(_base$1, _nat$2), String$nil, (_n$3 => _str$4 => {
-            var $771 = String$cons$(Nat$show_digit$(_base$1, _n$3), _str$4);
-            return $771;
+        var $769 = List$fold$(Nat$to_base$(_base$1, _nat$2), String$nil, (_n$3 => _str$4 => {
+            var $770 = String$cons$(Nat$show_digit$(_base$1, _n$3), _str$4);
+            return $770;
         }));
-        return $770;
+        return $769;
     };
     const Nat$to_string_base = x0 => x1 => Nat$to_string_base$(x0, x1);
 
     function U32$to_string$(_n$1) {
-        var $772 = Nat$to_string_base$(10n, U32$to_nat$(_n$1));
-        return $772;
+        var $771 = Nat$to_string_base$(10n, U32$to_nat$(_n$1));
+        return $771;
     };
     const U32$to_string = x0 => U32$to_string$(x0);
     const Bool$not = a0 => (!a0);
@@ -4515,72 +4453,72 @@ module.exports = (function() {
         var self = _obj$1;
         switch (self._) {
             case 'Mons.Object.new':
-                var $774 = self.kin;
-                var $775 = self.dmg;
-                var self = $774;
+                var $773 = self.kin;
+                var $774 = self.dmg;
+                var self = $773;
                 switch (self._) {
                     case 'Mons.Kind.Mons':
-                        var self = Mons$Kind$attr$($774);
+                        var self = Mons$Kind$attr$($773);
                         switch (self._) {
                             case 'Mons.Attr.new':
-                                var $778 = self.mhp;
-                                var $779 = (Math.max($778 - $775, 0));
-                                var $777 = $779;
+                                var $777 = self.mhp;
+                                var $778 = (Math.max($777 - $774, 0));
+                                var $776 = $778;
                                 break;
                         };
-                        var $776 = $777;
+                        var $775 = $776;
                         break;
                     case 'Mons.Kind.Const':
                     case 'Mons.Kind.Terrain':
                     case 'Mons.Kind.Interactive':
-                        var $780 = $775;
-                        var $776 = $780;
+                        var $779 = $774;
+                        var $775 = $779;
                         break;
                 };
-                var $773 = $776;
+                var $772 = $775;
                 break;
         };
-        return $773;
+        return $772;
     };
     const Mons$Object$remaining_hp = x0 => Mons$Object$remaining_hp$(x0);
 
     function Mons$Object$is_obj_defeated$(_obj$1) {
-        var $781 = (Mons$Object$remaining_hp$(_obj$1) === 0);
-        return $781;
+        var $780 = (Mons$Object$remaining_hp$(_obj$1) === 0);
+        return $780;
     };
     const Mons$Object$is_obj_defeated = x0 => Mons$Object$is_obj_defeated$(x0);
 
     function Mons$Object$is_battling$(_adve$1, _hero_or_mon$2) {
         var _is_adve_alive$3 = (!Mons$Object$is_obj_defeated$(_adve$1));
         var _is_hero_alive$4 = (!Mons$Object$is_obj_defeated$(_hero_or_mon$2));
-        var $782 = (_is_adve_alive$3 && _is_hero_alive$4);
-        return $782;
+        var $781 = (_is_adve_alive$3 && _is_hero_alive$4);
+        return $781;
     };
     const Mons$Object$is_battling = x0 => x1 => Mons$Object$is_battling$(x0, x1);
 
     function Mons$draw$background$(_idx$1) {
         var self = (_idx$1 === 1);
         if (self) {
-            var $784 = Pair$new$(Image3D$empty, Image3D$empty);
-            var $783 = $784;
+            var $783 = Pair$new$(Image3D$empty, Image3D$empty);
+            var $782 = $783;
         } else {
             var self = (_idx$1 === 2);
             if (self) {
-                var $786 = Pair$new$(Image3D$empty, Image3D$empty);
-                var $785 = $786;
+                var $785 = Pair$new$(Image3D$empty, Image3D$empty);
+                var $784 = $785;
             } else {
-                var $787 = Pair$new$(Image3D$empty, Image3D$empty);
-                var $785 = $787;
+                var $786 = Pair$new$(Image3D$empty, Image3D$empty);
+                var $784 = $786;
             };
-            var $783 = $785;
+            var $782 = $784;
         };
-        return $783;
+        return $782;
     };
     const Mons$draw$background = x0 => Mons$draw$background$(x0);
 
     function Mons$draw$get_battle_bg$(_idx$1) {
-        var $788 = Pair$fst$(Mons$draw$background$(_idx$1));
-        return $788;
+        var $787 = Pair$fst$(Mons$draw$background$(_idx$1));
+        return $787;
     };
     const Mons$draw$get_battle_bg = x0 => Mons$draw$get_battle_bg$(x0);
 
@@ -4590,14 +4528,14 @@ module.exports = (function() {
         var _scr$7 = Mons$draw$image$(Mons$draw$get_battle_bg$(_idx$3), ((0 | 120 | (80 << 12) | (0 << 24))), _scr$4);
         var self = _is_boss$2;
         if (self) {
-            var $790 = Mons$draw$image$(_screen$battle_boss$6, ((0 | 120 | (80 << 12) | (0 << 24))), _scr$7);
-            var _scr$8 = $790;
+            var $789 = Mons$draw$image$(_screen$battle_boss$6, ((0 | 120 | (80 << 12) | (0 << 24))), _scr$7);
+            var _scr$8 = $789;
         } else {
-            var $791 = Mons$draw$image$(_screen$battle_default$5, ((0 | 120 | (80 << 12) | (0 << 24))), _scr$7);
-            var _scr$8 = $791;
+            var $790 = Mons$draw$image$(_screen$battle_default$5, ((0 | 120 | (80 << 12) | (0 << 24))), _scr$7);
+            var _scr$8 = $790;
         };
-        var $789 = _scr$8;
-        return $789;
+        var $788 = _scr$8;
+        return $788;
     };
     const Mons$draw$battle_bg = x0 => x1 => x2 => x3 => Mons$draw$battle_bg$(x0, x1, x2, x3);
 
@@ -4609,8 +4547,8 @@ module.exports = (function() {
         var _scr$10 = Mons$draw$image$(_battle_hp$6, _pos_chp$8, _scr$5);
         var _scr$11 = Mons$draw$text$(_name$3, Mons$Char_white$font, _pos_name$9, _scr$10);
         var _scr$12 = Mons$draw$text$(_hero_hp$4, Mons$Char_black$font, ((0 | 139 | (97 << 12) | (0 << 24))), _scr$11);
-        var $792 = _scr$12;
-        return $792;
+        var $791 = _scr$12;
+        return $791;
     };
     const Mons$draw$hero_hp = x0 => x1 => x2 => x3 => x4 => Mons$draw$hero_hp$(x0, x1, x2, x3, x4);
 
@@ -4622,22 +4560,22 @@ module.exports = (function() {
         var _scr$10 = Mons$draw$image$(_battle_hp$6, _pos_chp$8, _scr$5);
         var _scr$11 = Mons$draw$text$(_name$3, Mons$Char_white$font, _pos_name$9, _scr$10);
         var _scr$12 = Mons$draw$text$(_adve_hp$4, Mons$Char_black$font, ((0 | 38 | (36 << 12) | (0 << 24))), _scr$11);
-        var $793 = _scr$12;
-        return $793;
+        var $792 = _scr$12;
+        return $792;
     };
     const Mons$draw$adve_hp = x0 => x1 => x2 => x3 => x4 => Mons$draw$adve_hp$(x0, x1, x2, x3, x4);
 
     function Mons$draw$effect$(_eff$1, _pos$2, _scr$3) {
-        var $794 = _scr$3;
-        return $794;
+        var $793 = _scr$3;
+        return $793;
     };
     const Mons$draw$effect = x0 => x1 => x2 => Mons$draw$effect$(x0, x1, x2);
 
     function Mons$draw$effects$(_hero_eff$1, _adve_eff$2, _scr$3) {
         var _scr$4 = Mons$draw$effect$(_hero_eff$1, ((0 | 140 | (105 << 12) | (0 << 24))), _scr$3);
         var _scr$5 = Mons$draw$effect$(_adve_eff$2, ((0 | 38 | (45 << 12) | (0 << 24))), _scr$4);
-        var $795 = _scr$5;
-        return $795;
+        var $794 = _scr$5;
+        return $794;
     };
     const Mons$draw$effects = x0 => x1 => x2 => Mons$draw$effects$(x0, x1, x2);
 
@@ -4645,12 +4583,12 @@ module.exports = (function() {
         var self = _turn$1;
         switch (self._) {
             case 'Mons.Turn.new':
-                var $797 = self.play;
-                var $798 = ($797 > 0);
-                var $796 = $798;
+                var $796 = self.play;
+                var $797 = ($796 > 0);
+                var $795 = $797;
                 break;
         };
-        return $796;
+        return $795;
     };
     const Mons$Turn$is_active = x0 => Mons$Turn$is_active$(x0);
 
@@ -4658,12 +4596,12 @@ module.exports = (function() {
         var self = _turn$1;
         switch (self._) {
             case 'Mons.Turn.new':
-                var $800 = self.exec_hero;
-                var $801 = $800;
-                var $799 = $801;
+                var $799 = self.exec_hero;
+                var $800 = $799;
+                var $798 = $800;
                 break;
         };
-        return $799;
+        return $798;
     };
     const Mons$Turn$hero_turn = x0 => Mons$Turn$hero_turn$(x0);
 
@@ -4671,123 +4609,123 @@ module.exports = (function() {
         var self = _skill$1;
         switch (self._) {
             case 'Mons.Skill.hit_4':
-                var $803 = "hit 4";
-                var $802 = $803;
+                var $802 = "hit 4";
+                var $801 = $802;
                 break;
             case 'Mons.Skill.hit_2':
-                var $804 = "hit 2";
-                var $802 = $804;
+                var $803 = "hit 2";
+                var $801 = $803;
                 break;
             case 'Mons.Skill.heal':
-                var $805 = "heal";
-                var $802 = $805;
+                var $804 = "heal";
+                var $801 = $804;
                 break;
             case 'Mons.Skill.none':
-                var $806 = "none";
-                var $802 = $806;
+                var $805 = "none";
+                var $801 = $805;
                 break;
             case 'Mons.Skill.run':
-                var $807 = "Run";
-                var $802 = $807;
+                var $806 = "Run";
+                var $801 = $806;
                 break;
             case 'Mons.Skill.dig':
-                var $808 = "Dig";
-                var $802 = $808;
+                var $807 = "Dig";
+                var $801 = $807;
                 break;
             case 'Mons.Skill.sand_tomb':
-                var $809 = "Sand bomb";
-                var $802 = $809;
+                var $808 = "Sand bomb";
+                var $801 = $808;
                 break;
             case 'Mons.Skill.protect':
-                var $810 = "Protect";
-                var $802 = $810;
+                var $809 = "Protect";
+                var $801 = $809;
                 break;
             case 'Mons.Skill.slam':
-                var $811 = "Slam";
-                var $802 = $811;
+                var $810 = "Slam";
+                var $801 = $810;
                 break;
             case 'Mons.Skill.counter':
-                var $812 = "Counter";
-                var $802 = $812;
+                var $811 = "Counter";
+                var $801 = $811;
                 break;
             case 'Mons.Skill.recover':
-                var $813 = "Recover";
-                var $802 = $813;
+                var $812 = "Recover";
+                var $801 = $812;
                 break;
             case 'Mons.Skill.rock_smash':
-                var $814 = "Rock Smash";
-                var $802 = $814;
+                var $813 = "Rock Smash";
+                var $801 = $813;
                 break;
             case 'Mons.Skill.crunch':
-                var $815 = "Crunch";
-                var $802 = $815;
+                var $814 = "Crunch";
+                var $801 = $814;
                 break;
             case 'Mons.Skill.sludge_bomb':
-                var $816 = "Sludge bomb";
-                var $802 = $816;
+                var $815 = "Sludge bomb";
+                var $801 = $815;
                 break;
             case 'Mons.Skill.gyro_ball':
-                var $817 = "Gyro Ball";
-                var $802 = $817;
+                var $816 = "Gyro Ball";
+                var $801 = $816;
                 break;
             case 'Mons.Skill.iron_defense':
-                var $818 = "Iron Defense";
-                var $802 = $818;
+                var $817 = "Iron Defense";
+                var $801 = $817;
                 break;
             case 'Mons.Skill.super_fang':
-                var $819 = "Super Fang";
-                var $802 = $819;
+                var $818 = "Super Fang";
+                var $801 = $818;
                 break;
             case 'Mons.Skill.hypnosis':
-                var $820 = "Hypnosis";
-                var $802 = $820;
+                var $819 = "Hypnosis";
+                var $801 = $819;
                 break;
             case 'Mons.Skill.dream_eater':
-                var $821 = "Dream Eater";
-                var $802 = $821;
+                var $820 = "Dream Eater";
+                var $801 = $820;
                 break;
             case 'Mons.Skill.wing_attack':
-                var $822 = "Wing Attack";
-                var $802 = $822;
+                var $821 = "Wing Attack";
+                var $801 = $821;
                 break;
             case 'Mons.Skill.moonlight':
-                var $823 = "Moonlight";
-                var $802 = $823;
+                var $822 = "Moonlight";
+                var $801 = $822;
                 break;
             case 'Mons.Skill.play_rough':
-                var $824 = "Play Rough";
-                var $802 = $824;
+                var $823 = "Play Rough";
+                var $801 = $823;
                 break;
             case 'Mons.Skill.psychic':
-                var $825 = "Psychic";
-                var $802 = $825;
+                var $824 = "Psychic";
+                var $801 = $824;
                 break;
             case 'Mons.Skill.ancient_power':
-                var $826 = "Ancient Power";
-                var $802 = $826;
+                var $825 = "Ancient Power";
+                var $801 = $825;
                 break;
             case 'Mons.Skill.thunder_wave':
-                var $827 = "Thunder Wave";
-                var $802 = $827;
+                var $826 = "Thunder Wave";
+                var $801 = $826;
                 break;
             case 'Mons.Skill.charge':
-                var $828 = "Charge";
-                var $802 = $828;
+                var $827 = "Charge";
+                var $801 = $827;
                 break;
             case 'Mons.Skill.agility':
-                var $829 = "Agility";
-                var $802 = $829;
+                var $828 = "Agility";
+                var $801 = $828;
                 break;
             case 'Mons.Skill.hero_kill':
-                var $830 = "ONE PUNCH";
-                var $802 = $830;
+                var $829 = "ONE PUNCH";
+                var $801 = $829;
                 break;
             case 'Mons.Skill.nightmare':
-                var $831 = "Nightmare";
-                var $802 = $831;
+                var $830 = "Nightmare";
+                var $801 = $830;
                 break;
         };
-        return $802;
+        return $801;
     };
     const Mons$Skill$get_name = x0 => Mons$Skill$get_name$(x0);
 
@@ -4795,120 +4733,120 @@ module.exports = (function() {
         var self = _skill$1;
         switch (self._) {
             case 'Mons.Skill.hit_4':
-                var $833 = "damage 4";
-                var $832 = $833;
+                var $832 = "damage 4";
+                var $831 = $832;
                 break;
             case 'Mons.Skill.hit_2':
-                var $834 = "damage 2";
-                var $832 = $834;
+                var $833 = "damage 2";
+                var $831 = $833;
                 break;
             case 'Mons.Skill.heal':
-                var $835 = "heal 3";
-                var $832 = $835;
+                var $834 = "heal 3";
+                var $831 = $834;
                 break;
             case 'Mons.Skill.none':
-                var $836 = "does nothing";
-                var $832 = $836;
+                var $835 = "does nothing";
+                var $831 = $835;
                 break;
             case 'Mons.Skill.run':
-                var $837 = "Run from battle";
-                var $832 = $837;
+                var $836 = "Run from battle";
+                var $831 = $836;
                 break;
             case 'Mons.Skill.dig':
-                var $838 = "Add hit next turn, add invul";
-                var $832 = $838;
+                var $837 = "Add hit next turn, add invul";
+                var $831 = $837;
                 break;
             case 'Mons.Skill.sand_tomb':
-                var $839 = "Dmg this turn + burn(5)";
-                var $832 = $839;
+                var $838 = "Dmg this turn + burn(5)";
+                var $831 = $838;
                 break;
             case 'Mons.Skill.protect':
-                var $840 = "-50% dmg next turn";
-                var $832 = $840;
+                var $839 = "-50% dmg next turn";
+                var $831 = $839;
                 break;
             case 'Mons.Skill.slam':
             case 'Mons.Skill.wing_attack':
-                var $841 = "Hit 6hp";
-                var $832 = $841;
+                var $840 = "Hit 6hp";
+                var $831 = $840;
                 break;
             case 'Mons.Skill.counter':
-                var $842 = "Burn for 5 turns and heal 3hp";
-                var $832 = $842;
+                var $841 = "Burn for 5 turns and heal 3hp";
+                var $831 = $841;
                 break;
             case 'Mons.Skill.recover':
-                var $843 = "Restore 25% hp, add poison";
-                var $832 = $843;
+                var $842 = "Restore 25% hp, add poison";
+                var $831 = $842;
                 break;
             case 'Mons.Skill.rock_smash':
-                var $844 = "Hit 2hp + 50% of critical";
-                var $832 = $844;
+                var $843 = "Hit 2hp + 50% of critical";
+                var $831 = $843;
                 break;
             case 'Mons.Skill.crunch':
-                var $845 = "Hit 4hp + 25% of critical";
-                var $832 = $845;
+                var $844 = "Hit 4hp + 25% of critical";
+                var $831 = $844;
                 break;
             case 'Mons.Skill.sludge_bomb':
-                var $846 = "Hit 2hp + 30% of poisoning";
-                var $832 = $846;
+                var $845 = "Hit 2hp + 30% of poisoning";
+                var $831 = $845;
                 break;
             case 'Mons.Skill.gyro_ball':
-                var $847 = "Hit 4. If more agility + 50% dmg";
-                var $832 = $847;
+                var $846 = "Hit 4. If more agility + 50% dmg";
+                var $831 = $846;
                 break;
             case 'Mons.Skill.iron_defense':
-                var $848 = "-25% dmg for this and next turn";
-                var $832 = $848;
+                var $847 = "-25% dmg for this and next turn";
+                var $831 = $847;
                 break;
             case 'Mons.Skill.super_fang':
-                var $849 = "Hit 50% hp + loses 25% of hp";
-                var $832 = $849;
+                var $848 = "Hit 50% hp + loses 25% of hp";
+                var $831 = $848;
                 break;
             case 'Mons.Skill.hypnosis':
-                var $850 = "50% of sleep if can";
-                var $832 = $850;
+                var $849 = "50% of sleep if can";
+                var $831 = $849;
                 break;
             case 'Mons.Skill.dream_eater':
-                var $851 = "If sleep, hit 6 and heal 4";
-                var $832 = $851;
+                var $850 = "If sleep, hit 6 and heal 4";
+                var $831 = $850;
                 break;
             case 'Mons.Skill.moonlight':
-                var $852 = "Hit 4 + 20% of sleep";
-                var $832 = $852;
+                var $851 = "Hit 4 + 20% of sleep";
+                var $831 = $851;
                 break;
             case 'Mons.Skill.play_rough':
-                var $853 = "Hit 4 + 20% of critical";
-                var $832 = $853;
+                var $852 = "Hit 4 + 20% of critical";
+                var $831 = $852;
                 break;
             case 'Mons.Skill.psychic':
-                var $854 = "Hit 2hp + 10% sleep and hit";
-                var $832 = $854;
+                var $853 = "Hit 2hp + 10% sleep and hit";
+                var $831 = $853;
                 break;
             case 'Mons.Skill.ancient_power':
-                var $855 = "Hit 4hp + 10% adve miss the attack";
-                var $832 = $855;
+                var $854 = "Hit 4hp + 10% adve miss the attack";
+                var $831 = $854;
                 break;
             case 'Mons.Skill.thunder_wave':
-                var $856 = "Hit 6";
-                var $832 = $856;
+                var $855 = "Hit 6";
+                var $831 = $855;
                 break;
             case 'Mons.Skill.charge':
-                var $857 = "Hit4, if adve has minimize, hit8";
-                var $832 = $857;
+                var $856 = "Hit4, if adve has minimize, hit8";
+                var $831 = $856;
                 break;
             case 'Mons.Skill.agility':
-                var $858 = "Invert Mon\'s agitity value";
-                var $832 = $858;
+                var $857 = "Invert Mon\'s agitity value";
+                var $831 = $857;
                 break;
             case 'Mons.Skill.hero_kill':
-                var $859 = "Herro atk";
-                var $832 = $859;
+                var $858 = "Herro atk";
+                var $831 = $858;
                 break;
             case 'Mons.Skill.nightmare':
-                var $860 = "If sleep damage hit 20% hp";
-                var $832 = $860;
+                var $859 = "If sleep damage hit 20% hp";
+                var $831 = $859;
                 break;
         };
-        return $832;
+        return $831;
     };
     const Mons$Skill$short_description = x0 => Mons$Skill$short_description$(x0);
 
@@ -4916,8 +4854,8 @@ module.exports = (function() {
         var _msg$4 = String$flatten$(List$cons$(_name$1, List$cons$(" used ", List$cons$(Mons$Skill$get_name$(_skill$2), List$cons$(".", List$nil)))));
         var _scr$5 = Mons$draw$text$(_msg$4, Mons$Char_black$font, Mons$draw$msg_screen$line_0, _scr$3);
         var _desc$6 = Mons$Skill$short_description$(_skill$2);
-        var $861 = Mons$draw$text$(String$flatten$(List$cons$(_desc$6, List$cons$("  [c]", List$nil))), Mons$Char_black$font, Mons$draw$msg_screen$line_1, _scr$5);
-        return $861;
+        var $860 = Mons$draw$text$(String$flatten$(List$cons$(_desc$6, List$cons$("  [c]", List$nil))), Mons$Char_black$font, Mons$draw$msg_screen$line_1, _scr$5);
+        return $860;
     };
     const Mons$draw$turn = x0 => x1 => x2 => Mons$draw$turn$(x0, x1, x2);
 
@@ -4925,12 +4863,12 @@ module.exports = (function() {
         var self = Mons$Kind$attr$(_kind$1);
         switch (self._) {
             case 'Mons.Attr.new':
-                var $863 = self.skills;
-                var $864 = $863;
-                var $862 = $864;
+                var $862 = self.skills;
+                var $863 = $862;
+                var $861 = $863;
                 break;
         };
-        return $862;
+        return $861;
     };
     const Mons$Kind$get_skills = x0 => Mons$Kind$get_skills$(x0);
 
@@ -4938,24 +4876,24 @@ module.exports = (function() {
         var self = _obj$2;
         switch (self._) {
             case 'Mons.Object.new':
-                var $866 = self.kin;
-                var _skills$14 = Mons$Kind$get_skills$($866);
+                var $865 = self.kin;
+                var _skills$14 = Mons$Kind$get_skills$($865);
                 var self = List$at$(_idx$1, _skills$14);
                 switch (self._) {
                     case 'Maybe.some':
-                        var $868 = self.value;
-                        var $869 = $868;
-                        var $867 = $869;
+                        var $867 = self.value;
+                        var $868 = $867;
+                        var $866 = $868;
                         break;
                     case 'Maybe.none':
-                        var $870 = Mons$Skill$none;
-                        var $867 = $870;
+                        var $869 = Mons$Skill$none;
+                        var $866 = $869;
                         break;
                 };
-                var $865 = $867;
+                var $864 = $866;
                 break;
         };
-        return $865;
+        return $864;
     };
     const Mons$Game$get_skills_at = x0 => x1 => Mons$Game$get_skills_at$(x0, x1);
 
@@ -4965,22 +4903,22 @@ module.exports = (function() {
         var _j$5 = Mons$Skill$get_name$(Mons$Game$get_skills_at$(2n, _hero_obj$1));
         var _k$6 = Mons$Skill$get_name$(Mons$Game$get_skills_at$(3n, _hero_obj$1));
         var _scr$7 = Mons$draw$text$(String$flatten$(List$cons$("[u] ", List$cons$(_u$3, List$cons$("   [i] ", List$cons$(_i$4, List$nil))))), Mons$Char_black$font, Mons$draw$msg_screen$line_0, _scr$2);
-        var $871 = Mons$draw$text$(String$flatten$(List$cons$("[j] ", List$cons$(_j$5, List$cons$("   [k] ", List$cons$(_k$6, List$nil))))), Mons$Char_black$font, Mons$draw$msg_screen$line_1, _scr$7);
-        return $871;
+        var $870 = Mons$draw$text$(String$flatten$(List$cons$("[j] ", List$cons$(_j$5, List$cons$("   [k] ", List$cons$(_k$6, List$nil))))), Mons$Char_black$font, Mons$draw$msg_screen$line_1, _scr$7);
+        return $870;
     };
     const Mons$draw$battle_skills = x0 => x1 => Mons$draw$battle_skills$(x0, x1);
 
     function Mons$draw$get_full_bg$(_idx$1) {
-        var $872 = Pair$snd$(Mons$draw$background$(_idx$1));
-        return $872;
+        var $871 = Pair$snd$(Mons$draw$background$(_idx$1));
+        return $871;
     };
     const Mons$draw$get_full_bg = x0 => Mons$draw$get_full_bg$(x0);
 
     function Mons$draw$capture_bg$(_adve_kind$1, _idx$2, _scr$3) {
         var _scr$4 = Mons$draw$image$(Mons$draw$get_full_bg$(_idx$2), ((0 | 120 | (80 << 12) | (0 << 24))), _scr$3);
         var _sct$5 = Mons$draw$image$(Mons$draw$text_screen_bg, ((0 | 120 | (80 << 12) | (0 << 24))), _scr$4);
-        var $873 = _scr$4;
-        return $873;
+        var $872 = _scr$4;
+        return $872;
     };
     const Mons$draw$capture_bg = x0 => x1 => x2 => Mons$draw$capture_bg$(x0, x1, x2);
 
@@ -4989,8 +4927,8 @@ module.exports = (function() {
         var _scr$5 = Mons$draw$image$(Mons$draw$get_full_bg$(_idx$2), ((0 | 120 | (80 << 12) | (0 << 24))), _scr$3);
         var _scr$6 = Mons$draw$image$(_battle_win$4, ((0 | 70 | (90 << 12) | (0 << 24))), _scr$5);
         var _scr$7 = Mons$draw$image$(Mons$draw$text_screen_bg, ((0 | 120 | (80 << 12) | (0 << 24))), _scr$6);
-        var $874 = _scr$7;
-        return $874;
+        var $873 = _scr$7;
+        return $873;
     };
     const Mons$draw$battle_win_bg = x0 => x1 => x2 => Mons$draw$battle_win_bg$(x0, x1, x2);
 
@@ -4998,30 +4936,30 @@ module.exports = (function() {
         var self = _adve_kin$1;
         switch (self._) {
             case 'Mons.Kind.Const':
-                var $876 = self.ele;
-                var self = $876;
+                var $875 = self.ele;
+                var self = $875;
                 switch (self._) {
                     case 'Mons.Kind.const.FOUNTAIN':
                     case 'Mons.Kind.const.CHEST':
                     case 'Mons.Kind.const.CRYSTAL':
-                        var $878 = Bool$false;
-                        var $877 = $878;
+                        var $877 = Bool$false;
+                        var $876 = $877;
                         break;
                     case 'Mons.Kind.const.PORTAL':
-                        var $879 = Bool$true;
-                        var $877 = $879;
+                        var $878 = Bool$true;
+                        var $876 = $878;
                         break;
                 };
-                var $875 = $877;
+                var $874 = $876;
                 break;
             case 'Mons.Kind.Mons':
             case 'Mons.Kind.Terrain':
             case 'Mons.Kind.Interactive':
-                var $880 = Bool$false;
-                var $875 = $880;
+                var $879 = Bool$false;
+                var $874 = $879;
                 break;
         };
-        return $875;
+        return $874;
     };
     const Mons$Kind$is_portal = x0 => Mons$Kind$is_portal$(x0);
     const Bool$or = a0 => a1 => (a0 || a1);
@@ -5029,20 +4967,20 @@ module.exports = (function() {
     function Mons$Game$defeated_lvl_mons$(_qtd_defeated$1, _dim$2) {
         var self = (_dim$2 === 0);
         if (self) {
-            var $882 = Bool$true;
-            var $881 = $882;
+            var $881 = Bool$true;
+            var $880 = $881;
         } else {
             var self = (_dim$2 === 1);
             if (self) {
-                var $884 = Bool$true;
-                var $883 = $884;
+                var $883 = Bool$true;
+                var $882 = $883;
             } else {
-                var $885 = Bool$false;
-                var $883 = $885;
+                var $884 = Bool$false;
+                var $882 = $884;
             };
-            var $881 = $883;
+            var $880 = $882;
         };
-        return $881;
+        return $880;
     };
     const Mons$Game$defeated_lvl_mons = x0 => x1 => Mons$Game$defeated_lvl_mons$(x0, x1);
     const Mons$Assets$void = Image3D$parse$("7878021012167978021012167a78021012167b78021012167c78021012167d78021012167e78021012167f78021012168078021012168178021012168278021012168378021012168478021012168578021012168678021012168778021012167879021012167979021012167a79021012167b79021012167c79021012167d79021012167e79021012167f7902101216807902101216817902101216827902101216837902101216847902101216857902101216867902101216877902101216787a02101216797a021012167a7a021012167b7a021012167c7a021012167d7a021012167e7a021012167f7a02101216807a02101216817a02101216827a02101216837a02101216847a02101216857a02101216867a02101216877a02101216787b02101216797b021012167a7b021012167b7b021012167c7b021012167d7b021012167e7b021012167f7b02101216807b02101216817b02101216827b02101216837b02101216847b02101216857b02101216867b02101216877b02101216787c02101216797c021012167a7c021012167b7c021012167c7c021012167d7c021012167e7c021012167f7c02101216807c02101216817c02101216827c02101216837c02101216847c02101216857c02101216867c02101216877c02101216787d02101216797d021012167a7d021012167b7d021012167c7d021012167d7d021012167e7d021012167f7d02101216807d02101216817d02101216827d02101216837d02101216847d02101216857d02101216867d02101216877d02101216787e02101216797e021012167a7e021012167b7e021012167c7e021012167d7e021012167e7e021012167f7e02101216807e02101216817e02101216827e02101216837e02101216847e02101216857e02101216867e02101216877e02101216787f02101216797f021012167a7f021012167b7f021012167c7f021012167d7f021012167e7f021012167f7f02101216807f02101216817f02101216827f02101216837f02101216847f02101216857f02101216867f02101216877f021012167880021012167980021012167a80021012167b80021012167c80021012167d80021012167e80021012167f80021012168080021012168180021012168280021012168380021012168480021012168580021012168680021012168780021012167881021012167981021012167a81021012167b81021012167c81021012167d81021012167e81021012167f81021012168081021012168181021012168281021012168381021012168481021012168581021012168681021012168781021012167882021012167982021012167a82021012167b82021012167c82021012167d82021012167e82021012167f82021012168082021012168182021012168282021012168382021012168482021012168582021012168682021012168782021012167883021012167983021012167a83021012167b83021012167c83021012167d83021012167e83021012167f83021012168083021012168183021012168283021012168383021012168483021012168583021012168683021012168783021012167884021012167984021012167a84021012167b84021012167c84021012167d84021012167e84021012167f84021012168084021012168184021012168284021012168384021012168484021012168584021012168684021012168784021012167885021012167985021012167a85021012167b85021012167c85021012167d85021012167e85021012167f85021012168085021012168185021012168285021012168385021012168485021012168585021012168685021012168785021012167886021012167986021012167a86021012167b86021012167c86021012167d86021012167e86021012167f86021012168086021012168186021012168286021012168386021012168486021012168586021012168686021012168786021012167887021012167987021012167a87021012167b87021012167c87021012167d87021012167e87021012167f8702101216808702101216818702101216828702101216838702101216848702101216858702101216868702101216878702101216");
@@ -5051,12 +4989,12 @@ module.exports = (function() {
         var self = _obj$1;
         switch (self._) {
             case 'Mons.Object.new':
-                var $887 = self.cap;
-                var $888 = (Number((list_length(Pair$snd$($887)))));
-                var $886 = $888;
+                var $886 = self.cap;
+                var $887 = (Number((list_length(Pair$snd$($886)))));
+                var $885 = $887;
                 break;
         };
-        return $886;
+        return $885;
     };
     const Mons$Object$qtd_mons_defeated = x0 => Mons$Object$qtd_mons_defeated$(x0);
 
@@ -5064,22 +5002,22 @@ module.exports = (function() {
         var _def_y$4 = 42;
         var self = (_mon_idx$1 === 0);
         if (self) {
-            var $890 = ((0 | 160 | (_def_y$4 << 12) | (0 << 24)));
-            var _pos$5 = $890;
+            var $889 = ((0 | 160 | (_def_y$4 << 12) | (0 << 24)));
+            var _pos$5 = $889;
         } else {
-            var $891 = ((0 | 160 | (((_def_y$4 + ((16 * _mon_idx$1) >>> 0)) >>> 0) << 12) | (0 << 24)));
-            var _pos$5 = $891;
+            var $890 = ((0 | 160 | (((_def_y$4 + ((16 * _mon_idx$1) >>> 0)) >>> 0) << 12) | (0 << 24)));
+            var _pos$5 = $890;
         };
         var self = (_qtd$2 === 0);
         if (self) {
-            var $892 = _scr$3;
-            var $889 = $892;
+            var $891 = _scr$3;
+            var $888 = $891;
         } else {
             var _inventory_row_mon_selected$6 = Image3D$empty;
-            var $893 = Mons$draw$image$(_inventory_row_mon_selected$6, _pos$5, _scr$3);
-            var $889 = $893;
+            var $892 = Mons$draw$image$(_inventory_row_mon_selected$6, _pos$5, _scr$3);
+            var $888 = $892;
         };
-        return $889;
+        return $888;
     };
     const Mons$draw$bag_select = x0 => x1 => x2 => Mons$draw$bag_select$(x0, x1, x2);
 
@@ -5090,34 +5028,34 @@ module.exports = (function() {
         var self = _obj$1;
         switch (self._) {
             case 'Mons.Object.new':
-                var $895 = self.bag;
-                var $896 = self.mon;
-                var $897 = self.bos;
-                var $898 = self.cap;
-                var _boss_def$18 = U32$to_string$((Number((list_length($897)))));
-                var _qtd$19 = (Number((list_length($895))));
+                var $894 = self.bag;
+                var $895 = self.mon;
+                var $896 = self.bos;
+                var $897 = self.cap;
+                var _boss_def$18 = U32$to_string$((Number((list_length($896)))));
+                var _qtd$19 = (Number((list_length($894))));
                 var self = (_qtd$19 === 0);
                 if (self) {
-                    var $900 = "Nothing to show for now";
-                    var _qtd_field$20 = $900;
+                    var $899 = "Nothing to show for now";
+                    var _qtd_field$20 = $899;
                 } else {
-                    var _qtd_mons_game$20 = U32$to_string$(Pair$fst$($898));
+                    var _qtd_mons_game$20 = U32$to_string$(Pair$fst$($897));
                     var _qtd_defeated$21 = U32$to_string$(Mons$Object$qtd_mons_defeated$(_obj$1));
-                    var $901 = String$flatten$(List$cons$("Captured: ", List$cons$(_qtd_defeated$21, List$cons$("/", List$cons$(_qtd_mons_game$20, List$nil)))));
-                    var _qtd_field$20 = $901;
+                    var $900 = String$flatten$(List$cons$("Captured: ", List$cons$(_qtd_defeated$21, List$cons$("/", List$cons$(_qtd_mons_game$20, List$nil)))));
+                    var _qtd_field$20 = $900;
                 };
                 var _scr$21 = Mons$draw$text$(_qtd_field$20, Mons$Char_black$font, ((0 | 95 | (25 << 12) | (0 << 24))), _scr$6);
-                var _scr$22 = Mons$draw$bag_select$($896, _qtd$19, _scr$21);
-                var _scr$23 = Mons$draw$mon_img_selected$($896, _qtd$19, Bool$false, 34, ((0 | 40 | (50 << 12) | (0 << 24))), _scr$22);
-                var _mons_names$24 = List$reverse$(Mons$Object$get_names$($895));
-                var _mons_images$25 = List$reverse$(Mons$Object$get_images$($895));
+                var _scr$22 = Mons$draw$bag_select$($895, _qtd$19, _scr$21);
+                var _scr$23 = Mons$draw$mon_img_selected$($895, _qtd$19, Bool$false, 34, ((0 | 40 | (50 << 12) | (0 << 24))), _scr$22);
+                var _mons_names$24 = List$reverse$(Mons$Object$get_names$($894));
+                var _mons_images$25 = List$reverse$(Mons$Object$get_images$($894));
                 var _scr$26 = Mons$draw$list_image$(_mons_images$25, Bool$false, 34, ((0 | 40 | (50 << 12) | (0 << 24))), _scr$23);
                 var _scr$27 = Mons$draw$list$(_mons_names$24, Bool$false, 14, Mons$Char_black$font, ((0 | 95 | (29 << 12) | (0 << 24))), _scr$26);
-                var $899 = _scr$27;
-                var $894 = $899;
+                var $898 = _scr$27;
+                var $893 = $898;
                 break;
         };
-        return $894;
+        return $893;
     };
     const Mons$draw$bag = x0 => x1 => x2 => Mons$draw$bag$(x0, x1, x2);
 
@@ -5130,37 +5068,37 @@ module.exports = (function() {
         var self = _obj$1;
         switch (self._) {
             case 'Mons.Object.new':
-                var $903 = self.bag;
-                var $904 = self.mon;
+                var $902 = self.bag;
+                var $903 = self.mon;
                 var self = _adve_obj$2;
                 switch (self._) {
                     case 'Mons.Object.new':
-                        var $906 = self.kin;
-                        var self = Mons$Kind$attr$($906);
+                        var $905 = self.kin;
+                        var self = Mons$Kind$attr$($905);
                         switch (self._) {
                             case 'Mons.Attr.new':
-                                var $908 = self.pic;
-                                var $909 = self.battle_spr;
-                                var _scr$42 = Mons$draw$image$($909(Bool$false), ((0 | 180 | (40 << 12) | (0 << 24))), _scr$9);
-                                var _scr$43 = Mons$draw$image$($908, ((0 | 180 | (90 << 12) | (0 << 24))), _scr$42);
+                                var $907 = self.pic;
+                                var $908 = self.battle_spr;
+                                var _scr$42 = Mons$draw$image$($908(Bool$false), ((0 | 180 | (40 << 12) | (0 << 24))), _scr$9);
+                                var _scr$43 = Mons$draw$image$($907, ((0 | 180 | (90 << 12) | (0 << 24))), _scr$42);
                                 var _scr$44 = Mons$draw$image$(_inventory_mon_selection$5, ((0 | 180 | (90 << 12) | (0 << 24))), _scr$43);
-                                var _qtd$45 = (Number((list_length($903))));
-                                var _mons_images$46 = List$reverse$(Mons$Object$get_images$($903));
+                                var _qtd$45 = (Number((list_length($902))));
+                                var _mons_images$46 = List$reverse$(Mons$Object$get_images$($902));
                                 var _scr$47 = Mons$draw$list_image$(_mons_images$46, Bool$true, 35, ((0 | 30 | (90 << 12) | (0 << 24))), _scr$44);
-                                var _scr$48 = Mons$draw$mon_img_selected$($904, _qtd$45, Bool$true, 35, ((0 | 30 | (90 << 12) | (0 << 24))), _scr$47);
+                                var _scr$48 = Mons$draw$mon_img_selected$($903, _qtd$45, Bool$true, 35, ((0 | 30 | (90 << 12) | (0 << 24))), _scr$47);
                                 var _scr$49 = Mons$draw$text$("Select a mon to replace or skip", Mons$Char_black$font, Mons$draw$msg_screen$line_0, _scr$48);
                                 var _scr$50 = Mons$draw$text$("[c] Replace  | [z] Skip     ", Mons$Char_black$font, Mons$draw$msg_screen$line_1, _scr$49);
-                                var $910 = _scr$50;
-                                var $907 = $910;
+                                var $909 = _scr$50;
+                                var $906 = $909;
                                 break;
                         };
-                        var $905 = $907;
+                        var $904 = $906;
                         break;
                 };
-                var $902 = $905;
+                var $901 = $904;
                 break;
         };
-        return $902;
+        return $901;
     };
     const Mons$draw$full_bag = x0 => x1 => x2 => x3 => Mons$draw$full_bag$(x0, x1, x2, x3);
 
@@ -5168,348 +5106,347 @@ module.exports = (function() {
         var self = _game$1;
         switch (self._) {
             case 'Mons.Game.new':
-                var $912 = self.map;
-                var $913 = self.stt;
+                var $911 = self.map;
+                var $912 = self.stt;
                 var _hero_pos$8 = Mons$Game$get_hero_pos$(_game$1);
                 var _scr$9 = Image3D$clear$(_scr$2);
                 var self = _hero_pos$8;
                 switch (self._) {
                     case 'Maybe.some':
-                        var $915 = self.value;
-                        var _hero_pair$11 = Mons$Map$get_hero$($915, $912);
+                        var $914 = self.value;
+                        var _hero_pair$11 = Mons$Map$get_hero$($914, $911);
                         var _hero_obj$12 = Pair$fst$(_hero_pair$11);
                         var _hero_idx$13 = Pair$snd$(_hero_pair$11);
-                        var _adve_obj$14 = Mons$Map$get$($915, ((_hero_idx$13 + 1) >>> 0), $912);
+                        var _adve_obj$14 = Mons$Map$get$($914, ((_hero_idx$13 + 1) >>> 0), $911);
                         var _dim$15 = Mons$Game$dim$(_game$1);
                         var self = _hero_obj$12;
                         switch (self._) {
                             case 'Mons.Object.new':
-                                var $917 = self.bos;
-                                var $918 = self.cap;
+                                var $916 = self.bos;
+                                var $917 = self.cap;
                                 var self = _adve_obj$14;
                                 switch (self._) {
                                     case 'Mons.Object.new':
-                                        var $920 = self.kin;
-                                        var $921 = self.dmg;
-                                        var $922 = self.eff;
+                                        var $919 = self.kin;
+                                        var $920 = self.dmg;
+                                        var $921 = self.eff;
                                         var _hero_mon_obj$38 = Mons$Object$get_current_mon$(_hero_obj$12);
                                         var self = _hero_mon_obj$38;
                                         switch (self._) {
                                             case 'Mons.Object.new':
-                                                var $924 = self.kin;
-                                                var $925 = self.dmg;
-                                                var $926 = self.eff;
-                                                var self = Mons$Kind$attr$($920);
+                                                var $923 = self.kin;
+                                                var $924 = self.dmg;
+                                                var $925 = self.eff;
+                                                var self = Mons$Kind$attr$($919);
                                                 switch (self._) {
                                                     case 'Mons.Attr.new':
-                                                        var $928 = self.mhp;
-                                                        var $929 = self.name;
-                                                        var $930 = self.battle_spr;
+                                                        var $927 = self.mhp;
+                                                        var $928 = self.name;
+                                                        var $929 = self.battle_spr;
                                                         var _is_standing$60 = Mons$Object$is_standing$(_hero_obj$12);
-                                                        var self = $913;
+                                                        var self = $912;
                                                         switch (self._) {
                                                             case 'Mons.Screen.welcome':
-                                                                var $932 = self.idx;
-                                                                var _logo$62 = Mons$Assets$char$boy_d_0;
+                                                                var $931 = self.idx;
+                                                                var _logo$62 = Mons$Assets$screen$logo;
                                                                 var _scr$63 = Mons$draw$image$(_logo$62, ((0 | 120 | (80 << 12) | (0 << 24))), _scr$9);
-                                                                var _scr$64 = Mons$draw$image$(Mons$f_exe, ((0 | 80 | (80 << 12) | (0 << 24))), _scr$63);
-                                                                var _scr$65 = Mons$draw$list$(List$cons$("Play", List$cons$("Credits", List$nil)), Bool$false, 25, Mons$Char_black$font, ((0 | 40 | (50 << 12) | (0 << 24))), _scr$64);
-                                                                var _scr$66 = Mons$draw$list_selector$($932, Bool$false, 25, Mons$Char_black$font, ((0 | 30 | (50 << 12) | (0 << 24))), _scr$65);
-                                                                var _scr$67 = Mons$draw$text$("[c] Select", Mons$Char_black$font, ((0 | 40 | (128 << 12) | (0 << 24))), _scr$66);
-                                                                var $933 = _scr$67;
-                                                                var $931 = $933;
+                                                                var _scr$64 = Mons$draw$list$(List$cons$("Play", List$cons$("Credits", List$nil)), Bool$false, 25, Mons$Char_black$font, ((0 | 40 | (50 << 12) | (0 << 24))), _scr$63);
+                                                                var _scr$65 = Mons$draw$list_selector$($931, Bool$false, 25, Mons$Char_black$font, ((0 | 30 | (50 << 12) | (0 << 24))), _scr$64);
+                                                                var _scr$66 = Mons$draw$text$("[c] Select", Mons$Char_black$font, ((0 | 40 | (128 << 12) | (0 << 24))), _scr$65);
+                                                                var $932 = _scr$66;
+                                                                var $930 = $932;
                                                                 break;
                                                             case 'Mons.Screen.introduction':
-                                                                var $934 = self.step;
-                                                                var self = (($929 === "MAGE") && _is_standing$60);
+                                                                var $933 = self.step;
+                                                                var self = (($928 === "MAGE") && _is_standing$60);
                                                                 if (self) {
-                                                                    var self = ($934 === 0);
+                                                                    var self = ($933 === 0);
                                                                     if (self) {
-                                                                        var _game$62 = Mons$Map$build_sprites$(_game$1, _scr$9, $915, _hero_obj$12);
-                                                                        var $937 = Mons$draw$mage_talk$("Oh! So you really exist... the", "young man of the prophecy. [c]", _scr$9);
-                                                                        var $936 = $937;
+                                                                        var _game$62 = Mons$Map$build_sprites$(_game$1, _scr$9, $914, _hero_obj$12);
+                                                                        var $936 = Mons$draw$mage_talk$("Oh! So you really exist... the", "young man of the prophecy. [c]", _scr$9);
+                                                                        var $935 = $936;
                                                                     } else {
-                                                                        var self = ($934 === 1);
+                                                                        var self = ($933 === 1);
                                                                         if (self) {
-                                                                            var _game$62 = Mons$Map$build_sprites$(_game$1, _scr$9, $915, _hero_obj$12);
-                                                                            var $939 = Mons$draw$mage_talk$("I\'m in a hurry and can\'t explain", "now, but... we depend on you. [c]", _scr$9);
-                                                                            var $938 = $939;
+                                                                            var _game$62 = Mons$Map$build_sprites$(_game$1, _scr$9, $914, _hero_obj$12);
+                                                                            var $938 = Mons$draw$mage_talk$("I\'m in a hurry and can\'t explain", "now, but... we depend on you. [c]", _scr$9);
+                                                                            var $937 = $938;
                                                                         } else {
-                                                                            var self = ($934 === 2);
+                                                                            var self = ($933 === 2);
                                                                             if (self) {
-                                                                                var _game$62 = Mons$Map$build_sprites$(_game$1, _scr$9, $915, _hero_obj$12);
-                                                                                var $941 = Mons$draw$mage_talk$("Great choice! You can press", "[e] to check it on the bag. [c]", _scr$9);
-                                                                                var $940 = $941;
+                                                                                var _game$62 = Mons$Map$build_sprites$(_game$1, _scr$9, $914, _hero_obj$12);
+                                                                                var $940 = Mons$draw$mage_talk$("Great choice! You can press", "[e] to check it on the bag. [c]", _scr$9);
+                                                                                var $939 = $940;
                                                                             } else {
-                                                                                var $942 = Mons$Map$build_sprites$(_game$1, _scr$9, $915, _hero_obj$12);
-                                                                                var $940 = $942;
+                                                                                var $941 = Mons$Map$build_sprites$(_game$1, _scr$9, $914, _hero_obj$12);
+                                                                                var $939 = $941;
                                                                             };
-                                                                            var $938 = $940;
+                                                                            var $937 = $939;
                                                                         };
-                                                                        var $936 = $938;
+                                                                        var $935 = $937;
                                                                     };
-                                                                    var $935 = $936;
+                                                                    var $934 = $935;
                                                                 } else {
-                                                                    var $943 = Mons$Map$build_sprites$(_game$1, _scr$9, $915, _hero_obj$12);
-                                                                    var $935 = $943;
+                                                                    var $942 = Mons$Map$build_sprites$(_game$1, _scr$9, $914, _hero_obj$12);
+                                                                    var $934 = $942;
                                                                 };
-                                                                var $931 = $935;
+                                                                var $930 = $934;
                                                                 break;
                                                             case 'Mons.Screen.game':
-                                                                var $944 = self.turn;
-                                                                var _hero_mon_attr$63 = Mons$Kind$attr$($924);
+                                                                var $943 = self.turn;
+                                                                var _hero_mon_attr$63 = Mons$Kind$attr$($923);
                                                                 var self = _hero_mon_attr$63;
                                                                 switch (self._) {
                                                                     case 'Mons.Attr.new':
-                                                                        var $946 = self.mhp;
-                                                                        var $947 = self.name;
-                                                                        var $948 = self.battle_spr;
-                                                                        var self = $920;
+                                                                        var $945 = self.mhp;
+                                                                        var $946 = self.name;
+                                                                        var $947 = self.battle_spr;
+                                                                        var self = $919;
                                                                         switch (self._) {
                                                                             case 'Mons.Kind.Mons':
-                                                                                var $950 = self.ele;
-                                                                                var $951 = self.boss;
-                                                                                var _hero_chp$78 = (Math.max($946 - $925, 0));
-                                                                                var _hero_btl_img$79 = $948(Bool$true);
-                                                                                var _hero_txt$80 = String$flatten$(List$cons$($947, List$cons$(" ", List$cons$(Mons$draw$img_type$($924), List$nil))));
-                                                                                var _hero_hp$81 = String$flatten$(List$cons$(Mons$draw$small_HP, List$cons$(" ", List$cons$(U32$to_string$(_hero_chp$78), List$cons$("/", List$cons$(U32$to_string$($946), List$nil))))));
-                                                                                var _adve_chp$82 = (Math.max($928 - $921, 0));
-                                                                                var _adve_btl_img$83 = $930(Bool$false);
-                                                                                var _adve_txt$84 = String$flatten$(List$cons$($929, List$cons$(" ", List$cons$(Mons$draw$img_type$($920), List$nil))));
-                                                                                var _adve_hp$85 = String$flatten$(List$cons$(Mons$draw$small_HP, List$cons$(" ", List$cons$(U32$to_string$(_adve_chp$82), List$cons$("/", List$cons$(U32$to_string$($928), List$nil))))));
+                                                                                var $949 = self.ele;
+                                                                                var $950 = self.boss;
+                                                                                var _hero_chp$78 = (Math.max($945 - $924, 0));
+                                                                                var _hero_btl_img$79 = $947(Bool$true);
+                                                                                var _hero_txt$80 = String$flatten$(List$cons$($946, List$cons$(" ", List$cons$(Mons$draw$img_type$($923), List$nil))));
+                                                                                var _hero_hp$81 = String$flatten$(List$cons$(Mons$draw$small_HP, List$cons$(" ", List$cons$(U32$to_string$(_hero_chp$78), List$cons$("/", List$cons$(U32$to_string$($945), List$nil))))));
+                                                                                var _adve_chp$82 = (Math.max($927 - $920, 0));
+                                                                                var _adve_btl_img$83 = $929(Bool$false);
+                                                                                var _adve_txt$84 = String$flatten$(List$cons$($928, List$cons$(" ", List$cons$(Mons$draw$img_type$($919), List$nil))));
+                                                                                var _adve_hp$85 = String$flatten$(List$cons$(Mons$draw$small_HP, List$cons$(" ", List$cons$(U32$to_string$(_adve_chp$82), List$cons$("/", List$cons$(U32$to_string$($927), List$nil))))));
                                                                                 var self = _is_standing$60;
                                                                                 if (self) {
                                                                                     var self = Mons$Object$is_battling$(_adve_obj$14, _hero_mon_obj$38);
                                                                                     if (self) {
-                                                                                        var _scr$86 = Mons$draw$battle_bg$($950, $951, _dim$15, _scr$9);
-                                                                                        var _scr$87 = Mons$draw$hero_hp$(_hero_chp$78, $946, _hero_txt$80, _hero_hp$81, _scr$86);
-                                                                                        var _scr$88 = Mons$draw$adve_hp$(_adve_chp$82, $928, _adve_txt$84, _adve_hp$85, _scr$87);
+                                                                                        var _scr$86 = Mons$draw$battle_bg$($949, $950, _dim$15, _scr$9);
+                                                                                        var _scr$87 = Mons$draw$hero_hp$(_hero_chp$78, $945, _hero_txt$80, _hero_hp$81, _scr$86);
+                                                                                        var _scr$88 = Mons$draw$adve_hp$(_adve_chp$82, $927, _adve_txt$84, _adve_hp$85, _scr$87);
                                                                                         var _scr$89 = Mons$draw$image$(_hero_btl_img$79, ((0 | 75 | (80 << 12) | (0 << 24))), _scr$88);
                                                                                         var _scr$90 = Mons$draw$image$(_adve_btl_img$83, ((0 | 180 | (40 << 12) | (0 << 24))), _scr$89);
-                                                                                        var self = $944;
+                                                                                        var self = $943;
                                                                                         switch (self._) {
                                                                                             case 'Mons.Turn.new':
-                                                                                                var $955 = self.hero_skill;
-                                                                                                var $956 = self.adve_skill;
-                                                                                                var _scr$95 = Mons$draw$effects$($926, $922, _scr$90);
-                                                                                                var self = Mons$Turn$is_active$($944);
+                                                                                                var $954 = self.hero_skill;
+                                                                                                var $955 = self.adve_skill;
+                                                                                                var _scr$95 = Mons$draw$effects$($925, $921, _scr$90);
+                                                                                                var self = Mons$Turn$is_active$($943);
                                                                                                 if (self) {
-                                                                                                    var self = Mons$Turn$hero_turn$($944);
+                                                                                                    var self = Mons$Turn$hero_turn$($943);
                                                                                                     if (self) {
-                                                                                                        var $959 = Mons$draw$turn$($947, $955, _scr$95);
-                                                                                                        var $958 = $959;
+                                                                                                        var $958 = Mons$draw$turn$($946, $954, _scr$95);
+                                                                                                        var $957 = $958;
                                                                                                     } else {
-                                                                                                        var $960 = Mons$draw$turn$($929, $956, _scr$95);
-                                                                                                        var $958 = $960;
+                                                                                                        var $959 = Mons$draw$turn$($928, $955, _scr$95);
+                                                                                                        var $957 = $959;
                                                                                                     };
-                                                                                                    var $957 = $958;
+                                                                                                    var $956 = $957;
                                                                                                 } else {
-                                                                                                    var $961 = Mons$draw$battle_skills$(_hero_mon_obj$38, _scr$95);
-                                                                                                    var $957 = $961;
+                                                                                                    var $960 = Mons$draw$battle_skills$(_hero_mon_obj$38, _scr$95);
+                                                                                                    var $956 = $960;
                                                                                                 };
-                                                                                                var $954 = $957;
+                                                                                                var $953 = $956;
                                                                                                 break;
                                                                                         };
-                                                                                        var $953 = $954;
+                                                                                        var $952 = $953;
                                                                                     } else {
-                                                                                        var _scr$86 = Mons$draw$capture_bg$($950, _dim$15, _scr$9);
+                                                                                        var _scr$86 = Mons$draw$capture_bg$($949, _dim$15, _scr$9);
                                                                                         var self = Mons$Object$is_obj_defeated$(_adve_obj$14);
                                                                                         if (self) {
-                                                                                            var self = $951;
+                                                                                            var self = $950;
                                                                                             if (self) {
-                                                                                                var _scr$87 = Mons$draw$battle_win_bg$($950, _dim$15, _scr$86);
+                                                                                                var _scr$87 = Mons$draw$battle_win_bg$($949, _dim$15, _scr$86);
                                                                                                 var _scr$88 = Mons$draw$text$("You unlocked the next level.", Mons$Char_black$font, Mons$draw$msg_screen$line_0, _scr$87);
                                                                                                 var _scr$89 = Mons$draw$text$("[c] I\'m ready!", Mons$Char_black$font, Mons$draw$msg_screen$line_1, _scr$88);
-                                                                                                var $964 = Mons$draw$image$(_adve_btl_img$83, ((0 | 180 | (40 << 12) | (0 << 24))), _scr$89);
-                                                                                                var $963 = $964;
+                                                                                                var $963 = Mons$draw$image$(_adve_btl_img$83, ((0 | 180 | (40 << 12) | (0 << 24))), _scr$89);
+                                                                                                var $962 = $963;
                                                                                             } else {
-                                                                                                var _scr$87 = Mons$draw$battle_win_bg$($950, _dim$15, _scr$86);
+                                                                                                var _scr$87 = Mons$draw$battle_win_bg$($949, _dim$15, _scr$86);
                                                                                                 var _scr$88 = Mons$draw$text$("[c] Capture", Mons$Char_black$font, Mons$draw$msg_screen$line_0, _scr$87);
                                                                                                 var _scr$89 = Mons$draw$text$("[z] Free", Mons$Char_black$font, Mons$draw$msg_screen$line_1, _scr$88);
-                                                                                                var $965 = Mons$draw$image$(_adve_btl_img$83, ((0 | 180 | (40 << 12) | (0 << 24))), _scr$89);
-                                                                                                var $963 = $965;
+                                                                                                var $964 = Mons$draw$image$(_adve_btl_img$83, ((0 | 180 | (40 << 12) | (0 << 24))), _scr$89);
+                                                                                                var $962 = $964;
                                                                                             };
-                                                                                            var _scr$87 = $963;
+                                                                                            var _scr$87 = $962;
                                                                                         } else {
                                                                                             var self = Mons$Object$is_obj_defeated$(_hero_mon_obj$38);
                                                                                             if (self) {
                                                                                                 var _scr$87 = Mons$draw$text$("You lost the battle and your Mon.", Mons$Char_black$font, Mons$draw$msg_screen$line_0, _scr$86);
                                                                                                 var _scr$88 = Mons$draw$text$("[c] I\'ll do better next time", Mons$Char_black$font, Mons$draw$msg_screen$line_1, _scr$87);
-                                                                                                var $967 = Mons$draw$image$(_hero_btl_img$79, ((0 | 75 | (80 << 12) | (0 << 24))), _scr$88);
-                                                                                                var $966 = $967;
+                                                                                                var $966 = Mons$draw$image$(_hero_btl_img$79, ((0 | 75 | (80 << 12) | (0 << 24))), _scr$88);
+                                                                                                var $965 = $966;
                                                                                             } else {
-                                                                                                var $968 = _scr$86;
-                                                                                                var $966 = $968;
+                                                                                                var $967 = _scr$86;
+                                                                                                var $965 = $967;
                                                                                             };
-                                                                                            var _scr$87 = $966;
+                                                                                            var _scr$87 = $965;
                                                                                         };
-                                                                                        var $962 = _scr$87;
-                                                                                        var $953 = $962;
+                                                                                        var $961 = _scr$87;
+                                                                                        var $952 = $961;
                                                                                     };
-                                                                                    var $952 = $953;
+                                                                                    var $951 = $952;
                                                                                 } else {
-                                                                                    var $969 = Mons$Map$build_sprites$(_game$1, _scr$9, $915, _hero_obj$12);
-                                                                                    var $952 = $969;
+                                                                                    var $968 = Mons$Map$build_sprites$(_game$1, _scr$9, $914, _hero_obj$12);
+                                                                                    var $951 = $968;
                                                                                 };
-                                                                                var $949 = $952;
+                                                                                var $948 = $951;
                                                                                 break;
                                                                             case 'Mons.Kind.Interactive':
-                                                                                var $970 = self.ele;
-                                                                                var $971 = self.on;
-                                                                                var self = $970;
+                                                                                var $969 = self.ele;
+                                                                                var $970 = self.on;
+                                                                                var self = $969;
                                                                                 switch (self._) {
                                                                                     case 'Mons.Kind.inter.LEVER':
                                                                                     case 'Mons.Kind.inter.MOVE':
-                                                                                        var $973 = Mons$Map$build_sprites$(_game$1, _scr$9, $915, _hero_obj$12);
-                                                                                        var $972 = $973;
+                                                                                        var $972 = Mons$Map$build_sprites$(_game$1, _scr$9, $914, _hero_obj$12);
+                                                                                        var $971 = $972;
                                                                                         break;
                                                                                     case 'Mons.Kind.inter.HEAL':
-                                                                                        var self = $971;
+                                                                                        var self = $970;
                                                                                         if (self) {
-                                                                                            var _scr$77 = Mons$Map$build_sprites$(_game$1, _scr$9, $915, _hero_obj$12);
+                                                                                            var _scr$77 = Mons$Map$build_sprites$(_game$1, _scr$9, $914, _hero_obj$12);
                                                                                             var _scr$78 = Mons$draw$image$(Mons$draw$text_screen_bg, ((0 | 120 | (80 << 12) | (0 << 24))), _scr$77);
-                                                                                            var $975 = Mons$draw$text$("You already used the heal.", Mons$Char_black$font, Mons$draw$msg_screen$line_0, _scr$78);
-                                                                                            var $974 = $975;
+                                                                                            var $974 = Mons$draw$text$("You already used the heal.", Mons$Char_black$font, Mons$draw$msg_screen$line_0, _scr$78);
+                                                                                            var $973 = $974;
                                                                                         } else {
-                                                                                            var _scr$77 = Mons$Map$build_sprites$(_game$1, _scr$9, $915, _hero_obj$12);
+                                                                                            var _scr$77 = Mons$Map$build_sprites$(_game$1, _scr$9, $914, _hero_obj$12);
                                                                                             var _scr$78 = Mons$draw$image$(Mons$draw$text_screen_bg, ((0 | 120 | (80 << 12) | (0 << 24))), _scr$77);
                                                                                             var _scr$79 = Mons$draw$text$("Press [c] to heal 15HP on all of", Mons$Char_black$font, Mons$draw$msg_screen$line_0, _scr$78);
-                                                                                            var $976 = Mons$draw$text$("your Mons", Mons$Char_black$font, Mons$draw$msg_screen$line_1, _scr$79);
-                                                                                            var $974 = $976;
+                                                                                            var $975 = Mons$draw$text$("your Mons", Mons$Char_black$font, Mons$draw$msg_screen$line_1, _scr$79);
+                                                                                            var $973 = $975;
                                                                                         };
-                                                                                        var $972 = $974;
+                                                                                        var $971 = $973;
                                                                                         break;
                                                                                 };
-                                                                                var $949 = $972;
+                                                                                var $948 = $971;
                                                                                 break;
                                                                             case 'Mons.Kind.Const':
-                                                                                var self = (_is_standing$60 && Mons$Kind$is_portal$($920));
+                                                                                var self = (_is_standing$60 && Mons$Kind$is_portal$($919));
                                                                                 if (self) {
-                                                                                    var _game$75 = Mons$Map$build_sprites$(_game$1, _scr$9, $915, _hero_obj$12);
-                                                                                    var self = (Mons$Game$defeated_lvl_mons$(Pair$fst$($918), _dim$15) || ((Number((list_length($917)))) === ((_dim$15 / 2) >>> 0)));
+                                                                                    var _game$75 = Mons$Map$build_sprites$(_game$1, _scr$9, $914, _hero_obj$12);
+                                                                                    var self = (Mons$Game$defeated_lvl_mons$(Pair$fst$($917), _dim$15) || ((Number((list_length($916)))) === ((_dim$15 / 2) >>> 0)));
                                                                                     if (self) {
                                                                                         var _scr$76 = Mons$draw$image$(Mons$draw$text_screen_bg, ((0 | 120 | (80 << 12) | (0 << 24))), _scr$9);
-                                                                                        var $979 = Mons$draw$text$("Press [c] to access next level", Mons$Char_black$font, ((0 | 30 | (135 << 12) | (0 << 24))), _scr$76);
-                                                                                        var $978 = $979;
+                                                                                        var $978 = Mons$draw$text$("Press [c] to access next level", Mons$Char_black$font, ((0 | 30 | (135 << 12) | (0 << 24))), _scr$76);
+                                                                                        var $977 = $978;
                                                                                     } else {
                                                                                         var _scr$76 = Mons$draw$image$(Mons$draw$text_screen_bg, ((0 | 120 | (80 << 12) | (0 << 24))), _scr$9);
                                                                                         var _scr$77 = Mons$draw$text$("To access the next level you must", Mons$Char_black$font, Mons$draw$msg_screen$line_0, _scr$76);
-                                                                                        var $980 = Mons$draw$text$("first defeat all enemies.", Mons$Char_black$font, Mons$draw$msg_screen$line_1, _scr$77);
-                                                                                        var $978 = $980;
+                                                                                        var $979 = Mons$draw$text$("first defeat all enemies.", Mons$Char_black$font, Mons$draw$msg_screen$line_1, _scr$77);
+                                                                                        var $977 = $979;
                                                                                     };
-                                                                                    var $977 = $978;
+                                                                                    var $976 = $977;
                                                                                 } else {
-                                                                                    var $981 = Mons$Map$build_sprites$(_game$1, _scr$9, $915, _hero_obj$12);
-                                                                                    var $977 = $981;
+                                                                                    var $980 = Mons$Map$build_sprites$(_game$1, _scr$9, $914, _hero_obj$12);
+                                                                                    var $976 = $980;
                                                                                 };
-                                                                                var $949 = $977;
+                                                                                var $948 = $976;
                                                                                 break;
                                                                             case 'Mons.Kind.Terrain':
-                                                                                var $982 = Mons$Map$build_sprites$(_game$1, _scr$9, $915, _hero_obj$12);
-                                                                                var $949 = $982;
+                                                                                var $981 = Mons$Map$build_sprites$(_game$1, _scr$9, $914, _hero_obj$12);
+                                                                                var $948 = $981;
                                                                                 break;
                                                                         };
-                                                                        var $945 = $949;
+                                                                        var $944 = $948;
                                                                         break;
                                                                 };
-                                                                var $931 = $945;
+                                                                var $930 = $944;
                                                                 break;
                                                             case 'Mons.Screen.capture_mon':
-                                                                var $983 = self.full_bag;
-                                                                var self = $983;
+                                                                var $982 = self.full_bag;
+                                                                var self = $982;
                                                                 if (self) {
-                                                                    var $985 = Mons$draw$full_bag$(_hero_obj$12, _adve_obj$14, _dim$15, _scr$9);
-                                                                    var $984 = $985;
+                                                                    var $984 = Mons$draw$full_bag$(_hero_obj$12, _adve_obj$14, _dim$15, _scr$9);
+                                                                    var $983 = $984;
                                                                 } else {
-                                                                    var $986 = Mons$Map$build_sprites$(_game$1, _scr$9, $915, _hero_obj$12);
-                                                                    var $984 = $986;
+                                                                    var $985 = Mons$Map$build_sprites$(_game$1, _scr$9, $914, _hero_obj$12);
+                                                                    var $983 = $985;
                                                                 };
-                                                                var $931 = $984;
+                                                                var $930 = $983;
                                                                 break;
                                                             case 'Mons.Screen.credits':
                                                                 var _battle_normal_bg_full$61 = Image3D$empty;
                                                                 var _scr$62 = Mons$draw$image$(_battle_normal_bg_full$61, ((0 | 120 | (80 << 12) | (0 << 24))), _scr$9);
                                                                 var _artists0$63 = List$cons$("Alexandre Avila", List$cons$("Caio Carvalho", List$cons$("Johnny Azevedo", List$cons$("Lucca Tuelher", List$cons$("Maisa Milena", List$cons$("Marcio Maia", List$cons$("Marcos Medeiros", List$nil)))))));
                                                                 var _artists1$64 = List$cons$("Marcos Motta", List$cons$("Nathan Danjo", List$cons$("Paulo Reis", List$cons$("Pedro Taka", List$cons$("Rodrigo Rodrigues", List$cons$("Victor Maia", List$cons$("Yuri Carvalho", List$nil)))))));
-                                                                var _scr$65 = Mons$draw$text$("[z] Back", Mons$Char_white$font, ((0 | 20 | (15 << 12) | (0 << 24))), _scr$62);
-                                                                var _scr$66 = Mons$draw$list$(_artists0$63, Bool$false, 15, Mons$Char_white$font, ((0 | 20 | (20 << 12) | (0 << 24))), _scr$65);
-                                                                var _scr$67 = Mons$draw$list$(_artists1$64, Bool$false, 15, Mons$Char_white$font, ((0 | 125 | (20 << 12) | (0 << 24))), _scr$66);
-                                                                var $987 = _scr$67;
-                                                                var $931 = $987;
+                                                                var _scr$65 = Mons$draw$text$("[z] Back", Mons$Char_black$font, ((0 | 20 | (15 << 12) | (0 << 24))), _scr$62);
+                                                                var _scr$66 = Mons$draw$list$(_artists0$63, Bool$false, 15, Mons$Char_black$font, ((0 | 20 | (20 << 12) | (0 << 24))), _scr$65);
+                                                                var _scr$67 = Mons$draw$list$(_artists1$64, Bool$false, 15, Mons$Char_black$font, ((0 | 125 | (20 << 12) | (0 << 24))), _scr$66);
+                                                                var $986 = _scr$67;
+                                                                var $930 = $986;
                                                                 break;
                                                             case 'Mons.Screen.intro_select':
-                                                                var _game$62 = Mons$Map$build_sprites$(_game$1, _scr$9, $915, _hero_obj$12);
-                                                                var $988 = Mons$draw$initial_mons$(_hero_obj$12, _scr$9);
-                                                                var $931 = $988;
+                                                                var _game$62 = Mons$Map$build_sprites$(_game$1, _scr$9, $914, _hero_obj$12);
+                                                                var $987 = Mons$draw$initial_mons$(_hero_obj$12, _scr$9);
+                                                                var $930 = $987;
                                                                 break;
                                                             case 'Mons.Screen.inventory':
-                                                                var $989 = Mons$draw$bag$(_hero_obj$12, _dim$15, _scr$9);
-                                                                var $931 = $989;
+                                                                var $988 = Mons$draw$bag$(_hero_obj$12, _dim$15, _scr$9);
+                                                                var $930 = $988;
                                                                 break;
                                                             case 'Mons.Screen.game_over':
-                                                                var $990 = Mons$draw$text$("GAME OVER", Mons$Char_white$font, ((0 | 90 | (80 << 12) | (0 << 24))), _scr$9);
-                                                                var $931 = $990;
+                                                                var $989 = Mons$draw$text$("GAME OVER", Mons$Char_white$font, ((0 | 90 | (80 << 12) | (0 << 24))), _scr$9);
+                                                                var $930 = $989;
                                                                 break;
                                                         };
-                                                        var $927 = $931;
+                                                        var $926 = $930;
                                                         break;
                                                 };
-                                                var $923 = $927;
+                                                var $922 = $926;
                                                 break;
                                         };
-                                        var $919 = $923;
+                                        var $918 = $922;
                                         break;
                                 };
-                                var $916 = $919;
+                                var $915 = $918;
                                 break;
                         };
-                        var $914 = $916;
+                        var $913 = $915;
                         break;
                     case 'Maybe.none':
-                        var $991 = _scr$9;
-                        var $914 = $991;
+                        var $990 = _scr$9;
+                        var $913 = $990;
                         break;
                 };
-                var $911 = $914;
+                var $910 = $913;
                 break;
         };
-        return $911;
+        return $910;
     };
     const Mons$draw = x0 => x1 => Mons$draw$(x0, x1);
 
     function App$Action$(_S$1) {
-        var $992 = null;
-        return $992;
+        var $991 = null;
+        return $991;
     };
     const App$Action = x0 => App$Action$(x0);
 
     function App$Action$print$(_text$2) {
-        var $993 = ({
+        var $992 = ({
             _: 'App.Action.print',
             'text': _text$2
         });
-        return $993;
+        return $992;
     };
     const App$Action$print = x0 => App$Action$print$(x0);
 
     function App$Action$resize$(_width$2, _height$3) {
-        var $994 = ({
+        var $993 = ({
             _: 'App.Action.resize',
             'width': _width$2,
             'height': _height$3
         });
-        return $994;
+        return $993;
     };
     const App$Action$resize = x0 => x1 => App$Action$resize$(x0, x1);
     const Mons$scr_w = ((((Mons$scr_mid & 0xFFF)) * 2) >>> 0);
     const Mons$scr_h = (((((Mons$scr_mid >>> 12) & 0xFFF)) * 2) >>> 0);
 
     function App$Action$state$(_value$2) {
-        var $995 = ({
+        var $994 = ({
             _: 'App.Action.state',
             'value': _value$2
         });
-        return $995;
+        return $994;
     };
     const App$Action$state = x0 => App$Action$state$(x0);
 
@@ -5517,54 +5454,54 @@ module.exports = (function() {
         var self = _game$2;
         switch (self._) {
             case 'Mons.Game.new':
-                var $997 = self.pos;
-                var $998 = self.map;
-                var $999 = self.stt;
-                var $1000 = self.tik;
-                var $1001 = Mons$Game$new$(_usr$1, $997, $998, $999, $1000);
-                var $996 = $1001;
+                var $996 = self.pos;
+                var $997 = self.map;
+                var $998 = self.stt;
+                var $999 = self.tik;
+                var $1000 = Mons$Game$new$(_usr$1, $996, $997, $998, $999);
+                var $995 = $1000;
                 break;
         };
-        return $996;
+        return $995;
     };
     const Mons$Game$set_usr = x0 => x1 => Mons$Game$set_usr$(x0, x1);
 
     function App$Action$watch$(_room$2) {
-        var $1002 = ({
+        var $1001 = ({
             _: 'App.Action.watch',
             'room': _room$2
         });
-        return $1002;
+        return $1001;
     };
     const App$Action$watch = x0 => App$Action$watch$(x0);
 
     function Word$from_bits$(_size$1, _bits$2) {
         var self = _size$1;
         if (self === 0n) {
-            var $1004 = Word$e;
-            var $1003 = $1004;
+            var $1003 = Word$e;
+            var $1002 = $1003;
         } else {
-            var $1005 = (self - 1n);
+            var $1004 = (self - 1n);
             var self = _bits$2;
             switch (self.length === 0 ? 'e' : self[self.length - 1] === '0' ? 'o' : 'i') {
                 case 'o':
-                    var $1007 = self.slice(0, -1);
-                    var $1008 = Word$o$(Word$from_bits$($1005, $1007));
-                    var $1006 = $1008;
+                    var $1006 = self.slice(0, -1);
+                    var $1007 = Word$o$(Word$from_bits$($1004, $1006));
+                    var $1005 = $1007;
                     break;
                 case 'i':
-                    var $1009 = self.slice(0, -1);
-                    var $1010 = Word$i$(Word$from_bits$($1005, $1009));
-                    var $1006 = $1010;
+                    var $1008 = self.slice(0, -1);
+                    var $1009 = Word$i$(Word$from_bits$($1004, $1008));
+                    var $1005 = $1009;
                     break;
                 case 'e':
-                    var $1011 = Word$o$(Word$from_bits$($1005, Bits$e));
-                    var $1006 = $1011;
+                    var $1010 = Word$o$(Word$from_bits$($1004, Bits$e));
+                    var $1005 = $1010;
                     break;
             };
-            var $1003 = $1006;
+            var $1002 = $1005;
         };
-        return $1003;
+        return $1002;
     };
     const Word$from_bits = x0 => x1 => Word$from_bits$(x0, x1);
     const Bits$concat = a0 => a1 => (a1 + a0);
@@ -5572,15 +5509,15 @@ module.exports = (function() {
     function String$to_bits$(_str$1) {
         var self = _str$1;
         if (self.length === 0) {
-            var $1013 = Bits$e;
-            var $1012 = $1013;
+            var $1012 = Bits$e;
+            var $1011 = $1012;
         } else {
-            var $1014 = self.charCodeAt(0);
-            var $1015 = self.slice(1);
-            var $1016 = (String$to_bits$($1015) + (u16_to_bits($1014)));
-            var $1012 = $1016;
+            var $1013 = self.charCodeAt(0);
+            var $1014 = self.slice(1);
+            var $1015 = (String$to_bits$($1014) + (u16_to_bits($1013)));
+            var $1011 = $1015;
         };
-        return $1012;
+        return $1011;
     };
     const String$to_bits = x0 => String$to_bits$(x0);
     const Mons$App$room = Word$from_bits$(48n, String$to_bits$("MON"));
@@ -5589,22 +5526,22 @@ module.exports = (function() {
         var self = _cmp$1;
         switch (self._) {
             case 'Cmp.ltn':
-                var $1018 = Bool$false;
-                var $1017 = $1018;
+                var $1017 = Bool$false;
+                var $1016 = $1017;
                 break;
             case 'Cmp.eql':
             case 'Cmp.gtn':
-                var $1019 = Bool$true;
-                var $1017 = $1019;
+                var $1018 = Bool$true;
+                var $1016 = $1018;
                 break;
         };
-        return $1017;
+        return $1016;
     };
     const Cmp$as_gte = x0 => Cmp$as_gte$(x0);
 
     function Word$gte$(_a$2, _b$3) {
-        var $1020 = Cmp$as_gte$(Word$cmp$(_a$2, _b$3));
-        return $1020;
+        var $1019 = Cmp$as_gte$(Word$cmp$(_a$2, _b$3));
+        return $1019;
     };
     const Word$gte = x0 => x1 => Word$gte$(x0, x1);
     const U16$gte = a0 => a1 => (a0 >= a1);
@@ -5614,13 +5551,13 @@ module.exports = (function() {
     function Char$to_upper$(_char$1) {
         var self = ((_char$1 >= 97) && (_char$1 <= 122));
         if (self) {
-            var $1022 = (Math.max(_char$1 - 32, 0));
-            var $1021 = $1022;
+            var $1021 = (Math.max(_char$1 - 32, 0));
+            var $1020 = $1021;
         } else {
-            var $1023 = _char$1;
-            var $1021 = $1023;
+            var $1022 = _char$1;
+            var $1020 = $1022;
         };
-        return $1021;
+        return $1020;
     };
     const Char$to_upper = x0 => Char$to_upper$(x0);
     const U16$add = a0 => a1 => ((a0 + a1) & 0xFFFF);
@@ -5628,86 +5565,86 @@ module.exports = (function() {
     function Char$to_lower$(_char$1) {
         var self = ((_char$1 >= 65) && (_char$1 <= 90));
         if (self) {
-            var $1025 = ((_char$1 + 32) & 0xFFFF);
-            var $1024 = $1025;
+            var $1024 = ((_char$1 + 32) & 0xFFFF);
+            var $1023 = $1024;
         } else {
-            var $1026 = _char$1;
-            var $1024 = $1026;
+            var $1025 = _char$1;
+            var $1023 = $1025;
         };
-        return $1024;
+        return $1023;
     };
     const Char$to_lower = x0 => Char$to_lower$(x0);
 
     function Mons$Input$char$(_down$1, _code$2) {
         var self = _down$1;
         if (self) {
-            var $1028 = Char$to_upper$(_code$2);
-            var $1027 = $1028;
+            var $1027 = Char$to_upper$(_code$2);
+            var $1026 = $1027;
         } else {
-            var $1029 = Char$to_lower$(_code$2);
-            var $1027 = $1029;
+            var $1028 = Char$to_lower$(_code$2);
+            var $1026 = $1028;
         };
-        return $1027;
+        return $1026;
     };
     const Mons$Input$char = x0 => x1 => Mons$Input$char$(x0, x1);
     const Mons$Input$list = (() => {
         var _b0$1 = Bits$o;
         var _b1$2 = Bits$i;
         var _bn$3 = Bits$e;
-        var $1030 = List$cons$(Pair$new$(68, _b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_bn$3))))))))), List$cons$(Pair$new$(87, _b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(65, _b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_bn$3))))))))), List$cons$(Pair$new$(83, _b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(85, _b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_b0$1(_bn$3))))))))), List$cons$(Pair$new$(73, _b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(74, _b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b1$2(_b0$1(_bn$3))))))))), List$cons$(Pair$new$(75, _b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b1$2(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(100, _b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_b0$1(_b0$1(_bn$3))))))))), List$cons$(Pair$new$(119, _b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_b0$1(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(97, _b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_b1$2(_b0$1(_bn$3))))))))), List$cons$(Pair$new$(115, _b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_b1$2(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(117, _b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b1$2(_b0$1(_b0$1(_bn$3))))))))), List$cons$(Pair$new$(105, _b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b1$2(_b0$1(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(106, _b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b1$2(_b1$2(_b0$1(_bn$3))))))))), List$cons$(Pair$new$(107, _b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b1$2(_b1$2(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(101, _b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_b0$1(_b0$1(_b0$1(_bn$3))))))))), List$cons$(Pair$new$(69, _b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_b0$1(_b0$1(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(99, _b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_b0$1(_b1$2(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(67, _b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_b1$2(_b1$2(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(122, _b0$1(_b0$1(_b0$1(_b1$2(_b1$2(_b1$2(_b1$2(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(90, _b0$1(_b0$1(_b1$2(_b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_bn$3))))))))), List$cons$(Pair$new$(82, _b0$1(_b0$1(_b1$2(_b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(114, _b0$1(_b0$1(_b0$1(_b1$2(_b1$2(_b1$2(_b1$2(_b1$2(_bn$3))))))))), List$nil))))))))))))))))))))))));
-        return $1030;
+        var $1029 = List$cons$(Pair$new$(68, _b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_bn$3))))))))), List$cons$(Pair$new$(87, _b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(65, _b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_bn$3))))))))), List$cons$(Pair$new$(83, _b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(85, _b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_b0$1(_bn$3))))))))), List$cons$(Pair$new$(73, _b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(74, _b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b1$2(_b0$1(_bn$3))))))))), List$cons$(Pair$new$(75, _b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b1$2(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(100, _b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_b0$1(_b0$1(_bn$3))))))))), List$cons$(Pair$new$(119, _b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_b0$1(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(97, _b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_b1$2(_b0$1(_bn$3))))))))), List$cons$(Pair$new$(115, _b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_b1$2(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(117, _b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b1$2(_b0$1(_b0$1(_bn$3))))))))), List$cons$(Pair$new$(105, _b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b1$2(_b0$1(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(106, _b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b1$2(_b1$2(_b0$1(_bn$3))))))))), List$cons$(Pair$new$(107, _b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_b1$2(_b1$2(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(101, _b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_b0$1(_b0$1(_b0$1(_bn$3))))))))), List$cons$(Pair$new$(69, _b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_b0$1(_b0$1(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(99, _b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_b0$1(_b1$2(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(67, _b0$1(_b0$1(_b0$1(_b1$2(_b0$1(_b1$2(_b1$2(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(122, _b0$1(_b0$1(_b0$1(_b1$2(_b1$2(_b1$2(_b1$2(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(90, _b0$1(_b0$1(_b1$2(_b0$1(_b0$1(_b0$1(_b0$1(_b0$1(_bn$3))))))))), List$cons$(Pair$new$(82, _b0$1(_b0$1(_b1$2(_b0$1(_b0$1(_b0$1(_b0$1(_b1$2(_bn$3))))))))), List$cons$(Pair$new$(114, _b0$1(_b0$1(_b0$1(_b1$2(_b1$2(_b1$2(_b1$2(_b1$2(_bn$3))))))))), List$nil))))))))))))))))))))))));
+        return $1029;
     })();
     const Mons$Input$char_to_code_map = (() => {
         var _map$1 = Map$new;
         var _map$2 = (() => {
-            var $1033 = _map$1;
-            var $1034 = Mons$Input$list;
-            let _map$3 = $1033;
+            var $1032 = _map$1;
+            var $1033 = Mons$Input$list;
+            let _map$3 = $1032;
             let _char_code$2;
-            while ($1034._ === 'List.cons') {
-                _char_code$2 = $1034.head;
+            while ($1033._ === 'List.cons') {
+                _char_code$2 = $1033.head;
                 var self = _char_code$2;
                 switch (self._) {
                     case 'Pair.new':
-                        var $1035 = self.fst;
-                        var $1036 = self.snd;
-                        var $1037 = Map$set$((u16_to_bits($1035)), $1036, _map$3);
-                        var $1033 = $1037;
+                        var $1034 = self.fst;
+                        var $1035 = self.snd;
+                        var $1036 = Map$set$((u16_to_bits($1034)), $1035, _map$3);
+                        var $1032 = $1036;
                         break;
                 };
-                _map$3 = $1033;
-                $1034 = $1034.tail;
+                _map$3 = $1032;
+                $1033 = $1033.tail;
             }
             return _map$3;
         })();
-        var $1031 = _map$2;
-        return $1031;
+        var $1030 = _map$2;
+        return $1030;
     })();
 
     function Mons$Input$serialize$(_char$1) {
         var self = Map$get$((u16_to_bits(_char$1)), Mons$Input$char_to_code_map);
         switch (self._) {
             case 'Maybe.some':
-                var $1039 = self.value;
-                var $1040 = Maybe$some$(Word$from_bits$(256n, $1039));
-                var $1038 = $1040;
+                var $1038 = self.value;
+                var $1039 = Maybe$some$(Word$from_bits$(256n, $1038));
+                var $1037 = $1039;
                 break;
             case 'Maybe.none':
-                var $1041 = Maybe$none;
-                var $1038 = $1041;
+                var $1040 = Maybe$none;
+                var $1037 = $1040;
                 break;
         };
-        return $1038;
+        return $1037;
     };
     const Mons$Input$serialize = x0 => Mons$Input$serialize$(x0);
 
     function App$Action$post$(_room$2, _data$3) {
-        var $1042 = ({
+        var $1041 = ({
             _: 'App.Action.post',
             'room': _room$2,
             'data': _data$3
         });
-        return $1042;
+        return $1041;
     };
     const App$Action$post = x0 => x1 => App$Action$post$(x0, x1);
 
@@ -5715,21 +5652,21 @@ module.exports = (function() {
         var self = _obj$1;
         switch (self._) {
             case 'Mons.Object.new':
-                var $1044 = self.kin;
-                var $1045 = self.dir;
-                var $1046 = self.pad;
-                var $1047 = self.dmg;
-                var $1048 = self.bag;
-                var $1049 = self.mon;
-                var $1050 = self.bos;
-                var $1051 = self.cap;
-                var $1052 = self.idl;
-                var $1053 = self.eff;
-                var $1054 = Mons$Object$new$($1044, $1045, $1046, _ani$2, $1047, $1048, $1049, $1050, $1051, $1052, $1053);
-                var $1043 = $1054;
+                var $1043 = self.kin;
+                var $1044 = self.dir;
+                var $1045 = self.pad;
+                var $1046 = self.dmg;
+                var $1047 = self.bag;
+                var $1048 = self.mon;
+                var $1049 = self.bos;
+                var $1050 = self.cap;
+                var $1051 = self.idl;
+                var $1052 = self.eff;
+                var $1053 = Mons$Object$new$($1043, $1044, $1045, _ani$2, $1046, $1047, $1048, $1049, $1050, $1051, $1052);
+                var $1042 = $1053;
                 break;
         };
-        return $1043;
+        return $1042;
     };
     const Mons$Object$set_ani = x0 => x1 => Mons$Object$set_ani$(x0, x1);
 
@@ -5737,21 +5674,21 @@ module.exports = (function() {
         var self = _obj$1;
         switch (self._) {
             case 'Mons.Object.new':
-                var $1056 = self.kin;
-                var $1057 = self.pad;
-                var $1058 = self.ani;
-                var $1059 = self.dmg;
-                var $1060 = self.bag;
-                var $1061 = self.mon;
-                var $1062 = self.bos;
-                var $1063 = self.cap;
-                var $1064 = self.idl;
-                var $1065 = self.eff;
-                var $1066 = Mons$Object$new$($1056, _dir$2, $1057, $1058, $1059, $1060, $1061, $1062, $1063, $1064, $1065);
-                var $1055 = $1066;
+                var $1055 = self.kin;
+                var $1056 = self.pad;
+                var $1057 = self.ani;
+                var $1058 = self.dmg;
+                var $1059 = self.bag;
+                var $1060 = self.mon;
+                var $1061 = self.bos;
+                var $1062 = self.cap;
+                var $1063 = self.idl;
+                var $1064 = self.eff;
+                var $1065 = Mons$Object$new$($1055, _dir$2, $1056, $1057, $1058, $1059, $1060, $1061, $1062, $1063, $1064);
+                var $1054 = $1065;
                 break;
         };
-        return $1055;
+        return $1054;
     };
     const Mons$Object$set_dir = x0 => x1 => Mons$Object$set_dir$(x0, x1);
 
@@ -5759,12 +5696,12 @@ module.exports = (function() {
         var self = _obj$1;
         switch (self._) {
             case 'Mons.Object.new':
-                var $1068 = self.ani;
-                var $1069 = ($1068 === 0);
-                var $1067 = $1069;
+                var $1067 = self.ani;
+                var $1068 = ($1067 === 0);
+                var $1066 = $1068;
                 break;
         };
-        return $1067;
+        return $1066;
     };
     const Mons$Object$is_free_to_move = x0 => Mons$Object$is_free_to_move$(x0);
     const Mons$Dir$up = ({
@@ -5781,72 +5718,72 @@ module.exports = (function() {
         var self = _obj$1;
         switch (self._) {
             case 'Mons.Object.new':
-                var $1071 = self.dir;
-                var $1072 = self.pad;
-                var $1073 = self.ani;
+                var $1070 = self.dir;
+                var $1071 = self.pad;
+                var $1072 = self.ani;
                 var _obj$13 = Mons$Object$set_ani$(_obj$1, (() => {
-                    var self = ($1073 > 0);
+                    var self = ($1072 > 0);
                     if (self) {
-                        var $1075 = (Math.max($1073 - 2, 0));
-                        return $1075;
+                        var $1074 = (Math.max($1072 - 2, 0));
+                        return $1074;
                     } else {
-                        var $1076 = $1073;
-                        return $1076;
+                        var $1075 = $1072;
+                        return $1075;
                     };
                 })());
                 var _obj$14 = Mons$Object$set_dir$(_obj$13, (() => {
                     var self = Mons$Object$is_free_to_move$(_obj$13);
                     if (self) {
-                        var self = $1072;
+                        var self = $1071;
                         switch (self._) {
                             case 'Mons.Pad.new':
-                                var $1078 = self.r;
-                                var $1079 = self.u;
-                                var $1080 = self.l;
-                                var $1081 = self.d;
-                                var self = $1079;
+                                var $1077 = self.r;
+                                var $1078 = self.u;
+                                var $1079 = self.l;
+                                var $1080 = self.d;
+                                var self = $1078;
                                 if (self) {
-                                    var $1083 = Mons$Dir$up;
-                                    var $1082 = $1083;
+                                    var $1082 = Mons$Dir$up;
+                                    var $1081 = $1082;
                                 } else {
-                                    var self = $1080;
+                                    var self = $1079;
                                     if (self) {
-                                        var $1085 = Mons$Dir$left;
-                                        var $1084 = $1085;
+                                        var $1084 = Mons$Dir$left;
+                                        var $1083 = $1084;
                                     } else {
-                                        var self = $1081;
+                                        var self = $1080;
                                         if (self) {
-                                            var $1087 = Mons$Dir$down;
-                                            var $1086 = $1087;
+                                            var $1086 = Mons$Dir$down;
+                                            var $1085 = $1086;
                                         } else {
-                                            var self = $1078;
+                                            var self = $1077;
                                             if (self) {
-                                                var $1089 = Mons$Dir$right;
-                                                var $1088 = $1089;
+                                                var $1088 = Mons$Dir$right;
+                                                var $1087 = $1088;
                                             } else {
-                                                var $1090 = $1071;
-                                                var $1088 = $1090;
+                                                var $1089 = $1070;
+                                                var $1087 = $1089;
                                             };
-                                            var $1086 = $1088;
+                                            var $1085 = $1087;
                                         };
-                                        var $1084 = $1086;
+                                        var $1083 = $1085;
                                     };
-                                    var $1082 = $1084;
+                                    var $1081 = $1083;
                                 };
-                                var $1077 = $1082;
+                                var $1076 = $1081;
                                 break;
                         };
-                        return $1077;
+                        return $1076;
                     } else {
-                        var $1091 = $1071;
-                        return $1091;
+                        var $1090 = $1070;
+                        return $1090;
                     };
                 })());
-                var $1074 = _obj$14;
-                var $1070 = $1074;
+                var $1073 = _obj$14;
+                var $1069 = $1073;
                 break;
         };
-        return $1070;
+        return $1069;
     };
     const Mons$Object$tick = x0 => Mons$Object$tick$(x0);
 
@@ -5854,23 +5791,23 @@ module.exports = (function() {
         var self = _dir$1;
         switch (self._) {
             case 'Mons.Dir.right':
-                var $1093 = Pos32$add$(_pos$2, ((0 | 1 | (0 << 12) | (0 << 24))));
-                var $1092 = $1093;
+                var $1092 = Pos32$add$(_pos$2, ((0 | 1 | (0 << 12) | (0 << 24))));
+                var $1091 = $1092;
                 break;
             case 'Mons.Dir.up':
-                var $1094 = Pos32$sub$(_pos$2, ((0 | 0 | (1 << 12) | (0 << 24))));
-                var $1092 = $1094;
+                var $1093 = Pos32$sub$(_pos$2, ((0 | 0 | (1 << 12) | (0 << 24))));
+                var $1091 = $1093;
                 break;
             case 'Mons.Dir.left':
-                var $1095 = Pos32$sub$(_pos$2, ((0 | 1 | (0 << 12) | (0 << 24))));
-                var $1092 = $1095;
+                var $1094 = Pos32$sub$(_pos$2, ((0 | 1 | (0 << 12) | (0 << 24))));
+                var $1091 = $1094;
                 break;
             case 'Mons.Dir.down':
-                var $1096 = Pos32$add$(_pos$2, ((0 | 0 | (1 << 12) | (0 << 24))));
-                var $1092 = $1096;
+                var $1095 = Pos32$add$(_pos$2, ((0 | 0 | (1 << 12) | (0 << 24))));
+                var $1091 = $1095;
                 break;
         };
-        return $1092;
+        return $1091;
     };
     const Mons$Dir$move = x0 => x1 => Mons$Dir$move$(x0, x1);
 
@@ -5879,24 +5816,24 @@ module.exports = (function() {
         var self = _objs$3;
         switch (self._) {
             case 'List.cons':
-                var $1098 = self.head;
-                var $1099 = self.tail;
-                var _map$6 = Mons$Map$set_list$(_pos$1, $1099, _map$2);
-                var $1100 = Pair$new$(_map$6, $1098);
-                var $1097 = $1100;
+                var $1097 = self.head;
+                var $1098 = self.tail;
+                var _map$6 = Mons$Map$set_list$(_pos$1, $1098, _map$2);
+                var $1099 = Pair$new$(_map$6, $1097);
+                var $1096 = $1099;
                 break;
             case 'List.nil':
-                var $1101 = Pair$new$(_map$2, Mons$Object$void);
-                var $1097 = $1101;
+                var $1100 = Pair$new$(_map$2, Mons$Object$void);
+                var $1096 = $1100;
                 break;
         };
-        return $1097;
+        return $1096;
     };
     const Mons$Map$pop = x0 => x1 => Mons$Map$pop$(x0, x1);
 
     function Mons$Map$get_top$(_pos$1, _map$2) {
-        var $1102 = Pair$snd$(Mons$Map$pop$(_pos$1, _map$2));
-        return $1102;
+        var $1101 = Pair$snd$(Mons$Map$pop$(_pos$1, _map$2));
+        return $1101;
     };
     const Mons$Map$get_top = x0 => x1 => Mons$Map$get_top$(x0, x1);
 
@@ -5904,24 +5841,24 @@ module.exports = (function() {
         var self = _obj$1;
         switch (self._) {
             case 'Mons.Object.new':
-                var $1104 = self.pad;
-                var self = $1104;
+                var $1103 = self.pad;
+                var self = $1103;
                 switch (self._) {
                     case 'Mons.Pad.new':
-                        var $1106 = self.r;
-                        var $1107 = self.u;
-                        var $1108 = self.l;
-                        var $1109 = self.d;
-                        var _is_walking_x$17 = ($1107 || $1109);
-                        var _is_walking_y$18 = ($1108 || $1106);
-                        var $1110 = (_is_walking_x$17 || _is_walking_y$18);
-                        var $1105 = $1110;
+                        var $1105 = self.r;
+                        var $1106 = self.u;
+                        var $1107 = self.l;
+                        var $1108 = self.d;
+                        var _is_walking_x$17 = ($1106 || $1108);
+                        var _is_walking_y$18 = ($1107 || $1105);
+                        var $1109 = (_is_walking_x$17 || _is_walking_y$18);
+                        var $1104 = $1109;
                         break;
                 };
-                var $1103 = $1105;
+                var $1102 = $1104;
                 break;
         };
-        return $1103;
+        return $1102;
     };
     const Mons$Object$is_walking = x0 => Mons$Object$is_walking$(x0);
 
@@ -5929,20 +5866,20 @@ module.exports = (function() {
         var self = Mons$Kind$attr$(_kind$1);
         switch (self._) {
             case 'Mons.Attr.new':
-                var $1112 = self.blocks;
-                var $1113 = $1112;
-                var $1111 = $1113;
+                var $1111 = self.blocks;
+                var $1112 = $1111;
+                var $1110 = $1112;
                 break;
         };
-        return $1111;
+        return $1110;
     };
     const Mons$Kind$get_blocks = x0 => Mons$Kind$get_blocks$(x0);
 
     function Mons$Game$move_obj$(_from$1, _idx$2, _to$3, _obj$4, _game$5) {
         var _game$6 = Mons$Game$map_del$(_from$1, _idx$2, _game$5);
         var _game$7 = Mons$Game$map_push$(_to$3, _obj$4, _game$6);
-        var $1114 = _game$7;
-        return $1114;
+        var $1113 = _game$7;
+        return $1113;
     };
     const Mons$Game$move_obj = x0 => x1 => x2 => x3 => x4 => Mons$Game$move_obj$(x0, x1, x2, x3, x4);
 
@@ -5950,16 +5887,16 @@ module.exports = (function() {
         var self = _game$3;
         switch (self._) {
             case 'Mons.Game.new':
-                var $1116 = self.usr;
-                var $1117 = self.pos;
-                var $1118 = self.map;
-                var $1119 = self.stt;
-                var $1120 = self.tik;
-                var $1121 = Mons$Game$new$($1116, Map$set$(Word$to_bits$(_user$1), _pos$2, $1117), $1118, $1119, $1120);
-                var $1115 = $1121;
+                var $1115 = self.usr;
+                var $1116 = self.pos;
+                var $1117 = self.map;
+                var $1118 = self.stt;
+                var $1119 = self.tik;
+                var $1120 = Mons$Game$new$($1115, Map$set$(Word$to_bits$(_user$1), _pos$2, $1116), $1117, $1118, $1119);
+                var $1114 = $1120;
                 break;
         };
-        return $1115;
+        return $1114;
     };
     const Mons$Game$set_user_pos = x0 => x1 => x2 => Mons$Game$set_user_pos$(x0, x1, x2);
 
@@ -5967,8 +5904,8 @@ module.exports = (function() {
         var self = _game$3;
         switch (self._) {
             case 'Mons.Game.new':
-                var $1123 = self.map;
-                var _map$9 = $1123;
+                var $1122 = self.map;
+                var _map$9 = $1122;
                 var _obj_idx$10 = Mons$Map$get_hero$(_pos$2, _map$9);
                 var _obj$11 = Pair$fst$(_obj_idx$10);
                 var _idx$12 = Pair$snd$(_obj_idx$10);
@@ -5976,38 +5913,38 @@ module.exports = (function() {
                 var self = _obj$13;
                 switch (self._) {
                     case 'Mons.Object.new':
-                        var $1125 = self.dir;
+                        var $1124 = self.dir;
                         var _old_pos$25 = _pos$2;
-                        var _new_pos$26 = Mons$Dir$move$($1125, _pos$2);
+                        var _new_pos$26 = Mons$Dir$move$($1124, _pos$2);
                         var _trg$27 = Mons$Map$get_top$(_new_pos$26, _map$9);
                         var self = _trg$27;
                         switch (self._) {
                             case 'Mons.Object.new':
-                                var $1127 = self.kin;
+                                var $1126 = self.kin;
                                 var _is_walking$39 = Mons$Object$is_walking$(_obj$13);
                                 var _is_movfree$40 = Mons$Object$is_free_to_move$(_obj$13);
-                                var _is_blocked$41 = Mons$Kind$get_blocks$($1127);
+                                var _is_blocked$41 = Mons$Kind$get_blocks$($1126);
                                 var self = (_is_walking$39 && (_is_movfree$40 && (!_is_blocked$41)));
                                 if (self) {
                                     var _obj$42 = Mons$Object$set_ani$(_obj$13, 16);
                                     var _game$43 = Mons$Game$move_obj$(_old_pos$25, _idx$12, _new_pos$26, _obj$42, _game$3);
                                     var _game$44 = Mons$Game$set_user_pos$(_user$1, _new_pos$26, _game$43);
-                                    var $1129 = _game$44;
-                                    var $1128 = $1129;
+                                    var $1128 = _game$44;
+                                    var $1127 = $1128;
                                 } else {
-                                    var $1130 = Mons$Game$map_set$(_pos$2, _idx$12, _obj$13, _game$3);
-                                    var $1128 = $1130;
+                                    var $1129 = Mons$Game$map_set$(_pos$2, _idx$12, _obj$13, _game$3);
+                                    var $1127 = $1129;
                                 };
-                                var $1126 = $1128;
+                                var $1125 = $1127;
                                 break;
                         };
-                        var $1124 = $1126;
+                        var $1123 = $1125;
                         break;
                 };
-                var $1122 = $1124;
+                var $1121 = $1123;
                 break;
         };
-        return $1122;
+        return $1121;
     };
     const Mons$Game$tick_user = x0 => x1 => x2 => Mons$Game$tick_user$(x0, x1, x2);
 
@@ -6015,15 +5952,15 @@ module.exports = (function() {
         var self = _game$2;
         switch (self._) {
             case 'Mons.Game.new':
-                var $1132 = self.usr;
-                var $1133 = self.pos;
-                var $1134 = self.map;
-                var $1135 = self.stt;
-                var $1136 = Mons$Game$new$($1132, $1133, $1134, $1135, _tik$1);
-                var $1131 = $1136;
+                var $1131 = self.usr;
+                var $1132 = self.pos;
+                var $1133 = self.map;
+                var $1134 = self.stt;
+                var $1135 = Mons$Game$new$($1131, $1132, $1133, $1134, _tik$1);
+                var $1130 = $1135;
                 break;
         };
-        return $1131;
+        return $1130;
     };
     const Mons$Game$set_tik = x0 => x1 => Mons$Game$set_tik$(x0, x1);
 
@@ -6031,12 +5968,12 @@ module.exports = (function() {
         var self = _game$1;
         switch (self._) {
             case 'Mons.Game.new':
-                var $1138 = self.tik;
-                var $1139 = Mons$Game$set_tik$((($1138 + 1) >>> 0), _game$1);
-                var $1137 = $1139;
+                var $1137 = self.tik;
+                var $1138 = Mons$Game$set_tik$((($1137 + 1) >>> 0), _game$1);
+                var $1136 = $1138;
                 break;
         };
-        return $1137;
+        return $1136;
     };
     const Mons$Game$tick_game = x0 => Mons$Game$tick_game$(x0);
 
@@ -6044,88 +5981,88 @@ module.exports = (function() {
         var self = _game$1;
         switch (self._) {
             case 'Mons.Game.new':
-                var $1141 = self.usr;
-                var self = Mons$Game$get_user_pos$($1141, _game$1);
+                var $1140 = self.usr;
+                var self = Mons$Game$get_user_pos$($1140, _game$1);
                 switch (self._) {
                     case 'Maybe.some':
-                        var $1143 = self.value;
-                        var $1144 = $1143;
-                        var _pos$8 = $1144;
+                        var $1142 = self.value;
+                        var $1143 = $1142;
+                        var _pos$8 = $1143;
                         break;
                     case 'Maybe.none':
-                        var $1145 = Mons$scr_mid;
-                        var _pos$8 = $1145;
+                        var $1144 = Mons$scr_mid;
+                        var _pos$8 = $1144;
                         break;
                 };
-                var _game$9 = Mons$Game$tick_user$($1141, _pos$8, _game$1);
+                var _game$9 = Mons$Game$tick_user$($1140, _pos$8, _game$1);
                 var _game$10 = Mons$Game$tick_game$(_game$9);
-                var $1142 = _game$10;
-                var $1140 = $1142;
+                var $1141 = _game$10;
+                var $1139 = $1141;
                 break;
         };
-        return $1140;
+        return $1139;
     };
     const Mons$Game$tick = x0 => x1 => Mons$Game$tick$(x0, x1);
 
     function Bits$slice$(_len$1, _bits$2) {
         var self = _len$1;
         if (self === 0n) {
-            var $1147 = Bits$e;
-            var $1146 = $1147;
+            var $1146 = Bits$e;
+            var $1145 = $1146;
         } else {
-            var $1148 = (self - 1n);
+            var $1147 = (self - 1n);
             var self = _bits$2;
             switch (self.length === 0 ? 'e' : self[self.length - 1] === '0' ? 'o' : 'i') {
                 case 'o':
-                    var $1150 = self.slice(0, -1);
-                    var $1151 = (Bits$slice$($1148, $1150) + '0');
-                    var $1149 = $1151;
+                    var $1149 = self.slice(0, -1);
+                    var $1150 = (Bits$slice$($1147, $1149) + '0');
+                    var $1148 = $1150;
                     break;
                 case 'i':
-                    var $1152 = self.slice(0, -1);
-                    var $1153 = (Bits$slice$($1148, $1152) + '1');
-                    var $1149 = $1153;
+                    var $1151 = self.slice(0, -1);
+                    var $1152 = (Bits$slice$($1147, $1151) + '1');
+                    var $1148 = $1152;
                     break;
                 case 'e':
-                    var $1154 = Bits$e;
-                    var $1149 = $1154;
+                    var $1153 = Bits$e;
+                    var $1148 = $1153;
                     break;
             };
-            var $1146 = $1149;
+            var $1145 = $1148;
         };
-        return $1146;
+        return $1145;
     };
     const Bits$slice = x0 => x1 => Bits$slice$(x0, x1);
     const Mons$Input$code_to_char_map = (() => {
         var _map$1 = Map$new;
         var _map$2 = (() => {
-            var $1157 = _map$1;
-            var $1158 = Mons$Input$list;
-            let _map$3 = $1157;
+            var $1156 = _map$1;
+            var $1157 = Mons$Input$list;
+            let _map$3 = $1156;
             let _char_code$2;
-            while ($1158._ === 'List.cons') {
-                _char_code$2 = $1158.head;
+            while ($1157._ === 'List.cons') {
+                _char_code$2 = $1157.head;
                 var self = _char_code$2;
                 switch (self._) {
                     case 'Pair.new':
-                        var $1159 = self.fst;
-                        var $1160 = self.snd;
-                        var $1161 = Map$set$($1160, $1159, _map$3);
-                        var $1157 = $1161;
+                        var $1158 = self.fst;
+                        var $1159 = self.snd;
+                        var $1160 = Map$set$($1159, $1158, _map$3);
+                        var $1156 = $1160;
                         break;
                 };
-                _map$3 = $1157;
-                $1158 = $1158.tail;
+                _map$3 = $1156;
+                $1157 = $1157.tail;
             }
             return _map$3;
         })();
-        var $1155 = _map$2;
-        return $1155;
+        var $1154 = _map$2;
+        return $1154;
     })();
 
     function Mons$Input$deserialize$(_code$1) {
-        var $1162 = Map$get$(Bits$slice$(8n, Word$to_bits$(_code$1)), Mons$Input$code_to_char_map);
-        return $1162;
+        var $1161 = Map$get$(Bits$slice$(8n, Word$to_bits$(_code$1)), Mons$Input$code_to_char_map);
+        return $1161;
     };
     const Mons$Input$deserialize = x0 => Mons$Input$deserialize$(x0);
 
@@ -6133,17 +6070,40 @@ module.exports = (function() {
         var self = _game$2;
         switch (self._) {
             case 'Mons.Game.new':
-                var $1164 = self.usr;
-                var $1165 = self.pos;
-                var $1166 = self.map;
-                var $1167 = self.tik;
-                var $1168 = Mons$Game$new$($1164, $1165, $1166, _stt$1, $1167);
-                var $1163 = $1168;
+                var $1163 = self.usr;
+                var $1164 = self.pos;
+                var $1165 = self.map;
+                var $1166 = self.tik;
+                var $1167 = Mons$Game$new$($1163, $1164, $1165, _stt$1, $1166);
+                var $1162 = $1167;
                 break;
         };
-        return $1163;
+        return $1162;
     };
     const Mons$Game$set_stt = x0 => x1 => Mons$Game$set_stt$(x0, x1);
+
+    function Mons$Screen$game$(_cmd$1, _turn$2) {
+        var $1168 = ({
+            _: 'Mons.Screen.game',
+            'cmd': _cmd$1,
+            'turn': _turn$2
+        });
+        return $1168;
+    };
+    const Mons$Screen$game = x0 => x1 => Mons$Screen$game$(x0, x1);
+
+    function Mons$Turn$new$(_exec_hero$1, _hero_skill$2, _adve_skill$3, _play$4) {
+        var $1169 = ({
+            _: 'Mons.Turn.new',
+            'exec_hero': _exec_hero$1,
+            'hero_skill': _hero_skill$2,
+            'adve_skill': _adve_skill$3,
+            'play': _play$4
+        });
+        return $1169;
+    };
+    const Mons$Turn$new = x0 => x1 => x2 => x3 => Mons$Turn$new$(x0, x1, x2, x3);
+    const Mons$Turn$empty = Mons$Turn$new$(Bool$false, Mons$Skill$none, Mons$Skill$none, 0);
     const Mons$Kind$mons$HERO = ({
         _: 'Mons.Kind.mons.HERO'
     });
@@ -6156,16 +6116,16 @@ module.exports = (function() {
         var self = _adve$1;
         switch (self._) {
             case 'Mons.Object.new':
-                var $1170 = self.kin;
+                var $1171 = self.kin;
                 var self = _hero$2;
                 switch (self._) {
                     case 'Mons.Object.new':
-                        var $1172 = self.kin;
-                        var self = $1170;
+                        var $1173 = self.kin;
+                        var self = $1171;
                         switch (self._) {
                             case 'Mons.Kind.Mons':
-                                var _adve_kin$29 = Mons$Kind$attr$($1170);
-                                var _hero_kin$30 = Mons$Kind$attr$($1172);
+                                var _adve_kin$29 = Mons$Kind$attr$($1171);
+                                var _hero_kin$30 = Mons$Kind$attr$($1173);
                                 var self = _adve_kin$29;
                                 switch (self._) {
                                     case 'Mons.Attr.new':
@@ -6174,52 +6134,43 @@ module.exports = (function() {
                                             case 'Mons.Attr.new':
                                                 var _adve_status$51 = Mons$Object$is_obj_defeated$(_adve$1);
                                                 var _hero_status$52 = Mons$Object$is_obj_defeated$(_hero$2);
-                                                var $1176 = (_adve_status$51 || _hero_status$52);
-                                                var $1175 = $1176;
+                                                var $1177 = (_adve_status$51 || _hero_status$52);
+                                                var $1176 = $1177;
                                                 break;
                                         };
-                                        var $1174 = $1175;
+                                        var $1175 = $1176;
                                         break;
                                 };
-                                var $1173 = $1174;
+                                var $1174 = $1175;
                                 break;
                             case 'Mons.Kind.Const':
                             case 'Mons.Kind.Terrain':
                             case 'Mons.Kind.Interactive':
-                                var $1177 = Bool$false;
-                                var $1173 = $1177;
+                                var $1178 = Bool$false;
+                                var $1174 = $1178;
                                 break;
                         };
-                        var $1171 = $1173;
+                        var $1172 = $1174;
                         break;
                 };
-                var $1169 = $1171;
+                var $1170 = $1172;
                 break;
         };
-        return $1169;
+        return $1170;
     };
     const Mons$Object$ended_battle = x0 => x1 => Mons$Object$ended_battle$(x0, x1);
 
     function Mons$Screen$introduction$(_step$1) {
-        var $1178 = ({
+        var $1179 = ({
             _: 'Mons.Screen.introduction',
             'step': _step$1
         });
-        return $1178;
+        return $1179;
     };
     const Mons$Screen$introduction = x0 => Mons$Screen$introduction$(x0);
     const Mons$Screen$credits = ({
         _: 'Mons.Screen.credits'
     });
-
-    function Mons$Screen$welcome$(_idx$1) {
-        var $1179 = ({
-            _: 'Mons.Screen.welcome',
-            'idx': _idx$1
-        });
-        return $1179;
-    };
-    const Mons$Screen$welcome = x0 => Mons$Screen$welcome$(x0);
 
     function List$elem$(_p$2, _a$3, _as$4) {
         var List$elem$ = (_p$2, _a$3, _as$4) => ({
@@ -9050,7 +9001,7 @@ module.exports = (function() {
             var _game_usr$3 = Word$zero$(160n);
             var _game_pos$4 = Map$new;
             var _game_map$5 = Mons$Map$build$(Mons$map_source);
-            var _game$6 = Mons$Game$new$(_game_usr$3, _game_pos$4, _game_map$5, Mons$Screen$game$(46, Mons$Turn$empty), 0);
+            var _game$6 = Mons$Game$new$(_game_usr$3, _game_pos$4, _game_map$5, Mons$Screen$welcome$(0), 0);
             var $1907 = _game$6;
             return $1907;
         })(), (_game$3 => {
@@ -9358,10 +9309,7 @@ module.exports = (function() {
         'Mons.Map.code_to_tile': Mons$Map$code_to_tile,
         'Mons.Map.build': Mons$Map$build,
         'Mons.map_source': Mons$map_source,
-        'Mons.Screen.game': Mons$Screen$game,
-        'Mons.Turn.new': Mons$Turn$new,
-        'Mons.Skill.none': Mons$Skill$none,
-        'Mons.Turn.empty': Mons$Turn$empty,
+        'Mons.Screen.welcome': Mons$Screen$welcome,
         'App.Render.pix': App$Render$pix,
         'Image3D.set_length': Image3D$set_length,
         'Image3D.clear': Image3D$clear,
@@ -9413,6 +9361,7 @@ module.exports = (function() {
         'Bool.if': Bool$if,
         'Mons.Assets.char.battle_boy_u': Mons$Assets$char$battle_boy_u,
         'Mons.Skill.hero_kill': Mons$Skill$hero_kill,
+        'Mons.Skill.none': Mons$Skill$none,
         'Mons.Attr.new_hero': Mons$Attr$new_hero,
         'Mons.Kind.set_static_sprites': Mons$Kind$set_static_sprites,
         'Mons.Assets.char.mons_mage': Mons$Assets$char$mons_mage,
@@ -9429,6 +9378,7 @@ module.exports = (function() {
         'Mons.Kind.attr': Mons$Kind$attr,
         'Mons.Object.get_ani': Mons$Object$get_ani,
         'Mons.Object.is_standing': Mons$Object$is_standing,
+        'Mons.Assets.screen.logo': Mons$Assets$screen$logo,
         'Image3D.get_length': Image3D$get_length,
         'Array.get': Array$get,
         'Buffer32.get': Buffer32$get,
@@ -9438,7 +9388,6 @@ module.exports = (function() {
         'Pos32.add': Pos32$add,
         'Mons.vox_mid': Mons$vox_mid,
         'Mons.draw.image': Mons$draw$image,
-        'Mons.f_exe': Mons$f_exe,
         'List.for': List$for,
         'List.imap': List$imap,
         'List.indices.u32': List$indices$u32,
@@ -9549,27 +9498,33 @@ module.exports = (function() {
         'Mons.Char_black.97': Mons$Char_black$97,
         'Mons.Char_black.98': Mons$Char_black$98,
         'Mons.Char_black.99': Mons$Char_black$99,
-        'Mons.Char_black.normal': Mons$Char_black$normal,
-        'Mons.Char_black.earth': Mons$Char_black$earth,
-        'Mons.Char_black.fire': Mons$Char_black$fire,
-        'Mons.Char_black.water': Mons$Char_black$water,
-        'Mons.Char_black.grass': Mons$Char_black$grass,
-        'Mons.Char_black.electric': Mons$Char_black$electric,
-        'Mons.Char_black.psychic': Mons$Char_black$psychic,
-        'Mons.Char_black.ice': Mons$Char_black$ice,
-        'Mons.Char_black.light': Mons$Char_black$light,
-        'Mons.Char_black.darkness': Mons$Char_black$darkness,
-        'Mons.Char_black.s_72': Mons$Char_black$s_72,
-        'Mons.Char_black.s_80': Mons$Char_black$s_80,
-        'Mons.Char_black.burn': Mons$Char_black$burn,
-        'Mons.Char_black.hit': Mons$Char_black$hit,
-        'Mons.Char_black.invulnerable': Mons$Char_black$invulnerable,
-        'Mons.Char_black.minimize': Mons$Char_black$minimize,
-        'Mons.Char_black.poison': Mons$Char_black$poison,
-        'Mons.Char_black.protect': Mons$Char_black$protect,
-        'Mons.Char_black.sleep': Mons$Char_black$sleep,
         'Mons.Char_black.font': Mons$Char_black$font,
         'Mons.draw.list_selector': Mons$draw$list_selector,
+        'List.reverse.go': List$reverse$go,
+        'List.reverse': List$reverse,
+        'Mons.Object.get_dir': Mons$Object$get_dir,
+        'Mons.draw.global_xy': Mons$draw$global_xy,
+        'Nat.mod.go': Nat$mod$go,
+        'Nat.mod': Nat$mod,
+        'Either': Either,
+        'Either.left': Either$left,
+        'Either.right': Either$right,
+        'Nat.sub_rem': Nat$sub_rem,
+        'Nat.div_mod.go': Nat$div_mod$go,
+        'Nat.div_mod': Nat$div_mod,
+        'Nat.div': Nat$div,
+        'Mons.draw.cur_sprite': Mons$draw$cur_sprite,
+        'Mons.Sprite.new': Mons$Sprite$new,
+        'Mons.game_sprites': Mons$game_sprites,
+        'Mons.scr_mid': Mons$scr_mid,
+        'Cmp.as_lte': Cmp$as_lte,
+        'Word.lte': Word$lte,
+        'U32.lte': U32$lte,
+        'Mons.Map.build_sprites': Mons$Map$build_sprites,
+        'Mons.draw.text_screen_bg': Mons$draw$text_screen_bg,
+        'Mons.draw.msg_screen.line_0': Mons$draw$msg_screen$line_0,
+        'Mons.draw.msg_screen.line_1': Mons$draw$msg_screen$line_1,
+        'Mons.draw.mage_talk': Mons$draw$mage_talk,
         'Mons.Char_white.100': Mons$Char_white$100,
         'Mons.Char_white.101': Mons$Char_white$101,
         'Mons.Char_white.102': Mons$Char_white$102,
@@ -9666,31 +9621,6 @@ module.exports = (function() {
         'Mons.Char_white.98': Mons$Char_white$98,
         'Mons.Char_white.99': Mons$Char_white$99,
         'Mons.Char_white.font': Mons$Char_white$font,
-        'List.reverse.go': List$reverse$go,
-        'List.reverse': List$reverse,
-        'Mons.Object.get_dir': Mons$Object$get_dir,
-        'Mons.draw.global_xy': Mons$draw$global_xy,
-        'Nat.mod.go': Nat$mod$go,
-        'Nat.mod': Nat$mod,
-        'Either': Either,
-        'Either.left': Either$left,
-        'Either.right': Either$right,
-        'Nat.sub_rem': Nat$sub_rem,
-        'Nat.div_mod.go': Nat$div_mod$go,
-        'Nat.div_mod': Nat$div_mod,
-        'Nat.div': Nat$div,
-        'Mons.draw.cur_sprite': Mons$draw$cur_sprite,
-        'Mons.Sprite.new': Mons$Sprite$new,
-        'Mons.game_sprites': Mons$game_sprites,
-        'Mons.scr_mid': Mons$scr_mid,
-        'Cmp.as_lte': Cmp$as_lte,
-        'Word.lte': Word$lte,
-        'U32.lte': U32$lte,
-        'Mons.Map.build_sprites': Mons$Map$build_sprites,
-        'Mons.draw.text_screen_bg': Mons$draw$text_screen_bg,
-        'Mons.draw.msg_screen.line_0': Mons$draw$msg_screen$line_0,
-        'Mons.draw.msg_screen.line_1': Mons$draw$msg_screen$line_1,
-        'Mons.draw.mage_talk': Mons$draw$mage_talk,
         'Mons.Object.get_images': Mons$Object$get_images,
         'Mons.Kind.get_name': Mons$Kind$get_name,
         'Mons.Object.get_names': Mons$Object$get_names,
@@ -9789,13 +9719,15 @@ module.exports = (function() {
         'Mons.Input.code_to_char_map': Mons$Input$code_to_char_map,
         'Mons.Input.deserialize': Mons$Input$deserialize,
         'Mons.Game.set_stt': Mons$Game$set_stt,
+        'Mons.Screen.game': Mons$Screen$game,
+        'Mons.Turn.new': Mons$Turn$new,
+        'Mons.Turn.empty': Mons$Turn$empty,
         'Mons.Kind.mons.HERO': Mons$Kind$mons$HERO,
         'Mons.Type.fire': Mons$Type$fire,
         'Mons.Object.hero': Mons$Object$hero,
         'Mons.Object.ended_battle': Mons$Object$ended_battle,
         'Mons.Screen.introduction': Mons$Screen$introduction,
         'Mons.Screen.credits': Mons$Screen$credits,
-        'Mons.Screen.welcome': Mons$Screen$welcome,
         'List.elem': List$elem,
         'Char.eql': Char$eql,
         'Mons.is_walk_cmd': Mons$is_walk_cmd,

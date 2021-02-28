@@ -111,25 +111,25 @@ Mons.Char_black.font: Mons.font
   let map = Mons.font.set_img(97s, Mons.Char_black.97, map) // add a
   let map = Mons.font.set_img(98s, Mons.Char_black.98, map) // add b
   let map = Mons.font.set_img(99s, Mons.Char_black.99, map) // add c
-  let map = Mons.font.set_img(9312s, Mons.Char_black.normal, map) // add ①
-  let map = Mons.font.set_img(9313s, Mons.Char_black.earth, map) // add ②
-  let map = Mons.font.set_img(9314s, Mons.Char_black.fire, map) // add ③
-  let map = Mons.font.set_img(9315s, Mons.Char_black.water, map) // add ④
-  let map = Mons.font.set_img(9316s, Mons.Char_black.grass, map) // add ⑤
-  let map = Mons.font.set_img(9317s, Mons.Char_black.electric, map) // add ⑥
-  let map = Mons.font.set_img(9318s, Mons.Char_black.psychic, map) // add ⑦
-  let map = Mons.font.set_img(9319s, Mons.Char_black.ice, map) // add ⑧
-  let map = Mons.font.set_img(9320s, Mons.Char_black.light, map) // add ⑨
-  let map = Mons.font.set_img(9321s, Mons.Char_black.darkness, map) // add ⑩
-  let map = Mons.font.set_img(405s, Mons.Char_black.s_72, map) // add ƕ, small H
-  let map = Mons.font.set_img(421s, Mons.Char_black.s_80, map) // add ƥ, small P
+  // let map = Mons.font.set_img(9312s, Mons.Char_black.normal, map) // add ①
+  // let map = Mons.font.set_img(9313s, Mons.Char_black.earth, map) // add ②
+  // let map = Mons.font.set_img(9314s, Mons.Char_black.fire, map) // add ③
+  // let map = Mons.font.set_img(9315s, Mons.Char_black.water, map) // add ④
+  // let map = Mons.font.set_img(9316s, Mons.Char_black.grass, map) // add ⑤
+  // let map = Mons.font.set_img(9317s, Mons.Char_black.electric, map) // add ⑥
+  // let map = Mons.font.set_img(9318s, Mons.Char_black.psychic, map) // add ⑦
+  // let map = Mons.font.set_img(9319s, Mons.Char_black.ice, map) // add ⑧
+  // let map = Mons.font.set_img(9320s, Mons.Char_black.light, map) // add ⑨
+  // let map = Mons.font.set_img(9321s, Mons.Char_black.darkness, map) // add ⑩
+  // let map = Mons.font.set_img(405s, Mons.Char_black.s_72, map) // add ƕ, small H
+  // let map = Mons.font.set_img(421s, Mons.Char_black.s_80, map) // add ƥ, small P
 
-  let map = Mons.font.set_img(9398s, Mons.Char_black.burn, map) // add Ⓐ
-  let map = Mons.font.set_img(9399s, Mons.Char_black.hit, map) // add Ⓑ
-  let map = Mons.font.set_img(9400s, Mons.Char_black.invulnerable, map) // add Ⓒ
-  let map = Mons.font.set_img(9401s, Mons.Char_black.minimize, map) // add Ⓓ
-  let map = Mons.font.set_img(9402s, Mons.Char_black.poison, map) // add Ⓔ
-  let map = Mons.font.set_img(9403s, Mons.Char_black.protect, map) // add Ⓕ
-  let map = Mons.font.set_img(9404s, Mons.Char_black.sleep, map) // add Ⓖ
+  // let map = Mons.font.set_img(9398s, Mons.Char_black.burn, map) // add Ⓐ
+  // let map = Mons.font.set_img(9399s, Mons.Char_black.hit, map) // add Ⓑ
+  // let map = Mons.font.set_img(9400s, Mons.Char_black.invulnerable, map) // add Ⓒ
+  // let map = Mons.font.set_img(9401s, Mons.Char_black.minimize, map) // add Ⓓ
+  // let map = Mons.font.set_img(9402s, Mons.Char_black.poison, map) // add Ⓔ
+  // let map = Mons.font.set_img(9403s, Mons.Char_black.protect, map) // add Ⓕ
+  // let map = Mons.font.set_img(9404s, Mons.Char_black.sleep, map) // add Ⓖ
 
   map

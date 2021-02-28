@@ -2053,8 +2053,8 @@ Mons.start(online: Bool): App(Mons.Game)
       game_pos, 
       game_map, 
       // Mons.Screen.introduction(0u),
-      // Mons.Screen.welcome(0u),
-      Mons.Screen.game('.', Mons.Turn.empty),
+      Mons.Screen.welcome(0u),
+      // Mons.Screen.game('.', Mons.Turn.empty),
       0u // tik
     )
     // let game = Mons.Game.add_animated_obj(game)

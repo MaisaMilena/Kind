@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "main": "index.js",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "app": "node build; npm run build"
   },
   "author": "",
   "license": "MIT",

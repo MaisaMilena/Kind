@@ -12,4 +12,4 @@ function go(dir) {
   }
 }
 
-go(".");
+go("./Mons");

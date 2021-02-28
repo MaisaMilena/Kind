@@ -22,9 +22,8 @@ Mons.draw(game: Mons.Game, scr: Image3D): Image3D
     
     case game.stt as stt{
       welcome:
-      let logo = Mons.Assets.char.boy_d_0 //Image3D.empty // TODO: add real image
+      let logo = Mons.Assets.screen.logo //Image3D.empty // TODO: add real image
       let scr = Mons.draw.image(logo, Pos32.new(120u,80u,0u), scr)
-      let scr = Mons.draw.image(Mons.f_exe, Pos32.new(80u,80u,0u), scr)
       let scr = Mons.draw.list(["Play", "Credits"], Bool.false, 25u, Mons.Char_black.font, Pos32.new(40u,50u,0u), scr)
       let scr = Mons.draw.list_selector(stt.idx, Bool.false, 25u, Mons.Char_black.font, Pos32.new(30u,50u,0u), scr)
       let scr = Mons.draw.text("[c] Select", Mons.Char_black.font, Pos32.new(40u,128u,0u), scr)
@@ -35,9 +34,9 @@ Mons.draw(game: Mons.Game, scr: Image3D): Image3D
       let scr = Mons.draw.image(battle_normal_bg_full, Pos32.new(120u,80u,0u), scr)
       let artists0 = ["Alexandre Avila", "Caio Carvalho", "Johnny Azevedo", "Lucca Tuelher", "Maisa Milena", "Marcio Maia", "Marcos Medeiros"]
       let artists1 = ["Marcos Motta", "Nathan Danjo", "Paulo Reis", "Pedro Taka", "Rodrigo Rodrigues", "Victor Maia", "Yuri Carvalho"]
-      let scr = Mons.draw.text("[z] Back", Mons.Char_white.font, Pos32.new(20u,15u,0u), scr)
-      let scr = Mons.draw.list(artists0, Bool.false, 15u, Mons.Char_white.font, Pos32.new(20u,20u,0u), scr)
-      let scr = Mons.draw.list(artists1, Bool.false, 15u, Mons.Char_white.font, Pos32.new(125u,20u,0u), scr)
+      let scr = Mons.draw.text("[z] Back", Mons.Char_black.font, Pos32.new(20u,15u,0u), scr)
+      let scr = Mons.draw.list(artists0, Bool.false, 15u, Mons.Char_black.font, Pos32.new(20u,20u,0u), scr)
+      let scr = Mons.draw.list(artists1, Bool.false, 15u, Mons.Char_black.font, Pos32.new(125u,20u,0u), scr)
       scr
 
       introduction:
