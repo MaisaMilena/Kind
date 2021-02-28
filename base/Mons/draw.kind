@@ -22,10 +22,9 @@ Mons.draw(game: Mons.Game, scr: Image3D): Image3D
     
     case game.stt as stt{
       welcome:
-      let logo = Mons.Assets.char.boy_d_0//Image3D.empty // TODO: add real image
+      let logo = Mons.Assets.char.boy_d_0 //Image3D.empty // TODO: add real image
       let scr = Mons.draw.image(logo, Pos32.new(120u,80u,0u), scr)
       let scr = Mons.draw.image(Mons.f_exe, Pos32.new(80u,80u,0u), scr)
-      // use skp = Debug.log<_>("> To run from battle press [R]")
       let scr = Mons.draw.list(["Play", "Credits"], Bool.false, 25u, Mons.Char_black.font, Pos32.new(40u,50u,0u), scr)
       let scr = Mons.draw.list_selector(stt.idx, Bool.false, 25u, Mons.Char_black.font, Pos32.new(30u,50u,0u), scr)
       let scr = Mons.draw.text("[c] Select", Mons.Char_black.font, Pos32.new(40u,128u,0u), scr)
